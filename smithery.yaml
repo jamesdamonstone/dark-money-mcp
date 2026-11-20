@@ -1,0 +1,6 @@
+# Smithery configuration for the Dark Money MCP server (stdio, zero dependencies).
+startCommand:
+  type: stdio
+  configSchema: {}
+  commandFunction: |-
+    (config) => ({ command: 'node', args: ['index.js'], env: {} })
