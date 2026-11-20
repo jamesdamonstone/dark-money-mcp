@@ -305,8 +305,17 @@
    "member_earns": "7%",
    "note": "per sale",
    "link_template": "https://www.awin1.com/cread.php?awinmid=126215&awinaffid=3161005&clickref={SID}"
+  },
+  {
+   "id": "awin-skoot",
+   "name": "Skoot",
+   "network": "AWIN",
+   "commission": "20%",
+   "member_earns": "14%",
+   "note": "per sale",
+   "link_template": "https://www.awin1.com/cread.php?awinmid=127911&awinaffid=3161005&clickref={SID}"
   }
  ],
- "count": 34,
+ "count": 35,
  "updated_at": "2026-11-20"
 }
