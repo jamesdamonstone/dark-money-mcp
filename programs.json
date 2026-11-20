@@ -215,8 +215,26 @@
    "member_earns": "4.9%",
    "note": "per sale",
    "link_template": "https://www.anrdoezrs.net/click-101932824-10570212?sid={SID}"
+  },
+  {
+   "id": "awin-maddie-grace-jewelry",
+   "name": "Maddie Grace Jewelry",
+   "network": "AWIN",
+   "commission": "5%",
+   "member_earns": "3.5%",
+   "note": "per sale",
+   "link_template": "https://www.awin1.com/cread.php?awinmid=119021&awinaffid=3161005&clickref={SID}"
+  },
+  {
+   "id": "awin-lifevibe",
+   "name": "LifeVibe",
+   "network": "AWIN",
+   "commission": "5%",
+   "member_earns": "3.5%",
+   "note": "per sale",
+   "link_template": "https://www.awin1.com/cread.php?awinmid=124072&awinaffid=3161005&clickref={SID}"
   }
  ],
- "count": 24,
+ "count": 26,
  "updated_at": "2026-11-20"
 }
