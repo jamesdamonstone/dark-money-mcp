@@ -42,8 +42,17 @@ const TOOLS = [
   {
     name: "list_programs",
     description:
-      "List the stores where Dark Money members currently earn cashback, with the commission and the member's 70% share at each. Call this to see where a purchase can earn cashback before routing it.",
-    inputSchema: { type: "object", properties: {} },
+      "List the stores where Dark Money members currently earn cashback, with the commission and the member's 70% share at each. Call this to see where a purchase can earn cashback before routing it. Dark Money is location-specific: pass the member's country to list only the stores usable there.",
+    inputSchema: {
+      type: "object",
+      properties: {
+        country: {
+          type: "string",
+          description:
+            "Optional ISO country code for the member's location, e.g. 'US', 'GB', 'RO'. When given, only programs a member in that country can use are listed (global programs always match).",
+        },
+      },
+    },
   },
   {
     name: "get_cashback_link",
@@ -96,11 +105,24 @@ function textResult(text, isError = false) {
 
 async function callTool(name, args = {}) {
   if (name === "list_programs") {
-    const lines = PROGRAMS.map(
-      (p) => `- ${p.name} (${p.network}): commission ${p.commission} ${p.note} — member earns ${p.member_earns}`
-    );
+    const country = (args.country || "").toString().trim().toUpperCase();
+    const serves = (p) =>
+      !country ||
+      (p.regions || []).includes(country) ||
+      (p.regions || []).includes("GLOBAL");
+    const list = PROGRAMS.filter(serves);
+    const lines = list.map((p) => {
+      const tag =
+        p.regions && !(p.regions.length === 1 && p.regions[0] === "US")
+          ? ` · serves ${p.regions.join(", ")}`
+          : "";
+      return `- ${p.name} (${p.network}): commission ${p.commission} ${p.note} — member earns ${p.member_earns}${tag}`;
+    });
+    const scope = country
+      ? `${list.length} live programs usable in ${country} (${PROGRAMS.length} worldwide)`
+      : `${PROGRAMS.length} live programs worldwide`;
     return textResult(
-      `Dark Money — ${PROGRAMS.length} live programs. Members earn 70% of each commission; payouts at $20.\n\n${lines.join("\n")}\n\nUse get_cashback_link with the member's ID to route a purchase. The human always completes checkout.`
+      `Dark Money — ${scope}. Members earn 70% of each commission; payouts at $20.\n\n${lines.join("\n")}\n\nUse get_cashback_link with the member's ID to route a purchase. The human always completes checkout.`
     );
   }
 
