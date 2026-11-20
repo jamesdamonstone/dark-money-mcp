@@ -206,8 +206,17 @@
    "member_earns": "7%",
    "note": "per sale",
    "link_template": "https://www.awin1.com/cread.php?awinmid=121696&awinaffid=3161005&clickref={SID}"
+  },
+  {
+   "id": "cj-winebasket",
+   "name": "Winebasket",
+   "network": "CJ",
+   "commission": "7%",
+   "member_earns": "4.9%",
+   "note": "per sale",
+   "link_template": "https://www.anrdoezrs.net/click-101932824-10570212?sid={SID}"
   }
  ],
- "count": 23,
+ "count": 24,
  "updated_at": "2026-11-20"
 }
