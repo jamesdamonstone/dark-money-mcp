@@ -188,8 +188,26 @@
    "member_earns": "14%",
    "note": "per sale",
    "link_template": "https://www.awin1.com/cread.php?awinmid=125186&awinaffid=3161005&clickref={SID}"
+  },
+  {
+   "id": "awin-miles-jewellery",
+   "name": "Miles Jewellery",
+   "network": "AWIN",
+   "commission": "10%",
+   "member_earns": "7%",
+   "note": "per sale",
+   "link_template": "https://www.awin1.com/cread.php?awinmid=129311&awinaffid=3161005&clickref={SID}"
+  },
+  {
+   "id": "awin-coziwow",
+   "name": "Coziwow",
+   "network": "AWIN",
+   "commission": "10%",
+   "member_earns": "7%",
+   "note": "per sale",
+   "link_template": "https://www.awin1.com/cread.php?awinmid=121696&awinaffid=3161005&clickref={SID}"
   }
  ],
- "count": 21,
+ "count": 23,
  "updated_at": "2026-11-20"
 }
