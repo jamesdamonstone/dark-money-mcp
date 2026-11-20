@@ -233,8 +233,80 @@
    "member_earns": "3.5%",
    "note": "per sale",
    "link_template": "https://www.awin1.com/cread.php?awinmid=124072&awinaffid=3161005&clickref={SID}"
+  },
+  {
+   "id": "awin-snow",
+   "name": "SNOW",
+   "network": "AWIN",
+   "commission": "10%",
+   "member_earns": "7%",
+   "note": "per sale",
+   "link_template": "https://www.awin1.com/cread.php?awinmid=75744&awinaffid=3161005&clickref={SID}"
+  },
+  {
+   "id": "awin-curex",
+   "name": "Curex",
+   "network": "AWIN",
+   "commission": "$45 flat",
+   "member_earns": "$31.50",
+   "note": "per sale",
+   "link_template": "https://www.awin1.com/cread.php?awinmid=121970&awinaffid=3161005&clickref={SID}"
+  },
+  {
+   "id": "awin-clarityx",
+   "name": "ClarityX",
+   "network": "AWIN",
+   "commission": "$45 flat",
+   "member_earns": "$31.50",
+   "note": "per sale",
+   "link_template": "https://www.awin1.com/cread.php?awinmid=128363&awinaffid=3161005&clickref={SID}"
+  },
+  {
+   "id": "awin-signos",
+   "name": "Signos",
+   "network": "AWIN",
+   "commission": "$120 flat",
+   "member_earns": "$84",
+   "note": "per sale",
+   "link_template": "https://www.awin1.com/cread.php?awinmid=96449&awinaffid=3161005&clickref={SID}"
+  },
+  {
+   "id": "awin-shedrx",
+   "name": "ShedRX",
+   "network": "AWIN",
+   "commission": "$120 flat",
+   "member_earns": "$84",
+   "note": "per sale",
+   "link_template": "https://www.awin1.com/cread.php?awinmid=80963&awinaffid=3161005&clickref={SID}"
+  },
+  {
+   "id": "awin-measured",
+   "name": "Measured",
+   "network": "AWIN",
+   "commission": "10%",
+   "member_earns": "7%",
+   "note": "per sale",
+   "link_template": "https://www.awin1.com/cread.php?awinmid=126727&awinaffid=3161005&clickref={SID}"
+  },
+  {
+   "id": "awin-neuro-gum",
+   "name": "Neuro Gum",
+   "network": "AWIN",
+   "commission": "$18 flat",
+   "member_earns": "$12.60",
+   "note": "per sale",
+   "link_template": "https://www.awin1.com/cread.php?awinmid=131252&awinaffid=3161005&clickref={SID}"
+  },
+  {
+   "id": "awin-wallshoppe",
+   "name": "Wallshoppe",
+   "network": "AWIN",
+   "commission": "10%",
+   "member_earns": "7%",
+   "note": "per sale",
+   "link_template": "https://www.awin1.com/cread.php?awinmid=126215&awinaffid=3161005&clickref={SID}"
   }
  ],
- "count": 26,
+ "count": 34,
  "updated_at": "2026-11-20"
 }
