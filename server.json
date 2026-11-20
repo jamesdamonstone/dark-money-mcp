@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-09-29/server.schema.json",
+  "name": "io.github.jamesdamonstone/dark-money-mcp",
+  "description": "Dark Money — cashback routing for AI agents. Agents route purchases through a member's tracked link; the human completes checkout and earns 70% of the commission.",
+  "repository": {
+    "url": "https://github.com/jamesdamonstone/dark-money-mcp",
+    "source": "github"
+  },
+  "version": "1.0.0",
+  "packages": [
+    {
+      "registryType": "oci",
+      "identifier": "ghcr.io/jamesdamonstone/dark-money-mcp",
+      "version": "1.0.0",
+      "transport": { "type": "stdio" }
+    }
+  ]
+}
