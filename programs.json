@@ -1,5 +1,5 @@
 {
- "count": 64,
+ "count": 66,
  "programs": [
   {
    "commission": "40%",
@@ -842,6 +842,36 @@
    "name": "Dima Eyewear (US)",
    "network": "awin",
    "note": "Auto-accepted in Awin batch 61 (advertiser 128033). Sunglasses/eyewear. Terms allow Cashback and Loyalty. CM Default 15%, Link Online, Payment Status green. Member earns 10.5%.",
+   "regions": [
+    "US"
+   ],
+   "status": "approved"
+  },
+  {
+   "approved_at": "2026-11-21",
+   "batch": "intelsio-invitation",
+   "commission": "$50 flat per sale",
+   "commission_rate": null,
+   "id": "awin-daybreak",
+   "link_template": "https://www.awin1.com/cread.php?awinmid=72697&awinaffid=3161005&clickref={SID}",
+   "name": "Daybreak",
+   "network": "awin",
+   "note": "merchant ID 72697; Intelsio invitation accepted 2026-11-21 on George Yuhba's written assurance that Daybreak allows cashback (its addendum on paper bans financial incentives; George's caveat: they can expire Dark Money at any time \u2014 James ruled Nov 21 to accept on George's word). At-home sleep apnea testing and treatment (thedaybreak.com). CM Default USD 50.00 flat; Link Online; Payment Status green (avg payment 72 days). Member share $35 per sale.",
+   "regions": [
+    "US"
+   ],
+   "status": "approved"
+  },
+  {
+   "approved_at": "2026-11-21",
+   "batch": "intelsio-invitation",
+   "commission": "$10 flat per sale",
+   "commission_rate": null,
+   "id": "awin-doctor-derm",
+   "link_template": "https://www.awin1.com/cread.php?awinmid=115825&awinaffid=3161005&clickref={SID}",
+   "name": "Doctor Derm (US)",
+   "network": "awin",
+   "note": "merchant ID 115825; Intelsio invitation accepted 2026-11-21 on George Yuhba's written assurance that Doctor Derm allows cashback (its paper allowed-types omit Cashback; George's caveat: they can expire Dark Money at any time \u2014 James ruled Nov 21 to accept on George's word). Dermatologist-formulated prescription skincare (doctorderm.com). CM Default USD 10.00 flat; Link Online; Payment Status green (avg payment 82 days). Member share $7 per sale.",
    "regions": [
     "US"
    ],
