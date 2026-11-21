@@ -785,8 +785,23 @@
    "regions": [
     "US"
    ]
+  },
+  {
+   "approved_at": "2026-11-21",
+   "batch": "batch-32",
+   "commission": "25% per sale",
+   "commission_rate": 0.25,
+   "id": "awin-menomojo",
+   "link_template": "https://www.awin1.com/cread.php?awinmid=130949&awinaffid=3161005&clickref={SID}",
+   "name": "MenoMojo by Fresh Wisdom",
+   "network": "awin",
+   "note": "Auto-accepted in Awin batch 32 (advertiser 130949). Women's health supplements (menopause support). Terms allow Cashback and Loyalty. CM Default 25%, Link Online, Exposure Level 1. Member earns 17.5%.",
+   "status": "approved",
+   "regions": [
+    "US"
+   ]
   }
  ],
- "count": 60,
+ "count": 61,
  "updated_at": "2026-11-21"
 }
