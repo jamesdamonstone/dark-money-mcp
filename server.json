@@ -6,11 +6,11 @@
     "url": "https://github.com/jamesdamonstone/dark-money-mcp",
     "source": "github"
   },
-  "version": "1.0.0",
+  "version": "1.1.0",
   "packages": [
     {
       "registryType": "oci",
-      "identifier": "ghcr.io/jamesdamonstone/dark-money-mcp:1.0.0",
+      "identifier": "ghcr.io/jamesdamonstone/dark-money-mcp:1.1.0",
       "transport": {
         "type": "stdio"
       }
