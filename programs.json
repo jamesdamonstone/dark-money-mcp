@@ -650,8 +650,23 @@
    "regions": [
     "US"
    ]
+  },
+  {
+   "id": "awin-myphysicianplan",
+   "name": "MyPhysicianPlan",
+   "network": "awin",
+   "commission": "10% per sale",
+   "commission_rate": 0.1,
+   "link_template": "https://www.awin1.com/cread.php?awinmid=114664&awinaffid=3161005&clickref={SID}",
+   "status": "approved",
+   "approved_at": "2026-11-21",
+   "batch": "batch-23",
+   "note": "Auto-accepted in Awin batch 23 (advertiser 114664). Health plans / insurance for US residents, students, travelers. Single 10% rate in Commission Manager, applied to health plan fees at enrollment only. Exposure Level 1, link Online, 28-day average payment, 30-day cookie. Terms allow cashback (batch 23 check). Member earns 7%.",
+   "regions": [
+    "US"
+   ]
   }
  ],
- "count": 51,
+ "count": 52,
  "updated_at": "2026-11-20"
 }
