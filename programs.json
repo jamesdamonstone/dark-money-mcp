@@ -740,8 +740,23 @@
    "regions": [
     "US"
    ]
+  },
+  {
+   "id": "awin-santean-bracelets",
+   "name": "Santean Bracelets",
+   "network": "awin",
+   "commission": "15% per sale",
+   "commission_rate": 0.15,
+   "link_template": "https://www.awin1.com/cread.php?awinmid=116359&awinaffid=3161005&clickref={SID}",
+   "status": "approved",
+   "approved_at": "2026-11-21",
+   "batch": "batch-28",
+   "note": "Auto-accepted in Awin batch 28 (advertiser 116359). Luxury crystal bracelets — handcrafted, ethically sourced crystals (amethyst, rose quartz, citrine). Single 15% Default rate in Commission Manager (profile notes mention a Black Friday 25% for Nov 20-30, but the CM timeline shows a flat 15% — CM governs). Exposure Level 1, link Online. Terms allow cashback (batch 28 check). Member earns 10.5%.",
+   "regions": [
+    "US"
+   ]
   }
  ],
- "count": 57,
- "updated_at": "2026-11-20"
+ "count": 58,
+ "updated_at": "2026-11-21"
 }
