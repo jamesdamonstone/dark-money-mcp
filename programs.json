@@ -751,7 +751,7 @@
    "status": "approved",
    "approved_at": "2026-11-21",
    "batch": "batch-28",
-   "note": "Auto-accepted in Awin batch 28 (advertiser 116359). Luxury crystal bracelets — handcrafted, ethically sourced crystals (amethyst, rose quartz, citrine). Single 15% Default rate in Commission Manager (profile notes mention a Black Friday 25% for Nov 20-30, but the CM timeline shows a flat 15% — CM governs). Exposure Level 1, link Online. Terms allow cashback (batch 28 check). Member earns 10.5%.",
+   "note": "Auto-accepted in Awin batch 28 (advertiser 116359). Luxury crystal bracelets \u2014 handcrafted, ethically sourced crystals (amethyst, rose quartz, citrine). Single 15% Default rate in Commission Manager (profile notes mention a Black Friday 25% for Nov 20-30, but the CM timeline shows a flat 15% \u2014 CM governs). Exposure Level 1, link Online. Terms allow cashback (batch 28 check). Member earns 10.5%.",
    "regions": [
     "US"
    ]
@@ -766,12 +766,27 @@
    "status": "approved",
    "approved_at": "2026-11-21",
    "batch": "batch-29",
-   "note": "Auto-accepted in Awin batch 29 (advertiser 131333). High-protein, low-carb pasta made in Italy (spaghetti, linguine, fettuccine, penne, rotini, gnocchi) — keto / macro-tracking niche. Terms rate cashback explicitly: 'Discount / coupon and cashback sites — New customer 10%, Returning customer 5%'. Commission Manager groups are Discount/Coupon 10%, Editorial/Publishers 15%, Default 20% — no cashback group exists and Dark Money's group assignment isn't visible in the UI, so listed at 10% as the claim-accurate cashback rate. Exposure Level 1, link Online. Terms allow cashback (batch 29 check). Member earns 7%.",
+   "note": "Auto-accepted in Awin batch 29 (advertiser 131333). High-protein, low-carb pasta made in Italy (spaghetti, linguine, fettuccine, penne, rotini, gnocchi) \u2014 keto / macro-tracking niche. Terms rate cashback explicitly: 'Discount / coupon and cashback sites \u2014 New customer 10%, Returning customer 5%'. Commission Manager groups are Discount/Coupon 10%, Editorial/Publishers 15%, Default 20% \u2014 no cashback group exists and Dark Money's group assignment isn't visible in the UI, so listed at 10% as the claim-accurate cashback rate. Exposure Level 1, link Online. Terms allow cashback (batch 29 check). Member earns 7%.",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "approved_at": "2026-11-21",
+   "batch": "batch-24",
+   "commission": "5%-6% per sale",
+   "commission_rate": null,
+   "id": "awin-surebeauty",
+   "link_template": "https://www.awin1.com/cread.php?awinmid=95819&awinaffid=3161005&clickref={SID}",
+   "name": "Surebeauty",
+   "network": "awin",
+   "note": "Joined Nov 21, 2026 (applied batch 24 at CM 10%; CM Default cut to 5%-6% the same morning before first listing). Terms explicitly allow Cashback and Loyalty partner types. Link Online, payment green / risk none. Member earns 3.5%-4.2%.",
+   "status": "approved",
    "regions": [
     "US"
    ]
   }
  ],
- "count": 59,
+ "count": 60,
  "updated_at": "2026-11-21"
 }
