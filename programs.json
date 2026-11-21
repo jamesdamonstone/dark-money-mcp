@@ -1,5 +1,5 @@
 {
- "count": 63,
+ "count": 64,
  "programs": [
   {
    "commission": "40%",
@@ -827,6 +827,21 @@
    "name": "Era of Nature",
    "network": "awin",
    "note": "Auto-accepted in Awin batch 58 (advertiser 111540). Eco-friendly skincare. Terms allow Cashback and Loyalty. CM Default 20%, Link Online, Exposure Level 1. Member earns 14%.",
+   "regions": [
+    "US"
+   ],
+   "status": "approved"
+  },
+  {
+   "approved_at": "2026-11-21",
+   "batch": "batch-61",
+   "commission": "15% per sale",
+   "commission_rate": 0.15,
+   "id": "awin-dima-eyewear",
+   "link_template": "https://www.awin1.com/cread.php?awinmid=128033&awinaffid=3161005&clickref={SID}",
+   "name": "Dima Eyewear (US)",
+   "network": "awin",
+   "note": "Auto-accepted in Awin batch 61 (advertiser 128033). Sunglasses/eyewear. Terms allow Cashback and Loyalty. CM Default 15%, Link Online, Payment Status green. Member earns 10.5%.",
    "regions": [
     "US"
    ],
