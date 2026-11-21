@@ -800,8 +800,23 @@
    "regions": [
     "US"
    ]
+  },
+  {
+   "approved_at": "2026-11-21",
+   "batch": "batch-36",
+   "commission": "8%-10% per sale",
+   "commission_rate": null,
+   "id": "awin-mamaraya",
+   "link_template": "https://www.awin1.com/cread.php?awinmid=126891&awinaffid=3161005&clickref={SID}",
+   "name": "mamaraya (US)",
+   "network": "awin",
+   "note": "Auto-accepted in Awin batch 36 (advertiser 126891). Handmade baby/family gifts. Terms allow Cashback and Loyalty. CM New 10% / Returning 8%, Link Online, Exposure Level 1. Member earns 5.6%-7%.",
+   "status": "approved",
+   "regions": [
+    "US"
+   ]
   }
  ],
- "count": 61,
+ "count": 62,
  "updated_at": "2026-11-21"
 }
