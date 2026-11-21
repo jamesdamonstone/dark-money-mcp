@@ -1,4 +1,5 @@
 # Dark Money MCP Server
+[![MCP Badge](https://lobehub.com/badge/mcp/jamesdamonstone-dark-money-mcp)](https://lobehub.com/mcp/jamesdamonstone-dark-money-mcp)
 
 Cashback routing for AI agents, over the Model Context Protocol.
 
