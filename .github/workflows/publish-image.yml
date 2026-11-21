@@ -20,5 +20,5 @@ jobs:
         with:
           context: .
           push: true
-          tags: ghcr.io/jamesdamonstone/dark-money-mcp:1.0.0,ghcr.io/jamesdamonstone/dark-money-mcp:latest
+          tags: ghcr.io/jamesdamonstone/dark-money-mcp:1.1.0,ghcr.io/jamesdamonstone/dark-money-mcp:latest
           labels: io.modelcontextprotocol.server.name=io.github.jamesdamonstone/dark-money-mcp
