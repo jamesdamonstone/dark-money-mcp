@@ -431,8 +431,44 @@
       "regions": [
         "US"
       ]
+    },
+    {
+      "id": "awin-veronika-vilim",
+      "name": "Veronika Vilim",
+      "network": "Awin",
+      "commission": "15%",
+      "member_earns": "10.5%",
+      "note": "per sale",
+      "link_template": "https://www.awin1.com/cread.php?awinmid=127617&awinaffid=3161005&clickref={SID}",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "id": "awin-lunzo-ro",
+      "name": "Lunzo RO",
+      "network": "Awin",
+      "commission": "10%",
+      "member_earns": "7%",
+      "note": "per sale",
+      "link_template": "https://www.awin1.com/cread.php?awinmid=40456&awinaffid=3161005&clickref={SID}",
+      "regions": [
+        "RO"
+      ]
+    },
+    {
+      "id": "awin-lunzo-sk",
+      "name": "Lunzo SK",
+      "network": "Awin",
+      "commission": "13.8%",
+      "member_earns": "9.66%",
+      "note": "per sale",
+      "link_template": "https://www.awin1.com/cread.php?awinmid=54353&awinaffid=3161005&clickref={SID}",
+      "regions": [
+        "SK"
+      ]
     }
   ],
-  "count": 36,
+  "count": 39,
   "updated_at": "2026-11-20"
 }
