@@ -755,8 +755,23 @@
    "regions": [
     "US"
    ]
+  },
+  {
+   "id": "awin-petes-pasta",
+   "name": "Pete's Pasta",
+   "network": "awin",
+   "commission": "10% per sale",
+   "commission_rate": 0.1,
+   "link_template": "https://www.awin1.com/cread.php?awinmid=131333&awinaffid=3161005&clickref={SID}",
+   "status": "approved",
+   "approved_at": "2026-11-21",
+   "batch": "batch-29",
+   "note": "Auto-accepted in Awin batch 29 (advertiser 131333). High-protein, low-carb pasta made in Italy (spaghetti, linguine, fettuccine, penne, rotini, gnocchi) — keto / macro-tracking niche. Terms rate cashback explicitly: 'Discount / coupon and cashback sites — New customer 10%, Returning customer 5%'. Commission Manager groups are Discount/Coupon 10%, Editorial/Publishers 15%, Default 20% — no cashback group exists and Dark Money's group assignment isn't visible in the UI, so listed at 10% as the claim-accurate cashback rate. Exposure Level 1, link Online. Terms allow cashback (batch 29 check). Member earns 7%.",
+   "regions": [
+    "US"
+   ]
   }
  ],
- "count": 58,
+ "count": 59,
  "updated_at": "2026-11-21"
 }
