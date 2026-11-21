@@ -545,8 +545,38 @@
    "regions": [
     "US"
    ]
+  },
+  {
+   "id": "awin-techpals",
+   "name": "TechPals",
+   "network": "awin",
+   "commission": "20% per sale",
+   "commission_rate": 0.2,
+   "link_template": "https://www.awin1.com/cread.php?awinmid=116661&awinaffid=3161005&clickref={SID}",
+   "status": "approved",
+   "approved_at": "2026-11-20",
+   "batch": "batch-16",
+   "note": "Auto-accepted in Awin batch 16 (advertiser 116661). Rate 20% confirmed in Commission Manager (Default; current window Nov 6 2026 - Jan 5 2027). Exposure Level 1, link Online. Member earns 14%.",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "id": "awin-welcome-home",
+   "name": "Welcome Home",
+   "network": "awin",
+   "commission": "10% per sale",
+   "commission_rate": 0.1,
+   "link_template": "https://www.awin1.com/cread.php?awinmid=80923&awinaffid=3161005&clickref={SID}",
+   "status": "approved",
+   "approved_at": "2026-11-20",
+   "batch": "batch-16",
+   "note": "Auto-accepted in Awin batch 16 (advertiser 80923). Rate 10% confirmed in Commission Manager (Default; current window Nov 6 2026 - Jan 5 2027). Link Online; no Exposure Level line on profile (payment status shown, 71-day average payment time). Member earns 7%.",
+   "regions": [
+    "US"
+   ]
   }
  ],
- "count": 44,
+ "count": 46,
  "updated_at": "2026-11-20"
 }
