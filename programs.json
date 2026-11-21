@@ -1,474 +1,489 @@
 {
-  "programs": [
-    {
-      "id": "cj-nordvpn",
-      "name": "NordVPN",
-      "network": "CJ",
-      "commission": "40%",
-      "member_earns": "28%",
-      "note": "on new subscriptions",
-      "link_template": "https://www.kqzyfj.com/click-101932824-12814518?sid={SID}",
-      "regions": [
-        "GLOBAL"
-      ]
-    },
-    {
-      "id": "cj-zchocolat",
-      "name": "zChocolat.com",
-      "network": "CJ",
-      "commission": "20%",
-      "member_earns": "14%",
-      "note": "per confirmed sale",
-      "link_template": "https://www.tkqlhce.com/click-101932824-15734455?sid={SID}",
-      "regions": [
-        "US"
-      ]
-    },
-    {
-      "id": "cj-trinity-road-websites",
-      "name": "Trinity Road Websites",
-      "network": "CJ",
-      "commission": "8%",
-      "member_earns": "5.6%",
-      "note": "per sale",
-      "link_template": "https://www.tkqlhce.com/click-101932824-10753028?sid={SID}",
-      "regions": [
-        "US"
-      ]
-    },
-    {
-      "id": "cj-signs-banners-magnets",
-      "name": "Signs Banners and Magnets On The Cheap",
-      "network": "CJ",
-      "commission": "3%",
-      "member_earns": "2.1%",
-      "note": "per sale",
-      "link_template": "https://www.anrdoezrs.net/click-101932824-15734513?sid={SID}",
-      "regions": [
-        "US"
-      ]
-    },
-    {
-      "id": "cj-rexing",
-      "name": "Rexing",
-      "network": "CJ",
-      "commission": "15%",
-      "member_earns": "10.5%",
-      "note": "per sale",
-      "link_template": "https://www.kqzyfj.com/click-101932824-15735466?sid={SID}",
-      "regions": [
-        "US"
-      ]
-    },
-    {
-      "id": "cj-pure-genius-protein",
-      "name": "Pure Genius Protein",
-      "network": "CJ",
-      "commission": "6%",
-      "member_earns": "4.2%",
-      "note": "per sale",
-      "link_template": "https://www.jdoqocy.com/click-101932824-17323502?sid={SID}",
-      "regions": [
-        "US"
-      ]
-    },
-    {
-      "id": "cj-groundluxe",
-      "name": "GroundLuxe",
-      "network": "CJ",
-      "commission": "10%",
-      "member_earns": "7%",
-      "note": "per sale",
-      "link_template": "https://www.dpbolvw.net/click-101932824-17180505?sid={SID}",
-      "regions": [
-        "US"
-      ]
-    },
-    {
-      "id": "cj-greatergood",
-      "name": "GreaterGood",
-      "network": "CJ",
-      "commission": "2%",
-      "member_earns": "1.4%",
-      "note": "per sale",
-      "link_template": "https://www.dpbolvw.net/click-101932824-15734341?sid={SID}",
-      "regions": [
-        "US"
-      ]
-    },
-    {
-      "id": "cj-shelving",
-      "name": "Shelving Inc.",
-      "network": "CJ",
-      "commission": "7%",
-      "member_earns": "4.9%",
-      "note": "per sale",
-      "link_template": "https://www.jdoqocy.com/click-101932824-15735511?sid={SID}",
-      "regions": [
-        "US"
-      ]
-    },
-    {
-      "id": "cj-dhgate",
-      "name": "DHGate",
-      "network": "CJ",
-      "commission": "2%-50% (tiered by category)",
-      "member_earns": "1.4%-35%",
-      "note": "tiered by category",
-      "link_template": "https://www.tkqlhce.com/click-101932824-15734304?sid={SID}",
-      "regions": [
-        "US"
-      ]
-    },
-    {
-      "id": "cj-nicks-boots",
-      "name": "Nick's Handmade Boots",
-      "network": "CJ",
-      "commission": "6%",
-      "member_earns": "4.2%",
-      "note": "per sale",
-      "link_template": "https://www.tkqlhce.com/click-101932824-15001326?sid={SID}",
-      "regions": [
-        "US"
-      ]
-    },
-    {
-      "id": "cj-phone-com",
-      "name": "Phone.com",
-      "network": "CJ",
-      "commission": "$75 flat per signup",
-      "member_earns": "$52.50",
-      "note": "flat per signup",
-      "link_template": "https://www.kqzyfj.com/click-101932824-12664811?sid={SID}",
-      "regions": [
-        "US"
-      ]
-    },
-    {
-      "id": "cj-dream-pairs",
-      "name": "Dream Pairs / Bruno Marc",
-      "network": "CJ",
-      "commission": "8%-10%",
-      "member_earns": "5.6%-7%",
-      "note": "per sale",
-      "link_template": "https://www.jdoqocy.com/click-101932824-15369315?sid={SID}",
-      "regions": [
-        "US"
-      ]
-    },
-    {
-      "id": "awin-gate-operators-direct",
-      "name": "Gate Operators Direct",
-      "network": "AWIN",
-      "commission": "10%",
-      "member_earns": "7%",
-      "note": "per sale",
-      "link_template": "https://www.awin1.com/cread.php?awinmid=114678&awinaffid=3161005&clickref={SID}",
-      "regions": [
-        "US"
-      ]
-    },
-    {
-      "id": "cj-ovago",
-      "name": "Ovago",
-      "network": "CJ",
-      "commission": "Flat per booking: $8 domestic / $13 international / $20 business class; with insurance $13 domestic / $23 international",
-      "member_earns": "$5.60-$16.10",
-      "note": "flat per booking",
-      "link_template": "https://www.tkqlhce.com/click-101932824-15796145?sid={SID}",
-      "regions": [
-        "GLOBAL"
-      ]
-    },
-    {
-      "id": "cj-xplora-uk",
-      "name": "XPLORA UK",
-      "network": "CJ",
-      "commission": "5%",
-      "member_earns": "3.5%",
-      "note": "per sale",
-      "link_template": "https://www.dpbolvw.net/click-101932824-15766774?sid={SID}",
-      "regions": [
-        "GB"
-      ]
-    },
-    {
-      "id": "cj-xplora",
-      "name": "Xplora",
-      "network": "CJ",
-      "commission": "10%",
-      "member_earns": "7%",
-      "note": "per sale",
-      "link_template": "https://www.kqzyfj.com/click-101932824-15736994?sid={SID}",
-      "regions": [
-        "US"
-      ]
-    },
-    {
-      "id": "awin-alzoo",
-      "name": "ALZOO",
-      "network": "AWIN",
-      "commission": "15%",
-      "member_earns": "10.5%",
-      "note": "per sale",
-      "link_template": "https://www.awin1.com/cread.php?awinmid=124906&awinaffid=3161005&clickref={SID}",
-      "regions": [
-        "US"
-      ]
-    },
-    {
-      "id": "awin-your-phone-here",
-      "name": "Your Phone here",
-      "network": "AWIN",
-      "commission": "$15 flat per sale",
-      "member_earns": "$10.50",
-      "note": "flat per sale",
-      "link_template": "https://www.awin1.com/cread.php?awinmid=129023&awinaffid=3161005&clickref={SID}",
-      "regions": [
-        "US"
-      ]
-    },
-    {
-      "id": "awin-buena-cura-us",
-      "name": "Buena Cura US",
-      "network": "AWIN",
-      "commission": "20%",
-      "member_earns": "14%",
-      "note": "per sale",
-      "link_template": "https://www.awin1.com/cread.php?awinmid=106723&awinaffid=3161005&clickref={SID}",
-      "regions": [
-        "US"
-      ]
-    },
-    {
-      "id": "awin-shed-supplements",
-      "name": "Shed Supplements",
-      "network": "AWIN",
-      "commission": "20%",
-      "member_earns": "14%",
-      "note": "per sale",
-      "link_template": "https://www.awin1.com/cread.php?awinmid=125186&awinaffid=3161005&clickref={SID}",
-      "regions": [
-        "US"
-      ]
-    },
-    {
-      "id": "awin-miles-jewellery",
-      "name": "Miles Jewellery",
-      "network": "AWIN",
-      "commission": "10%",
-      "member_earns": "7%",
-      "note": "per sale",
-      "link_template": "https://www.awin1.com/cread.php?awinmid=129311&awinaffid=3161005&clickref={SID}",
-      "regions": [
-        "US"
-      ]
-    },
-    {
-      "id": "awin-coziwow",
-      "name": "Coziwow",
-      "network": "AWIN",
-      "commission": "10%",
-      "member_earns": "7%",
-      "note": "per sale",
-      "link_template": "https://www.awin1.com/cread.php?awinmid=121696&awinaffid=3161005&clickref={SID}",
-      "regions": [
-        "US"
-      ]
-    },
-    {
-      "id": "cj-winebasket",
-      "name": "Winebasket",
-      "network": "CJ",
-      "commission": "7%",
-      "member_earns": "4.9%",
-      "note": "per sale",
-      "link_template": "https://www.anrdoezrs.net/click-101932824-10570212?sid={SID}",
-      "regions": [
-        "US"
-      ]
-    },
-    {
-      "id": "awin-maddie-grace-jewelry",
-      "name": "Maddie Grace Jewelry",
-      "network": "AWIN",
-      "commission": "5%",
-      "member_earns": "3.5%",
-      "note": "per sale",
-      "link_template": "https://www.awin1.com/cread.php?awinmid=119021&awinaffid=3161005&clickref={SID}",
-      "regions": [
-        "US"
-      ]
-    },
-    {
-      "id": "awin-lifevibe",
-      "name": "LifeVibe",
-      "network": "AWIN",
-      "commission": "5%",
-      "member_earns": "3.5%",
-      "note": "per sale",
-      "link_template": "https://www.awin1.com/cread.php?awinmid=124072&awinaffid=3161005&clickref={SID}",
-      "regions": [
-        "US"
-      ]
-    },
-    {
-      "id": "awin-snow",
-      "name": "SNOW",
-      "network": "AWIN",
-      "commission": "10%",
-      "member_earns": "7%",
-      "note": "per sale",
-      "link_template": "https://www.awin1.com/cread.php?awinmid=75744&awinaffid=3161005&clickref={SID}",
-      "regions": [
-        "US"
-      ]
-    },
-    {
-      "id": "awin-curex",
-      "name": "Curex",
-      "network": "AWIN",
-      "commission": "$45 flat",
-      "member_earns": "$31.50",
-      "note": "per sale",
-      "link_template": "https://www.awin1.com/cread.php?awinmid=121970&awinaffid=3161005&clickref={SID}",
-      "regions": [
-        "US"
-      ]
-    },
-    {
-      "id": "awin-clarityx",
-      "name": "ClarityX",
-      "network": "AWIN",
-      "commission": "$45 flat",
-      "member_earns": "$31.50",
-      "note": "per sale",
-      "link_template": "https://www.awin1.com/cread.php?awinmid=128363&awinaffid=3161005&clickref={SID}",
-      "regions": [
-        "US"
-      ]
-    },
-    {
-      "id": "awin-signos",
-      "name": "Signos",
-      "network": "AWIN",
-      "commission": "$120 flat",
-      "member_earns": "$84",
-      "note": "per sale",
-      "link_template": "https://www.awin1.com/cread.php?awinmid=96449&awinaffid=3161005&clickref={SID}",
-      "regions": [
-        "US"
-      ]
-    },
-    {
-      "id": "awin-shedrx",
-      "name": "ShedRX",
-      "network": "AWIN",
-      "commission": "$120 flat",
-      "member_earns": "$84",
-      "note": "per sale",
-      "link_template": "https://www.awin1.com/cread.php?awinmid=80963&awinaffid=3161005&clickref={SID}",
-      "regions": [
-        "US"
-      ]
-    },
-    {
-      "id": "awin-measured",
-      "name": "Measured",
-      "network": "AWIN",
-      "commission": "10%",
-      "member_earns": "7%",
-      "note": "per sale",
-      "link_template": "https://www.awin1.com/cread.php?awinmid=126727&awinaffid=3161005&clickref={SID}",
-      "regions": [
-        "US"
-      ]
-    },
-    {
-      "id": "awin-neuro-gum",
-      "name": "Neuro Gum",
-      "network": "AWIN",
-      "commission": "$18 flat",
-      "member_earns": "$12.60",
-      "note": "per sale",
-      "link_template": "https://www.awin1.com/cread.php?awinmid=131252&awinaffid=3161005&clickref={SID}",
-      "regions": [
-        "US"
-      ]
-    },
-    {
-      "id": "awin-wallshoppe",
-      "name": "Wallshoppe",
-      "network": "AWIN",
-      "commission": "10%",
-      "member_earns": "7%",
-      "note": "per sale",
-      "link_template": "https://www.awin1.com/cread.php?awinmid=126215&awinaffid=3161005&clickref={SID}",
-      "regions": [
-        "US"
-      ]
-    },
-    {
-      "id": "awin-skoot",
-      "name": "Skoot",
-      "network": "AWIN",
-      "commission": "20%",
-      "member_earns": "14%",
-      "note": "per sale",
-      "link_template": "https://www.awin1.com/cread.php?awinmid=127911&awinaffid=3161005&clickref={SID}",
-      "regions": [
-        "US"
-      ]
-    },
-    {
-      "id": "awin-edify",
-      "name": "Edify",
-      "network": "AWIN",
-      "commission": "10%",
-      "member_earns": "7%",
-      "note": "per sale",
-      "link_template": "https://www.awin1.com/cread.php?awinmid=119513&awinaffid=3161005&clickref={SID}",
-      "regions": [
-        "US"
-      ]
-    },
-    {
-      "id": "awin-veronika-vilim",
-      "name": "Veronika Vilim",
-      "network": "Awin",
-      "commission": "15%",
-      "member_earns": "10.5%",
-      "note": "per sale",
-      "link_template": "https://www.awin1.com/cread.php?awinmid=127617&awinaffid=3161005&clickref={SID}",
-      "regions": [
-        "US"
-      ]
-    },
-    {
-      "id": "awin-lunzo-ro",
-      "name": "Lunzo RO",
-      "network": "Awin",
-      "commission": "10%",
-      "member_earns": "7%",
-      "note": "per sale",
-      "link_template": "https://www.awin1.com/cread.php?awinmid=40456&awinaffid=3161005&clickref={SID}",
-      "regions": [
-        "RO"
-      ]
-    },
-    {
-      "id": "awin-lunzo-sk",
-      "name": "Lunzo SK",
-      "network": "Awin",
-      "commission": "13.8%",
-      "member_earns": "9.66%",
-      "note": "per sale",
-      "link_template": "https://www.awin1.com/cread.php?awinmid=54353&awinaffid=3161005&clickref={SID}",
-      "regions": [
-        "SK"
-      ]
-    }
-  ],
-  "count": 39,
-  "updated_at": "2026-11-20"
+ "programs": [
+  {
+   "id": "cj-nordvpn",
+   "name": "NordVPN",
+   "network": "CJ",
+   "commission": "40%",
+   "member_earns": "28%",
+   "note": "on new subscriptions",
+   "link_template": "https://www.kqzyfj.com/click-101932824-12814518?sid={SID}",
+   "regions": [
+    "GLOBAL"
+   ]
+  },
+  {
+   "id": "cj-zchocolat",
+   "name": "zChocolat.com",
+   "network": "CJ",
+   "commission": "20%",
+   "member_earns": "14%",
+   "note": "per confirmed sale",
+   "link_template": "https://www.tkqlhce.com/click-101932824-15734455?sid={SID}",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "id": "cj-trinity-road-websites",
+   "name": "Trinity Road Websites",
+   "network": "CJ",
+   "commission": "8%",
+   "member_earns": "5.6%",
+   "note": "per sale",
+   "link_template": "https://www.tkqlhce.com/click-101932824-10753028?sid={SID}",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "id": "cj-signs-banners-magnets",
+   "name": "Signs Banners and Magnets On The Cheap",
+   "network": "CJ",
+   "commission": "3%",
+   "member_earns": "2.1%",
+   "note": "per sale",
+   "link_template": "https://www.anrdoezrs.net/click-101932824-15734513?sid={SID}",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "id": "cj-rexing",
+   "name": "Rexing",
+   "network": "CJ",
+   "commission": "15%",
+   "member_earns": "10.5%",
+   "note": "per sale",
+   "link_template": "https://www.kqzyfj.com/click-101932824-15735466?sid={SID}",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "id": "cj-pure-genius-protein",
+   "name": "Pure Genius Protein",
+   "network": "CJ",
+   "commission": "6%",
+   "member_earns": "4.2%",
+   "note": "per sale",
+   "link_template": "https://www.jdoqocy.com/click-101932824-17323502?sid={SID}",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "id": "cj-groundluxe",
+   "name": "GroundLuxe",
+   "network": "CJ",
+   "commission": "10%",
+   "member_earns": "7%",
+   "note": "per sale",
+   "link_template": "https://www.dpbolvw.net/click-101932824-17180505?sid={SID}",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "id": "cj-greatergood",
+   "name": "GreaterGood",
+   "network": "CJ",
+   "commission": "2%",
+   "member_earns": "1.4%",
+   "note": "per sale",
+   "link_template": "https://www.dpbolvw.net/click-101932824-15734341?sid={SID}",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "id": "cj-shelving",
+   "name": "Shelving Inc.",
+   "network": "CJ",
+   "commission": "7%",
+   "member_earns": "4.9%",
+   "note": "per sale",
+   "link_template": "https://www.jdoqocy.com/click-101932824-15735511?sid={SID}",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "id": "cj-dhgate",
+   "name": "DHGate",
+   "network": "CJ",
+   "commission": "2%-50% (tiered by category)",
+   "member_earns": "1.4%-35%",
+   "note": "tiered by category",
+   "link_template": "https://www.tkqlhce.com/click-101932824-15734304?sid={SID}",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "id": "cj-nicks-boots",
+   "name": "Nick's Handmade Boots",
+   "network": "CJ",
+   "commission": "6%",
+   "member_earns": "4.2%",
+   "note": "per sale",
+   "link_template": "https://www.tkqlhce.com/click-101932824-15001326?sid={SID}",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "id": "cj-phone-com",
+   "name": "Phone.com",
+   "network": "CJ",
+   "commission": "$75 flat per signup",
+   "member_earns": "$52.50",
+   "note": "flat per signup",
+   "link_template": "https://www.kqzyfj.com/click-101932824-12664811?sid={SID}",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "id": "cj-dream-pairs",
+   "name": "Dream Pairs / Bruno Marc",
+   "network": "CJ",
+   "commission": "8%-10%",
+   "member_earns": "5.6%-7%",
+   "note": "per sale",
+   "link_template": "https://www.jdoqocy.com/click-101932824-15369315?sid={SID}",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "id": "awin-gate-operators-direct",
+   "name": "Gate Operators Direct",
+   "network": "AWIN",
+   "commission": "10%",
+   "member_earns": "7%",
+   "note": "per sale",
+   "link_template": "https://www.awin1.com/cread.php?awinmid=114678&awinaffid=3161005&clickref={SID}",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "id": "cj-ovago",
+   "name": "Ovago",
+   "network": "CJ",
+   "commission": "Flat per booking: $8 domestic / $13 international / $20 business class; with insurance $13 domestic / $23 international",
+   "member_earns": "$5.60-$16.10",
+   "note": "flat per booking",
+   "link_template": "https://www.tkqlhce.com/click-101932824-15796145?sid={SID}",
+   "regions": [
+    "GLOBAL"
+   ]
+  },
+  {
+   "id": "cj-xplora-uk",
+   "name": "XPLORA UK",
+   "network": "CJ",
+   "commission": "5%",
+   "member_earns": "3.5%",
+   "note": "per sale",
+   "link_template": "https://www.dpbolvw.net/click-101932824-15766774?sid={SID}",
+   "regions": [
+    "GB"
+   ]
+  },
+  {
+   "id": "cj-xplora",
+   "name": "Xplora",
+   "network": "CJ",
+   "commission": "10%",
+   "member_earns": "7%",
+   "note": "per sale",
+   "link_template": "https://www.kqzyfj.com/click-101932824-15736994?sid={SID}",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "id": "awin-alzoo",
+   "name": "ALZOO",
+   "network": "AWIN",
+   "commission": "15%",
+   "member_earns": "10.5%",
+   "note": "per sale",
+   "link_template": "https://www.awin1.com/cread.php?awinmid=124906&awinaffid=3161005&clickref={SID}",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "id": "awin-your-phone-here",
+   "name": "Your Phone here",
+   "network": "AWIN",
+   "commission": "$15 flat per sale",
+   "member_earns": "$10.50",
+   "note": "flat per sale",
+   "link_template": "https://www.awin1.com/cread.php?awinmid=129023&awinaffid=3161005&clickref={SID}",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "id": "awin-buena-cura-us",
+   "name": "Buena Cura US",
+   "network": "AWIN",
+   "commission": "20%",
+   "member_earns": "14%",
+   "note": "per sale",
+   "link_template": "https://www.awin1.com/cread.php?awinmid=106723&awinaffid=3161005&clickref={SID}",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "id": "awin-shed-supplements",
+   "name": "Shed Supplements",
+   "network": "AWIN",
+   "commission": "20%",
+   "member_earns": "14%",
+   "note": "per sale",
+   "link_template": "https://www.awin1.com/cread.php?awinmid=125186&awinaffid=3161005&clickref={SID}",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "id": "awin-miles-jewellery",
+   "name": "Miles Jewellery",
+   "network": "AWIN",
+   "commission": "10%",
+   "member_earns": "7%",
+   "note": "per sale",
+   "link_template": "https://www.awin1.com/cread.php?awinmid=129311&awinaffid=3161005&clickref={SID}",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "id": "awin-coziwow",
+   "name": "Coziwow",
+   "network": "AWIN",
+   "commission": "10%",
+   "member_earns": "7%",
+   "note": "per sale",
+   "link_template": "https://www.awin1.com/cread.php?awinmid=121696&awinaffid=3161005&clickref={SID}",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "id": "cj-winebasket",
+   "name": "Winebasket",
+   "network": "CJ",
+   "commission": "7%",
+   "member_earns": "4.9%",
+   "note": "per sale",
+   "link_template": "https://www.anrdoezrs.net/click-101932824-10570212?sid={SID}",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "id": "awin-maddie-grace-jewelry",
+   "name": "Maddie Grace Jewelry",
+   "network": "AWIN",
+   "commission": "5%",
+   "member_earns": "3.5%",
+   "note": "per sale",
+   "link_template": "https://www.awin1.com/cread.php?awinmid=119021&awinaffid=3161005&clickref={SID}",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "id": "awin-lifevibe",
+   "name": "LifeVibe",
+   "network": "AWIN",
+   "commission": "5%",
+   "member_earns": "3.5%",
+   "note": "per sale",
+   "link_template": "https://www.awin1.com/cread.php?awinmid=124072&awinaffid=3161005&clickref={SID}",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "id": "awin-snow",
+   "name": "SNOW",
+   "network": "AWIN",
+   "commission": "10%",
+   "member_earns": "7%",
+   "note": "per sale",
+   "link_template": "https://www.awin1.com/cread.php?awinmid=75744&awinaffid=3161005&clickref={SID}",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "id": "awin-curex",
+   "name": "Curex",
+   "network": "AWIN",
+   "commission": "$45 flat",
+   "member_earns": "$31.50",
+   "note": "per sale",
+   "link_template": "https://www.awin1.com/cread.php?awinmid=121970&awinaffid=3161005&clickref={SID}",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "id": "awin-clarityx",
+   "name": "ClarityX",
+   "network": "AWIN",
+   "commission": "$45 flat",
+   "member_earns": "$31.50",
+   "note": "per sale",
+   "link_template": "https://www.awin1.com/cread.php?awinmid=128363&awinaffid=3161005&clickref={SID}",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "id": "awin-signos",
+   "name": "Signos",
+   "network": "AWIN",
+   "commission": "$120 flat",
+   "member_earns": "$84",
+   "note": "per sale",
+   "link_template": "https://www.awin1.com/cread.php?awinmid=96449&awinaffid=3161005&clickref={SID}",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "id": "awin-shedrx",
+   "name": "ShedRX",
+   "network": "AWIN",
+   "commission": "$120 flat",
+   "member_earns": "$84",
+   "note": "per sale",
+   "link_template": "https://www.awin1.com/cread.php?awinmid=80963&awinaffid=3161005&clickref={SID}",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "id": "awin-measured",
+   "name": "Measured",
+   "network": "AWIN",
+   "commission": "10%",
+   "member_earns": "7%",
+   "note": "per sale",
+   "link_template": "https://www.awin1.com/cread.php?awinmid=126727&awinaffid=3161005&clickref={SID}",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "id": "awin-neuro-gum",
+   "name": "Neuro Gum",
+   "network": "AWIN",
+   "commission": "$18 flat",
+   "member_earns": "$12.60",
+   "note": "per sale",
+   "link_template": "https://www.awin1.com/cread.php?awinmid=131252&awinaffid=3161005&clickref={SID}",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "id": "awin-wallshoppe",
+   "name": "Wallshoppe",
+   "network": "AWIN",
+   "commission": "10%",
+   "member_earns": "7%",
+   "note": "per sale",
+   "link_template": "https://www.awin1.com/cread.php?awinmid=126215&awinaffid=3161005&clickref={SID}",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "id": "awin-skoot",
+   "name": "Skoot",
+   "network": "AWIN",
+   "commission": "20%",
+   "member_earns": "14%",
+   "note": "per sale",
+   "link_template": "https://www.awin1.com/cread.php?awinmid=127911&awinaffid=3161005&clickref={SID}",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "id": "awin-edify",
+   "name": "Edify",
+   "network": "AWIN",
+   "commission": "10%",
+   "member_earns": "7%",
+   "note": "per sale",
+   "link_template": "https://www.awin1.com/cread.php?awinmid=119513&awinaffid=3161005&clickref={SID}",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "id": "awin-veronika-vilim",
+   "name": "Veronika Vilim",
+   "network": "Awin",
+   "commission": "15%",
+   "member_earns": "10.5%",
+   "note": "per sale",
+   "link_template": "https://www.awin1.com/cread.php?awinmid=127617&awinaffid=3161005&clickref={SID}",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "id": "awin-lunzo-ro",
+   "name": "Lunzo RO",
+   "network": "Awin",
+   "commission": "10%",
+   "member_earns": "7%",
+   "note": "per sale",
+   "link_template": "https://www.awin1.com/cread.php?awinmid=40456&awinaffid=3161005&clickref={SID}",
+   "regions": [
+    "RO"
+   ]
+  },
+  {
+   "id": "awin-lunzo-sk",
+   "name": "Lunzo SK",
+   "network": "Awin",
+   "commission": "13.8%",
+   "member_earns": "9.66%",
+   "note": "per sale",
+   "link_template": "https://www.awin1.com/cread.php?awinmid=54353&awinaffid=3161005&clickref={SID}",
+   "regions": [
+    "SK"
+   ]
+  },
+  {
+   "id": "awin-thierry-lasry",
+   "name": "Thierry Lasry",
+   "network": "awin",
+   "commission": "12.8% per sale",
+   "commission_rate": 0.128,
+   "link_template": "https://www.awin1.com/cread.php?awinmid=125702&awinaffid=3161005&clickref={SID}",
+   "status": "approved",
+   "approved_at": "2026-11-20",
+   "batch": "batch-12",
+   "note": "Auto-accepted in Awin batch 12 (advertiser 125702). Luxury eyewear. Rate 12.8% from Commission Manager (profile states none; was 20% until Nov 10, 2026). Exposure Level 1, link Online. Member earns 8.96%.",
+   "regions": [
+    "US"
+   ]
+  }
+ ],
+ "count": 40,
+ "updated_at": "2026-11-20"
 }
