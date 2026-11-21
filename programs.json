@@ -710,8 +710,23 @@
    "regions": [
     "US"
    ]
+  },
+  {
+   "id": "awin-regina-andrew-detroit",
+   "name": "Regina Andrew Detroit",
+   "network": "awin",
+   "commission": "5% per sale",
+   "commission_rate": 0.05,
+   "link_template": "https://www.awin1.com/cread.php?awinmid=127767&awinaffid=3161005&clickref={SID}",
+   "status": "approved",
+   "approved_at": "2026-11-21",
+   "batch": "batch-25",
+   "note": "Auto-accepted in Awin batch 25 (advertiser 127767). Luxury lighting, furniture and decor, $900+ AOV. Single Default 5% in Commission Manager. Exposure Level 2, link Online, 57-day average payment, 30-day cookie. Terms allow cashback (batch 25 check). Member earns 3.5%.",
+   "regions": [
+    "US"
+   ]
   }
  ],
- "count": 55,
+ "count": 56,
  "updated_at": "2026-11-20"
 }
