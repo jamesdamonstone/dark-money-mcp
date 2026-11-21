@@ -635,8 +635,23 @@
    "regions": [
     "US"
    ]
+  },
+  {
+   "id": "awin-thrivous",
+   "name": "Thrivous",
+   "network": "awin",
+   "commission": "30% per sale",
+   "commission_rate": 0.3,
+   "link_template": "https://www.awin1.com/cread.php?awinmid=92029&awinaffid=3161005&clickref={SID}",
+   "status": "approved",
+   "approved_at": "2026-11-20",
+   "batch": "batch-20",
+   "note": "Auto-accepted in Awin batch 20 (advertiser 92029). Nootropics / longevity supplements, US only. Commission Manager Default 30% verified (single group), link Online, payment green, 49-day average payment, 30-day cookie, no Exposure Level shown on profile. Terms allow cashback (batch 20 check). Member earns 21%.",
+   "regions": [
+    "US"
+   ]
   }
  ],
- "count": 50,
+ "count": 51,
  "updated_at": "2026-11-20"
 }
