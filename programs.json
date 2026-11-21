@@ -575,8 +575,38 @@
    "regions": [
     "US"
    ]
+  },
+  {
+   "id": "awin-east-x-east",
+   "name": "EAST x EAST",
+   "network": "awin",
+   "commission": "16% per sale",
+   "commission_rate": 0.16,
+   "link_template": "https://www.awin1.com/cread.php?awinmid=78056&awinaffid=3161005&clickref={SID}",
+   "status": "approved",
+   "approved_at": "2026-11-20",
+   "batch": "batch-17",
+   "note": "Auto-accepted in Awin batch 17 (advertiser 78056). Rate 16% confirmed in Commission Manager (Default) \u2014 the advertiser welcome email said 20%; Commission Manager governs. Exposure Level 1, link Online, 36-day average payment. Member earns 11.2%.",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "id": "awin-cocinare",
+   "name": "Cocinare Limited",
+   "network": "awin",
+   "commission": "10% per sale",
+   "commission_rate": 0.1,
+   "link_template": "https://www.awin1.com/cread.php?awinmid=44135&awinaffid=3161005&clickref={SID}",
+   "status": "approved",
+   "approved_at": "2026-11-20",
+   "batch": "batch-17",
+   "note": "Auto-accepted in Awin batch 17 (advertiser 44135). Kitchenware. Profile explicitly prices cashback sites at 10%; Commission Manager Default confirms 10%. Link Online, payment status Green (accelerated payments noted), 74-day average payment. Member earns 7%.",
+   "regions": [
+    "US"
+   ]
   }
  ],
- "count": 46,
+ "count": 48,
  "updated_at": "2026-11-20"
 }
