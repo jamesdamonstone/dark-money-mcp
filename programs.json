@@ -605,8 +605,23 @@
    "regions": [
     "US"
    ]
+  },
+  {
+   "id": "awin-uuna-tek",
+   "name": "UUNA TEK",
+   "network": "awin",
+   "commission": "10% per sale",
+   "commission_rate": 0.1,
+   "link_template": "https://www.awin1.com/cread.php?awinmid=117801&awinaffid=3161005&clickref={SID}",
+   "status": "approved",
+   "approved_at": "2026-11-20",
+   "batch": "batch-18",
+   "note": "Auto-accepted in Awin batch 18 (advertiser 117801). Pen plotters / automatic writing machines. Commission Manager Default is 10% (the profile's 5-20% by-category text is descriptive, not the CM table; CM governs). Exposure Level 1, link Online, 25-day average payment, 30-day cookie. Member earns 7%.",
+   "regions": [
+    "US"
+   ]
   }
  ],
- "count": 48,
+ "count": 49,
  "updated_at": "2026-11-20"
 }
