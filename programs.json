@@ -725,8 +725,23 @@
    "regions": [
     "US"
    ]
+  },
+  {
+   "id": "awin-monvane",
+   "name": "monvane",
+   "network": "awin",
+   "commission": "10% per sale",
+   "commission_rate": 0.1,
+   "link_template": "https://www.awin1.com/cread.php?awinmid=127859&awinaffid=3161005&clickref={SID}",
+   "status": "approved",
+   "approved_at": "2026-11-21",
+   "batch": "batch-26",
+   "note": "Auto-accepted in Awin batch 26 (advertiser 127859). Modular sofas, $500+ AOV. Single 10% rate in Commission Manager. Exposure Level 1, link Online, 76-day average payment (profile), 30-day cookie. Terms allow cashback (batch 26 check). Member earns 7%.",
+   "regions": [
+    "US"
+   ]
   }
  ],
- "count": 56,
+ "count": 57,
  "updated_at": "2026-11-20"
 }
