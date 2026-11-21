@@ -482,8 +482,56 @@
    "regions": [
     "US"
    ]
+  },
+  {
+   "id": "awin-isla-capricho",
+   "name": "Isla Capricho Homeware",
+   "network": "awin",
+   "commission": "15% per sale",
+   "commission_rate": 0.15,
+   "link_template": "https://www.awin1.com/cread.php?awinmid=111826&awinaffid=3161005&clickref={SID}",
+   "status": "approved",
+   "approved_at": "2026-11-20",
+   "batch": "batch-13",
+   "note": "Auto-accepted in Awin batch 13 (advertiser 111826). Homeware. Rate 15% confirmed in Commission Manager (Default group). Exposure Level 1, link Online. Terms: cashback sites use approved promotions only. Member earns 10.5%.",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "id": "awin-kurtens",
+   "name": "Kurtens",
+   "network": "awin",
+   "commission": "5% per sale (cashback rate)",
+   "commission_rate": 0.05,
+   "link_template": "https://www.awin1.com/cread.php?awinmid=129075&awinaffid=3161005&clickref={SID}",
+   "status": "approved",
+   "approved_at": "2026-11-20",
+   "batch": "batch-13",
+   "note": "Auto-accepted in Awin batch 13 (advertiser 129075). Curtains/blinds. Terms price cashback at 5-15%; Commission Manager shows Dark Money on the Default group at 5% (the 10% PROGRAMME10 group is content/social/video) \u2014 5% governs for cashback. Exposure Level 1, link Online. Member earns 3.5%.",
+   "regions": [
+    "FR",
+    "DE",
+    "GB",
+    "US"
+   ]
+  },
+  {
+   "id": "cj-unice",
+   "name": "UNice",
+   "network": "cj",
+   "commission": "5% per sale",
+   "commission_rate": 0.05,
+   "link_template": "https://www.anrdoezrs.net/click-101932824-15509155?sid={SID}",
+   "status": "approved",
+   "approved_at": "2026-11-20",
+   "batch": "batch-32",
+   "note": "Applied CJ batch 32; approved Nov 20, 2026 (welcome email 18:45 CST; Relationship History active from 20-Nov-2026). Advertiser CID 5824323, link ID 15509155. Hair/wigs. Benefits text mentions 5-8% range; the applied/listed rate is 5%. Member earns 3.5%.",
+   "regions": [
+    "US"
+   ]
   }
  ],
- "count": 40,
+ "count": 43,
  "updated_at": "2026-11-20"
 }
