@@ -530,8 +530,23 @@
    "regions": [
     "US"
    ]
+  },
+  {
+   "id": "awin-blooh",
+   "name": "Blooh",
+   "network": "awin",
+   "commission": "15% per sale",
+   "commission_rate": 0.15,
+   "link_template": "https://www.awin1.com/cread.php?awinmid=119683&awinaffid=3161005&clickref={SID}",
+   "status": "approved",
+   "approved_at": "2026-11-20",
+   "batch": "batch-14",
+   "note": "Auto-accepted in Awin batch 14 (advertiser 119683); advertiser welcome email arrived 19:27 CST the same evening. Sustainable jewelry & handbags, artisan-made in Kenya. Rate 15% confirmed in Commission Manager (Default). Exposure Level 1, link Online, 30-day cookie. Member earns 10.5%.",
+   "regions": [
+    "US"
+   ]
   }
  ],
- "count": 43,
+ "count": 44,
  "updated_at": "2026-11-20"
 }
