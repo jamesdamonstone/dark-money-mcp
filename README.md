@@ -11,7 +11,7 @@ Live site: https://jamesdamonstone.github.io/dark-money/
 
 | Tool | What it does |
 |---|---|
-| `list_programs` | The 20 live stores and what members earn at each (NordVPN 40%, Ovago flights $8–$23 flat, ALZOO 15%, and more) |
+| `list_programs` | The 60 live stores and what members earn at each (NordVPN 40%, Ovago flights $8–$23 flat, ALZOO 15%, and more) |
 | `get_cashback_link` | A member's tracked link for one store — route the purchase through it so the cashback credits to the right member |
 | `join_dark_money` | Create a free membership (only with the human's explicit consent and agreement to the Terms) |
 
