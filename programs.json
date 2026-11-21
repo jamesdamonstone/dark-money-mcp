@@ -665,8 +665,53 @@
    "regions": [
     "US"
    ]
+  },
+  {
+   "id": "awin-marley-spoon",
+   "name": "Marley Spoon",
+   "network": "awin",
+   "commission": "$25.00 flat per sale",
+   "commission_rate": 25.0,
+   "link_template": "https://www.awin1.com/cread.php?awinmid=6988&awinaffid=3161005&clickref={SID}",
+   "status": "approved",
+   "approved_at": "2026-11-21",
+   "batch": "approval",
+   "note": "Approved Nov 21 (advertiser 6988). Meal-kit subscription. Commission Manager shows a single Default group at USD 25.00 flat for publisher 3161005 (program text mentions $10 for cashback partners, but CM governs and shows only the $25 Default). Exposure Level 2, link Online, 107-day avg payment, 30-day cookie, US. Member earns $17.50.",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "id": "awin-afewvibe",
+   "name": "Afewvibe",
+   "network": "awin",
+   "commission": "20% per sale",
+   "commission_rate": 0.2,
+   "link_template": "https://www.awin1.com/cread.php?awinmid=75796&awinaffid=3161005&clickref={SID}",
+   "status": "approved",
+   "approved_at": "2026-11-21",
+   "batch": "approval",
+   "note": "Approved Nov 21 (advertiser 75796). Luxury/designer fashion retail. Commission Manager single Default 20%. No Exposure Level shown; payment green/accelerated. Link Online, 53-day avg payment, 30-day cookie, US. Member earns 14%.",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "id": "awin-argendon",
+   "name": "Argendon",
+   "network": "awin",
+   "commission": "6% per sale",
+   "commission_rate": 0.06,
+   "link_template": "https://www.awin1.com/cread.php?awinmid=126513&awinaffid=3161005&clickref={SID}",
+   "status": "approved",
+   "approved_at": "2026-11-21",
+   "batch": "approval",
+   "note": "Approved Nov 21 (advertiser 126513). Commercial crawlspace/basement dehumidifiers, ~$600 AOV. Commission Manager single Default 6%. Exposure Level 1, link Online, 15-day avg payment, 30-day cookie, US. Member earns 4.2%. Batch 24 terms check: Terms' Allowed types omit Cashback, but the profile's WHO WE WANT explicitly lists Cashback sites and there is no ban or pre-approval clause \u2014 listed on the affirmative welcome; conflict recorded.",
+   "regions": [
+    "US"
+   ]
   }
  ],
- "count": 52,
+ "count": 55,
  "updated_at": "2026-11-20"
 }
