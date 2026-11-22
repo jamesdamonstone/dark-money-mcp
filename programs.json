@@ -1,5 +1,5 @@
 {
- "count": 87,
+ "count": 88,
  "programs": [
   {
    "commission": "40%",
@@ -1180,6 +1180,20 @@
    "commission_rate": 0.35,
    "commission_type": "percent",
    "notes": "Mimi Panda (Awin 84797). CM Default 35% verified (groups range 5%-35%: Commercial Plan 25%; coupon use reduces commission by the coupon %). mimi-panda.com \u2014 turns photos into coloring pages and paint-by-number artworks, digital delivery. Link Online, Payment Status green (avg pay 68 days), no Exposure Level displayed. US. 90-day cookie. Member share 24.5%. Applied batch 139 (pending), approved and joined Nov 22, 2026.",
+   "regions": [
+    "US"
+   ],
+   "active": true
+  },
+  {
+   "id": "awin-upper-brand-97753",
+   "name": "UPPER Brand",
+   "network": "awin",
+   "store_url": "https://upperbags.com",
+   "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=97753&awinaffid=3161005&clickref={SID}",
+   "commission_rate": 0.2,
+   "commission_type": "percent",
+   "notes": "UPPER Brand | Best Diaper Bag (Awin 97753). CM Default 20% verified (only group). upperbags.com \u2014 premium leather diaper bags and baby accessories, designed in NYC. Link Online, Payment Status green, no Exposure Level displayed. Regions: US only per the profile Regions section (program text claims global shipping, but the Regions section governs). 30-day cookie. Member share 14%. Applied batch 145, auto-accepted and joined Nov 22, 2026.",
    "regions": [
     "US"
    ],
