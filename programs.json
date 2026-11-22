@@ -1,5 +1,5 @@
 {
- "count": 66,
+ "count": 67,
  "programs": [
   {
    "commission": "40%",
@@ -872,6 +872,21 @@
    "name": "Doctor Derm (US)",
    "network": "awin",
    "note": "merchant ID 115825; Intelsio invitation accepted 2026-11-21 on George Yuhba's written assurance that Doctor Derm allows cashback (its paper allowed-types omit Cashback; George's caveat: they can expire Dark Money at any time \u2014 James ruled Nov 21 to accept on George's word). Dermatologist-formulated prescription skincare (doctorderm.com). CM Default USD 10.00 flat; Link Online; Payment Status green (avg payment 82 days). Member share $7 per sale.",
+   "regions": [
+    "US"
+   ],
+   "status": "approved"
+  },
+  {
+   "approved_at": "2026-11-21",
+   "batch": "batch-67",
+   "commission": "3% per sale",
+   "commission_rate": 0.03,
+   "id": "awin-rockstar-original",
+   "link_template": "https://www.awin1.com/cread.php?awinmid=131092&awinaffid=3161005&clickref={SID}",
+   "name": "Rockstar Original",
+   "network": "awin",
+   "note": "Auto-accepted in Awin batch 67 (advertiser 131092). AI-native fashion storefront by Swap Commerce. Terms allow Cashback and Loyalty. CM Default 3%, Link Online, Exposure Level 2. Member earns 2.1%.",
    "regions": [
     "US"
    ],
