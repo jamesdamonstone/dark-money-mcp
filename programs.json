@@ -1,5 +1,5 @@
 {
- "count": 102,
+ "count": 103,
  "programs": [
   {
    "commission": "40%",
@@ -1469,8 +1469,22 @@
     "US"
    ],
    "active": true
+  },
+  {
+   "id": "awin-celsius-herbs-126887",
+   "name": "Celsius Herbs",
+   "network": "awin",
+   "store_url": "https://celsiusherbs.com",
+   "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=126887&awinaffid=3161005&clickref={SID}",
+   "commission_rate": 0.2,
+   "commission_type": "percent",
+   "notes": "Celsius Herbs (Awin 126887). CM Default 20% verified. EL1, Payment Status Amber (avg pay 57d), Link Online. celsiusherbs.com. US only. Member share 14%. Auto-accepted in batch 158; verified and listed Nov 22, 2026.",
+   "regions": [
+    "US"
+   ],
+   "active": true
   }
  ],
  "updated_at": "2026-11-22",
- "registry_version": 51
+ "registry_version": 52
 }
