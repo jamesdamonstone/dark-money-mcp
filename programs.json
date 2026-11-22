@@ -1,5 +1,5 @@
 {
- "count": 97,
+ "count": 99,
  "programs": [
   {
    "commission": "40%",
@@ -1399,8 +1399,36 @@
     "US"
    ],
    "active": true
+  },
+  {
+   "id": "awin-teethnightguard-88527",
+   "name": "TeethNightGuard.com",
+   "network": "awin",
+   "store_url": "https://www.teethnightguard.com",
+   "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=88527&awinaffid=3161005&clickref={SID}",
+   "commission_rate": 0.06,
+   "commission_type": "percent",
+   "notes": "TeethNightGuard.com (Awin 88527). CM Default 6% verified (timeline range runs to 20% and profile text mentions 12%/up to 20% \u2014 CM Default governs). teethnightguard.com. Link Online, Payment Status GREEN (avg pay 71d), no Exposure Level displayed. US only. Member share 4.2%. Joined Nov 22, 2026; verified and listed Nov 22, 2026.",
+   "regions": [
+    "US"
+   ],
+   "active": true
+  },
+  {
+   "id": "awin-efe-52103",
+   "name": "EFE",
+   "network": "awin",
+   "store_url": "https://www.efeglasses.com",
+   "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=52103&awinaffid=3161005&clickref={SID}",
+   "commission_rate": 0.08,
+   "commission_type": "percent",
+   "notes": "EFE (Awin 52103). CM Default 8% verified (other groups GLACY15 15%, Exclusive Discount 17%, CYCLING 15% are not the Default; profile 'up to 15%' is headline text). efeglasses.com. Link Online, Payment Status GREEN (avg pay 72d), no Exposure Level displayed. US only. Member share 5.6%. Joined Nov 22, 2026; verified and listed Nov 22, 2026.",
+   "regions": [
+    "US"
+   ],
+   "active": true
   }
  ],
  "updated_at": "2026-11-22",
- "registry_version": 47
+ "registry_version": 48
 }
