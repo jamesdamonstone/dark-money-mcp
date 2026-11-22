@@ -1,5 +1,5 @@
 {
- "count": 111,
+ "count": 112,
  "programs": [
   {
    "approved_at": "2026-11-19",
@@ -1709,8 +1709,22 @@
     "US"
    ],
    "active": true
+  },
+  {
+   "id": "awin-haurangi-131486",
+   "name": "Haurangi",
+   "network": "awin",
+   "store_url": "https://haurangi.com/",
+   "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=131486&awinaffid=3161005&clickref={SID}",
+   "commission_rate": 0.12,
+   "commission_type": "percent",
+   "notes": "Awin advertiser 131486 (Haurangi). Commission Manager Default 12% verified at fold-in (Nov 22, 2026; only group). Exposure Level 1, Amber payment status, Link Online. US. Member share 70% = 8.4%.",
+   "regions": [
+    "US"
+   ],
+   "active": true
   }
  ],
  "updated_at": "2026-11-22",
- "registry_version": 61
+ "registry_version": 62
 }
