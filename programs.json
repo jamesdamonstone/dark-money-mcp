@@ -1034,8 +1034,36 @@
       "regions": [
         "US"
       ]
+    },
+    {
+      "id": "awin-wau-124878",
+      "name": "WAU",
+      "network": "awin",
+      "commission_rate": 0.1,
+      "commission_note": "10% flat (Commission Manager, verified 2026-11-21; profile marketing says 15%/20% \u2014 CM governs)",
+      "link_template": "https://www.awin1.com/cread.php?awinmid=124878&awinaffid=3161005&clickref={SID}",
+      "store_url": "https://wauglobal.com/",
+      "status": "live",
+      "notes": "Awin 124878. Joined 2026-11-21 (batch 85, auto-accepted). Premium beauty and health-tech devices for face, body, hair and oral care. Link Online. Payment Status amber, Exposure Level 2 (avg pay ~59-72 days). Serves 47 regions incl. US/UK/CA/AU/EU.",
+      "regions": [
+        "GLOBAL"
+      ]
+    },
+    {
+      "id": "awin-brookwood-med-124250",
+      "name": "Brookwood Med",
+      "network": "awin",
+      "commission_rate": 0.05,
+      "commission_note": "5% flat (Commission Manager Default, verified 2026-11-21)",
+      "link_template": "https://www.awin1.com/cread.php?awinmid=124250&awinaffid=3161005&clickref={SID}",
+      "store_url": "https://brookwoodmed.com/",
+      "status": "live",
+      "notes": "Awin 124250. Joined 2026-11-21 (batch 85, auto-accepted). Certified face masks (KN95, KF94, kids and sports) and PPE. Link Online. Payment Status amber, Exposure Level 1 (avg pay ~48-55 days) \u2014 listed per the EL1 precedent.",
+      "regions": [
+        "US"
+      ]
     }
   ],
   "updated_at": "2026-11-21",
-  "registry_version": 35
+  "registry_version": 36
 }
