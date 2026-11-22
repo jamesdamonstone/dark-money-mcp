@@ -1,5 +1,5 @@
 {
- "count": 100,
+ "count": 102,
  "programs": [
   {
    "commission": "40%",
@@ -1441,8 +1441,36 @@
     "US"
    ],
    "active": true
+  },
+  {
+   "id": "awin-efootwear-90809",
+   "name": "eFootwear.com",
+   "network": "awin",
+   "store_url": "https://www.efootwear.com",
+   "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=90809&awinaffid=3161005&clickref={SID}",
+   "commission_rate": 0.1,
+   "commission_type": "percent",
+   "notes": "eFootwear.com (Awin 90809). CM Default 10% verified (single Default group). EL0, Payment Status GREEN accelerated (avg pay 19d), Link Online. efootwear.com. US only. Member share 7%. Approved Nov 22, 2026 (batch 106 application); verified and listed Nov 22, 2026.",
+   "regions": [
+    "US"
+   ],
+   "active": true
+  },
+  {
+   "id": "awin-blackboxmeats-25940",
+   "name": "BlackboxMeats (US)",
+   "network": "awin",
+   "store_url": "https://blackboxmeats.com",
+   "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=25940&awinaffid=3161005&clickref={SID}",
+   "commission_rate": 0.03,
+   "commission_type": "percent",
+   "notes": "BlackboxMeats (US) (Awin 25940). CM Default 3% verified. EL1, Payment Status Amber (avg pay 63d), Link Online. blackboxmeats.com. US only. Member share 2.1%. Auto-accepted in batch 157; verified and listed Nov 22, 2026.",
+   "regions": [
+    "US"
+   ],
+   "active": true
   }
  ],
  "updated_at": "2026-11-22",
- "registry_version": 49
+ "registry_version": 51
 }
