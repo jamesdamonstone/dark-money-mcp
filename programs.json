@@ -1,5 +1,5 @@
 {
- "count": 86,
+ "count": 87,
  "programs": [
   {
    "commission": "40%",
@@ -1166,6 +1166,20 @@
    "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=96879&awinaffid=3161005&clickref={SID}",
    "commission_rate": 0.1,
    "commission_type": "percent",
+   "regions": [
+    "US"
+   ],
+   "active": true
+  },
+  {
+   "id": "awin-mimi-panda-84797",
+   "name": "Mimi Panda",
+   "network": "awin",
+   "store_url": "https://mimi-panda.com",
+   "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=84797&awinaffid=3161005&clickref={SID}",
+   "commission_rate": 0.35,
+   "commission_type": "percent",
+   "notes": "Mimi Panda (Awin 84797). CM Default 35% verified (groups range 5%-35%: Commercial Plan 25%; coupon use reduces commission by the coupon %). mimi-panda.com \u2014 turns photos into coloring pages and paint-by-number artworks, digital delivery. Link Online, Payment Status green (avg pay 68 days), no Exposure Level displayed. US. 90-day cookie. Member share 24.5%. Applied batch 139 (pending), approved and joined Nov 22, 2026.",
    "regions": [
     "US"
    ],
