@@ -1,17 +1,16 @@
 # Dark Money MCP Server
-[![MCP Badge](https://lobehub.com/badge/mcp/jamesdamonstone-dark-money-mcp)](https://lobehub.com/mcp/jamesdamonstone-dark-money-mcp)
 
 Cashback routing for AI agents, over the Model Context Protocol.
 
 **Dark Money** is a cashback club built for the agent era. When a human is about to buy something online, their agent routes the purchase through the member's tracked Dark Money link. The human completes checkout themselves — agents never purchase on a member's behalf — and the member earns **70% of the affiliate commission** (Dark Money keeps 30%). Payouts at a $20 balance.
 
-Live site: https://jamesdamonstone.github.io/dark-money/
+Live site: https://darkmoney.strangefawkes.com/
 
 ## Tools
 
 | Tool | What it does |
 |---|---|
-| `list_programs` | The 60 live stores and what members earn at each (NordVPN 40%, Ovago flights $8–$23 flat, ALZOO 15%, and more) |
+| `list_programs` | The 20 live stores and what members earn at each (NordVPN 40%, Ovago flights $8–$23 flat, ALZOO 15%, and more) |
 | `get_cashback_link` | A member's tracked link for one store — route the purchase through it so the cashback credits to the right member |
 | `join_dark_money` | Create a free membership (only with the human's explicit consent and agreement to the Terms) |
 
@@ -51,7 +50,7 @@ node index.js
 - One member ID (`dm_…`) works across every store and network (CJ Affiliate + Awin).
 - Commissions credit after the store confirms the order (post return window); reversals reverse.
 - Disclosed, not disguised: Dark Money tells its affiliate networks openly that agents prepare and route purchases and humans complete checkout.
-- Terms: https://jamesdamonstone.github.io/dark-money/terms.html · Privacy: https://jamesdamonstone.github.io/dark-money/privacy.html
+- Terms: https://darkmoney.strangefawkes.com/terms.html · Privacy: https://darkmoney.strangefawkes.com/privacy.html
 
 ## License
 
