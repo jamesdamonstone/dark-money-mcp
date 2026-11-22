@@ -1,5 +1,5 @@
 {
- "count": 67,
+ "count": 69,
  "programs": [
   {
    "commission": "40%",
@@ -887,6 +887,36 @@
    "name": "Rockstar Original",
    "network": "awin",
    "note": "Auto-accepted in Awin batch 67 (advertiser 131092). AI-native fashion storefront by Swap Commerce. Terms allow Cashback and Loyalty. CM Default 3%, Link Online, Exposure Level 2. Member earns 2.1%.",
+   "regions": [
+    "US"
+   ],
+   "status": "approved"
+  },
+  {
+   "approved_at": "2026-11-21",
+   "batch": "batch-69",
+   "commission": "3% per sale",
+   "commission_rate": 0.03,
+   "id": "awin-bible-bricks",
+   "link_template": "https://www.awin1.com/cread.php?awinmid=131866&awinaffid=3161005&clickref={SID}",
+   "name": "Bible Bricks",
+   "network": "awin",
+   "note": "Auto-accepted in Awin batch 69 (advertiser 131866). LEGO-compatible Bible-story building sets. Terms allow Cashback and Loyalty. CM Default 3%, Link Online, Exposure Level 2. Member earns 2.1%.",
+   "regions": [
+    "US"
+   ],
+   "status": "approved"
+  },
+  {
+   "approved_at": "2026-11-21",
+   "batch": "batch-69",
+   "commission": "$5 flat per sale",
+   "commission_rate": null,
+   "id": "awin-paintmysoul",
+   "link_template": "https://www.awin1.com/cread.php?awinmid=131774&awinaffid=3161005&clickref={SID}",
+   "name": "PaintMySoul",
+   "network": "awin",
+   "note": "Auto-accepted in Awin batch 69 (advertiser 131774). Hand-painted custom portraits from photos. Terms allow Cashback and Loyalty. CM Default $5 flat, Link Online, Payment green. Member earns $3.50.",
    "regions": [
     "US"
    ],
