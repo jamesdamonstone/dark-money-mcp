@@ -1,5 +1,5 @@
 {
- "count": 109,
+ "count": 110,
  "programs": [
   {
    "approved_at": "2026-11-19",
@@ -1681,8 +1681,22 @@
     "US"
    ],
    "active": true
+  },
+  {
+   "id": "awin-orion-rlt-130163",
+   "name": "Orion RLT",
+   "network": "awin",
+   "store_url": "https://orionrlt.com/",
+   "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=130163&awinaffid=3161005&clickref={SID}",
+   "commission_rate": 0.1,
+   "commission_type": "percent",
+   "notes": "Awin advertiser 130163 (Orion RLT). Commission Manager Default 10% verified at fold-in (Nov 22, 2026; only group). Exposure Level 1, Amber payment status, Link Online. US. Member share 70% = 7%.",
+   "regions": [
+    "US"
+   ],
+   "active": true
   }
  ],
  "updated_at": "2026-11-22",
- "registry_version": 59
+ "registry_version": 60
 }
