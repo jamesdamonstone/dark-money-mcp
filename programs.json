@@ -1,5 +1,5 @@
 {
-  "count": 93,
+  "count": 95,
   "programs": [
     {
       "commission": "40%",
@@ -1343,8 +1343,36 @@
         "US"
       ],
       "active": true
+    },
+    {
+      "id": "awin-xlaserlab-118933",
+      "name": "Xlaserlab",
+      "network": "awin",
+      "store_url": "https://www.xlaserlab.com",
+      "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=118933&awinaffid=3161005&clickref={SID}",
+      "commission_rate": 0.03,
+      "commission_type": "percent",
+      "notes": "Xlaserlab (Awin 118933). CM Default 3% verified (only rate group; cut from 5% on Nov 22, 2026 — CM governs over the profile's stale '5% Commission' text and the approval email figure). xlaserlab.com. Link Online, Exposure Level 2, Payment Status AMBER (avg pay 75d). US only. 90-day cookie. Member share 2.1%. Joined Nov 22, 2026; verified and listed Nov 22, 2026.",
+      "regions": [
+        "US"
+      ],
+      "active": true
+    },
+    {
+      "id": "awin-bonne-et-filou-59397",
+      "name": "Bonne et Filou",
+      "network": "awin",
+      "store_url": "https://bonneetfilou.com",
+      "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=59397&awinaffid=3161005&clickref={SID}",
+      "commission_rate": 0.2,
+      "commission_type": "percent",
+      "notes": "Bonne et Filou (Awin 59397). CM Default 20% verified (only rate group). bonneetfilou.com. Link Online, Payment Status GREEN (accelerated; avg pay 25d), no Exposure Level displayed. US only. 30-day cookie. Member share 14%. Joined Nov 22, 2026 (profile shows Joined; My Programs directory still listed it Pending at check time — directory lag, profile governs); verified and listed Nov 22, 2026.",
+      "regions": [
+        "US"
+      ],
+      "active": true
     }
   ],
   "updated_at": "2026-11-22",
-  "registry_version": 43
+  "registry_version": 44
 }
