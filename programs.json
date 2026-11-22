@@ -1,5 +1,5 @@
 {
- "count": 88,
+ "count": 90,
  "programs": [
   {
    "commission": "40%",
@@ -1194,6 +1194,34 @@
    "commission_rate": 0.2,
    "commission_type": "percent",
    "notes": "UPPER Brand | Best Diaper Bag (Awin 97753). CM Default 20% verified (only group). upperbags.com \u2014 premium leather diaper bags and baby accessories, designed in NYC. Link Online, Payment Status green, no Exposure Level displayed. Regions: US only per the profile Regions section (program text claims global shipping, but the Regions section governs). 30-day cookie. Member share 14%. Applied batch 145, auto-accepted and joined Nov 22, 2026.",
+   "regions": [
+    "US"
+   ],
+   "active": true
+  },
+  {
+   "id": "awin-flags-connections-88425",
+   "name": "Flags Connections",
+   "network": "awin",
+   "store_url": "https://www.flagsconnections.com",
+   "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=88425&awinaffid=3161005&clickref={SID}",
+   "commission_rate": 0.12,
+   "commission_type": "percent",
+   "notes": "Flags Connections (Awin 88425). CM Default 12% flat verified (only rate; matches headline). flagsconnections.com \u2014 flags and flag accessories, avg order $200. Link Online, Payment Status GREEN (accelerated; avg pay 73d), no Exposure Level displayed. US only. 60-day attribution. Member share 8.4%. Joined Nov 22, 2026 (approval email); verified and listed Nov 22, 2026.",
+   "regions": [
+    "US"
+   ],
+   "active": true
+  },
+  {
+   "id": "awin-sailo-92667",
+   "name": "SAILO",
+   "network": "awin",
+   "store_url": "https://www.sailo.com",
+   "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=92667&awinaffid=3161005&clickref={SID}",
+   "commission_rate": 0.05,
+   "commission_type": "percent",
+   "notes": "SAILO (Awin 92667). CM Default is a RANGE 2%-10% with no exposed group breakdown; profile headline says 'up to 5% per sale' (AOV $1,600). sailo.com \u2014 boat and yacht rentals. Listed as 2%-10%, member 1.4%-7%; registry scalar 0.05 reflects the advertised per-sale headline, see range. Link Online, Payment Status GREEN (accelerated; avg pay 46d), no Exposure Level displayed. Regions: US only per the profile Regions field (boats in 50+ countries, but Regions governs). 60-day cookie. Joined Nov 22, 2026; verified and listed Nov 22, 2026.",
    "regions": [
     "US"
    ],
