@@ -1,5 +1,5 @@
 {
- "count": 106,
+ "count": 107,
  "programs": [
   {
    "approved_at": "2026-11-19",
@@ -1640,8 +1640,22 @@
     "US"
    ],
    "active": true
+  },
+  {
+   "id": "awin-illadelph-spirits-119371",
+   "name": "Illadelph Spirits",
+   "network": "awin",
+   "store_url": "https://shop.illadelphspirits.com/",
+   "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=119371&awinaffid=3161005&clickref={SID}",
+   "commission_rate": 0.05,
+   "commission_type": "percent",
+   "notes": "Awin advertiser 119371 (Illadelph Spirits). Commission Manager Default 5% verified at fold-in (Nov 22, 2026; only commission group). Exposure Level 1, Amber payment status (avg pay 19d), Link Online. US. Alcohol (craft vodka) \u2014 listed per James's explicit approval Nov 22, 2026. Member share 70% = 3.5%.",
+   "regions": [
+    "US"
+   ],
+   "active": true
   }
  ],
  "updated_at": "2026-11-22",
- "registry_version": 55
+ "registry_version": 56
 }
