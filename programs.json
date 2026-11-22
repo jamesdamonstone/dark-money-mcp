@@ -1,5 +1,5 @@
 {
- "count": 85,
+ "count": 86,
  "programs": [
   {
    "commission": "40%",
@@ -1157,8 +1157,21 @@
     "US"
    ],
    "active": true
+  },
+  {
+   "id": "awin-loveisarose-96879",
+   "name": "LoveIsARose.com",
+   "network": "awin",
+   "store_url": "https://www.loveisarose.com",
+   "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=96879&awinaffid=3161005&clickref={SID}",
+   "commission_rate": 0.1,
+   "commission_type": "percent",
+   "regions": [
+    "US"
+   ],
+   "active": true
   }
  ],
  "updated_at": "2026-11-21",
- "registry_version": 41
+ "registry_version": 42
 }
