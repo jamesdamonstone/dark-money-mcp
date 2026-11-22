@@ -1,5 +1,5 @@
 {
- "count": 107,
+ "count": 109,
  "programs": [
   {
    "approved_at": "2026-11-19",
@@ -1653,8 +1653,36 @@
     "US"
    ],
    "active": true
+  },
+  {
+   "id": "awin-christmas-mystery-129653",
+   "name": "Christmas Mystery",
+   "network": "awin",
+   "store_url": "http://yd4hpz-10.myshopify.com/",
+   "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=129653&awinaffid=3161005&clickref={SID}",
+   "commission_rate": 0.15,
+   "commission_type": "percent",
+   "notes": "Awin advertiser 129653 (Christmas Mystery). Commission Manager Default 15% verified at fold-in (Nov 22, 2026; only group in CM). Exposure Level 1, Amber payment status, Link Online. US. Member share 70% = 10.5%.",
+   "regions": [
+    "US"
+   ],
+   "active": true
+  },
+  {
+   "id": "awin-newt-nutrition-131393",
+   "name": "Newt Nutrition",
+   "network": "awin",
+   "store_url": "https://trysemex.com",
+   "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=131393&awinaffid=3161005&clickref={SID}",
+   "commission_rate": 0.1,
+   "commission_type": "percent",
+   "notes": "Awin advertiser 131393 (Newt Nutrition). Commission Manager Default 10% verified at fold-in (Nov 22, 2026; only group). Exposure Level 1, Amber payment status, Link Online. US. Member share 70% = 7%.",
+   "regions": [
+    "US"
+   ],
+   "active": true
   }
  ],
  "updated_at": "2026-11-22",
- "registry_version": 58
+ "registry_version": 59
 }
