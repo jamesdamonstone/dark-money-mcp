@@ -1,5 +1,5 @@
 {
- "count": 70,
+ "count": 82,
  "programs": [
   {
    "commission": "40%",
@@ -1103,8 +1103,22 @@
     "GB",
     "US"
    ]
+  },
+  {
+   "id": "awin-secretknit-131165",
+   "name": "SecretKnit (US)",
+   "network": "awin",
+   "commission_rate": null,
+   "commission_note": "10%-21% (Commission Manager: Default 21%, New Customer 21%, Returning Customer 10% \u2014 verified 2026-11-21)",
+   "link_template": "https://www.awin1.com/cread.php?awinmid=131165&awinaffid=3161005&clickref={SID}",
+   "store_url": "https://secretknit.com/",
+   "status": "live",
+   "notes": "Awin 131165. Joined 2026-11-21 (batch 97, auto-accepted). Handmade crochet flower bouquets and gifts. Link Online. Payment Status green (accelerated payments); no Exposure Level displayed for this program.",
+   "regions": [
+    "US"
+   ]
   }
  ],
  "updated_at": "2026-11-21",
- "registry_version": 37
+ "registry_version": 38
 }
