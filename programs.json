@@ -1006,8 +1006,36 @@
       "regions": [
         "US"
       ]
+    },
+    {
+      "id": "awin-kitty-kick-stix-117825",
+      "name": "Kitty Kick Stix - Catnip Toys",
+      "network": "awin",
+      "commission_rate": 0.16,
+      "commission_note": "16% flat (Commission Manager Default, verified 2026-11-21)",
+      "link_template": "https://www.awin1.com/cread.php?awinmid=117825&awinaffid=3161005&clickref={SID}",
+      "store_url": "https://www.kittykickstix.com/",
+      "status": "live",
+      "notes": "Awin 117825. Joined 2026-11-21 (batch 83, auto-accepted). USA-made handcrafted plush catnip kicker toys for cats. Link Online. Payment Status amber, Exposure Level 1 (avg pay ~26 days) \u2014 listed per the EL1 precedent.",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "id": "awin-reudyn-131985",
+      "name": "REUDYN",
+      "network": "awin",
+      "commission_rate": 0.05,
+      "commission_note": "5% flat (Commission Manager Default, verified 2026-11-21; profile advertises 5-10% \u2014 CM governs)",
+      "link_template": "https://www.awin1.com/cread.php?awinmid=131985&awinaffid=3161005&clickref={SID}",
+      "store_url": "https://www.reudyn.com/",
+      "status": "live",
+      "notes": "Awin 131985. Joined 2026-11-21 (batch 83, auto-accepted). Intelligent wearable robotics \u2014 hip-assist exoskeletons (Hip X26). Link Online. Payment Status amber, Exposure Level 2.",
+      "regions": [
+        "US"
+      ]
     }
   ],
   "updated_at": "2026-11-21",
-  "registry_version": 34
+  "registry_version": 35
 }
