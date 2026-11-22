@@ -1,5 +1,5 @@
 {
- "count": 110,
+ "count": 111,
  "programs": [
   {
    "approved_at": "2026-11-19",
@@ -1695,8 +1695,22 @@
     "US"
    ],
    "active": true
+  },
+  {
+   "id": "awin-cookie-pop-candy-pop-129711",
+   "name": "Cookie Pop Candy Pop",
+   "network": "awin",
+   "store_url": "https://www.cookiepopcandypop.com/",
+   "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=129711&awinaffid=3161005&clickref={SID}",
+   "commission_rate": 0.125,
+   "commission_type": "percent",
+   "notes": "Awin advertiser 129711 (Cookie Pop Candy Pop Affiliate Program (US)). Commission Manager Default 12.5% verified at fold-in (Nov 22, 2026; only group). Exposure Level 1, Amber payment status, Link Online. US. Member share 70% = 8.75%.",
+   "regions": [
+    "US"
+   ],
+   "active": true
   }
  ],
  "updated_at": "2026-11-22",
- "registry_version": 60
+ "registry_version": 61
 }
