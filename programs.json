@@ -1,5 +1,5 @@
 {
- "count": 103,
+ "count": 104,
  "programs": [
   {
    "commission": "40%",
@@ -1483,8 +1483,22 @@
     "US"
    ],
    "active": true
+  },
+  {
+   "id": "awin-primeful-130555",
+   "name": "Primeful",
+   "network": "awin",
+   "store_url": "https://heroofmybook.com",
+   "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=130555&awinaffid=3161005&clickref={SID}",
+   "commission_rate": 0.16,
+   "commission_type": "percent",
+   "notes": "Primeful (Awin 130555); the store is Hero of My Book (heroofmybook.com). CM Default 16% verified (profile text says 15% base; CM governs). EL1, Payment Status Amber, Link Online. US only. Member share 11.2%. Terms: incentivized purchases only outside an approved cashback/loyalty partnership are barred \u2014 Dark Money's Awin approval is that partnership. Auto-accepted in batch 159; verified and listed Nov 22, 2026.",
+   "regions": [
+    "US"
+   ],
+   "active": true
   }
  ],
  "updated_at": "2026-11-22",
- "registry_version": 52
+ "registry_version": 53
 }
