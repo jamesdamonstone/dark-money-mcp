@@ -1,5 +1,5 @@
 {
- "count": 82,
+ "count": 83,
  "programs": [
   {
    "commission": "40%",
@@ -1117,8 +1117,22 @@
    "regions": [
     "US"
    ]
+  },
+  {
+   "id": "awin-natures-skin-and-body-food-26560",
+   "name": "Nature's Skin And Body Food (US)",
+   "network": "awin",
+   "commission_rate": 0.18,
+   "commission_note": "18% flat (Commission Manager Default, verified 2026-11-22)",
+   "link_template": "https://www.awin1.com/cread.php?awinmid=26560&awinaffid=3161005&clickref={SID}",
+   "store_url": "https://naturesskinandbody.com/",
+   "status": "live",
+   "notes": "Awin 26560. Joined 2026-11-22 (batch 101, auto-accepted). Clean beauty \u2014 non-toxic skincare, hair care and body care. Link Online. Payment Status amber, Exposure Level 1 (pays via Direct Debit; avg pay ~53 days) \u2014 listed per the EL1 precedent.",
+   "regions": [
+    "US"
+   ]
   }
  ],
  "updated_at": "2026-11-21",
- "registry_version": 38
+ "registry_version": 39
 }
