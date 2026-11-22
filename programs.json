@@ -1,5 +1,5 @@
 {
- "count": 106,
+ "count": 107,
  "programs": [
   {
    "approved_at": "2026-11-19",
@@ -1639,8 +1639,22 @@
     "US"
    ],
    "active": true
+  },
+  {
+   "id": "awin-enjox-toys-111786",
+   "name": "Enjox Toys",
+   "network": "awin",
+   "store_url": "https://www.enjox.com/",
+   "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=111786&awinaffid=3161005&clickref={SID}",
+   "commission_rate": 0.2,
+   "commission_type": "percent",
+   "notes": "Awin advertiser 111786 (Enjox Toys). Commission Manager Default 20% verified at fold-in (Nov 22, 2026; only commission group; a +5% new-affiliate bonus is mentioned in program text but has no CM group, not counted). Exposure Level not shown on profile; Payment Status Green (accelerated, avg pay 54d), Link Online. US. Adult toys \u2014 listed under James's Nov 22, 2026 legal-products rule. Member share 70% = 14%.",
+   "regions": [
+    "US"
+   ],
+   "active": true
   }
  ],
  "updated_at": "2026-11-22",
- "registry_version": 57
+ "registry_version": 58
 }
