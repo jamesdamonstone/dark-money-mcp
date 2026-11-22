@@ -950,8 +950,22 @@
       "regions": [
         "US"
       ]
+    },
+    {
+      "id": "awin-friendly-songs-88629",
+      "name": "Friendly Songs",
+      "network": "awin",
+      "commission_rate": 0.2,
+      "commission_note": "20% flat (Commission Manager Default, verified 2026-11-21)",
+      "link_template": "https://www.awin1.com/cread.php?awinmid=88629&awinaffid=3161005&clickref={SID}",
+      "store_url": "https://www.personalizedfriendlysongs.com",
+      "status": "live",
+      "notes": "Awin 88629. Joined 2026-11-21 (batch 78, auto-accepted). Personalized songs and music gifts \u2014 birthday songs, lullabies, singing stuffed animals. Link Online. Payment Status GREEN (avg pay 38 days); no Exposure Level applies.",
+      "regions": [
+        "US"
+      ]
     }
   ],
   "updated_at": "2026-11-21",
-  "registry_version": 30
+  "registry_version": 31
 }
