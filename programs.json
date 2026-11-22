@@ -1,5 +1,5 @@
 {
- "count": 113,
+ "count": 114,
  "programs": [
   {
    "approved_at": "2026-11-19",
@@ -1762,8 +1762,50 @@
    ],
    "status": "approved",
    "store_url": "https://www.weekendinitaly.com/"
+  },
+  {
+   "active": true,
+   "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=98661&awinaffid=3161005&clickref={SID}",
+   "commission_rate": 0.1,
+   "commission_type": "percent",
+   "id": "awin-cronjager-98661",
+   "name": "Cronjager",
+   "network": "awin",
+   "notes": "Awin advertiser 98661 (Cronjager). Commission Manager Default 10% verified at fold-in (Nov 22, 2026; only group). Exposure Level 1, Amber payment status (avg pay 60d), Link Online. 29 regions. Member share 70% = 7%.",
+   "regions": [
+    "AU",
+    "AT",
+    "BE",
+    "BG",
+    "CA",
+    "HR",
+    "CZ",
+    "DK",
+    "FI",
+    "FR",
+    "DE",
+    "GR",
+    "HU",
+    "IE",
+    "IT",
+    "JP",
+    "LV",
+    "LT",
+    "NL",
+    "PL",
+    "PT",
+    "RO",
+    "SK",
+    "SI",
+    "ES",
+    "SE",
+    "TR",
+    "GB",
+    "US"
+   ],
+   "store_url": "https://cronjager.com/"
   }
  ],
- "registry_version": 63,
+ "registry_version": 64,
  "updated_at": "2026-11-22"
 }
