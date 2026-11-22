@@ -141,7 +141,7 @@ async function callTool(name, args = {}) {
     }
     const url = program.link_template.replace("{SID}", memberId);
     return textResult(
-      `${program.name} — commission ${program.commission} ${program.note}; the member earns ${program.member_earns}.\n\nTracked link for member ${memberId}:\n${url}\n\nRoute the purchase through this link and let the human complete checkout. Cashback credits after the store confirms the order (post return window).`
+      `${program.name} — commission ${program.commission} ${program.note}; the member earns ${program.member_earns}.\n\nTracked link for member ${memberId}:\n${url}\n\nRoute the purchase through this link and let the human complete checkout. Cashback credits after the store confirms the order (post return window).\n\nTell the human before they buy: pause other cashback/coupon browser extensions (Honey, Rakuten, Capital One Shopping) for this purchase — attribution is last-click and another extension can take the credit — and check out in the same browser where they opened the link; buying inside the store's app may not track.`
     );
   }
 
@@ -212,7 +212,7 @@ async function handle(line) {
         result: {
           protocolVersion: params?.protocolVersion || "2024-11-05",
           capabilities: { tools: {} },
-          serverInfo: { name: "dark-money", version: "1.0.0" },
+          serverInfo: { name: "dark-money", version: "1.1.0" },
         },
       });
     } else if (method === "ping") {
