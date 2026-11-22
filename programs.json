@@ -1,5 +1,5 @@
 {
- "count": 99,
+ "count": 100,
  "programs": [
   {
    "commission": "40%",
@@ -1427,8 +1427,22 @@
     "US"
    ],
    "active": true
+  },
+  {
+   "id": "awin-house-of-twist-120193",
+   "name": "House of Twist",
+   "network": "awin",
+   "store_url": "https://twistperfumes.com",
+   "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=120193&awinaffid=3161005&clickref={SID}",
+   "commission_rate": 0.1,
+   "commission_type": "percent",
+   "notes": "House of Twist (Awin 120193) \u2014 the store is Twist Perfumes (twistperfumes.com); the 'Twist Perfumes' welcome email Nov 22 is this same program. CM Default 10% verified (a 'Coupon/Cashback' group at 2% exists \u2014 CM Default governs). EL1, Payment Status Amber (avg pay 62d), Link Online. US only. Member share 7%. Auto-accepted in batch 156; verified and listed Nov 22, 2026.",
+   "regions": [
+    "US"
+   ],
+   "active": true
   }
  ],
  "updated_at": "2026-11-22",
- "registry_version": 48
+ "registry_version": 49
 }
