@@ -964,8 +964,36 @@
       "regions": [
         "US"
       ]
+    },
+    {
+      "id": "awin-scarletdarkness-129969",
+      "name": "ScarletDarkness (US)",
+      "network": "awin",
+      "commission_rate": 0.06,
+      "commission_note": "6% flat (Commission Manager Default, verified 2026-11-21)",
+      "link_template": "https://www.awin1.com/cread.php?awinmid=129969&awinaffid=3161005&clickref={SID}",
+      "store_url": "https://scarletdarkness.com/",
+      "status": "live",
+      "notes": "Awin 129969. Joined 2026-11-21 (batch 80, auto-accepted). Renaissance, Victorian, goth and punk women's clothing and corsets. Link Online. Payment Status amber, Exposure Level 1 (over credit limit, pays via Direct Debit, avg pay 41 days) \u2014 listed per the EL1 precedent.",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "id": "awin-kingsyard-79354",
+      "name": "Kingsyard",
+      "network": "awin",
+      "commission_rate": 0.1,
+      "commission_note": "10% flat (Commission Manager Default, verified 2026-11-21; profile advertises 'up to 15%' but CM governs)",
+      "link_template": "https://www.awin1.com/cread.php?awinmid=79354&awinaffid=3161005&clickref={SID}",
+      "store_url": "https://www.kingsyard.com",
+      "status": "live",
+      "notes": "Awin 79354. Joined 2026-11-21 (batch 80, auto-accepted). Premium bird feeders and backyard birding accessories. Link Online. Payment Status GREEN (accelerated payments; avg pay ~70 days); no Exposure Level applies.",
+      "regions": [
+        "US"
+      ]
     }
   ],
   "updated_at": "2026-11-21",
-  "registry_version": 31
+  "registry_version": 33
 }
