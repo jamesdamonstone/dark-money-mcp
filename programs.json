@@ -1,5 +1,5 @@
 {
- "count": 112,
+ "count": 113,
  "programs": [
   {
    "approved_at": "2026-11-19",
@@ -1035,154 +1035,152 @@
    "status": "approved"
   },
   {
+   "commission_note": "20% flat (Commission Manager Default, verified 2026-11-21)",
+   "commission_rate": 0.2,
    "id": "awin-some-slight-clothing-128659",
+   "link_template": "https://www.awin1.com/cread.php?awinmid=128659&awinaffid=3161005&clickref={SID}",
    "name": "Some Slight Clothing",
    "network": "awin",
-   "commission_rate": 0.2,
-   "commission_note": "20% flat (Commission Manager Default, verified 2026-11-21)",
-   "link_template": "https://www.awin1.com/cread.php?awinmid=128659&awinaffid=3161005&clickref={SID}",
-   "store_url": "https://someslight.com/",
-   "status": "live",
    "notes": "Awin 128659. Joined 2026-11-21 (batch 77, auto-accepted). Anime-inspired streetwear and gym wear \u2014 mesh shorts, jerseys, tees, hoodies. Link Online. Payment Status amber, Exposure Level 1 (over credit limit, pays via Direct Debit, avg pay 51 days) \u2014 listed per the EL1 precedent.",
    "regions": [
     "US"
-   ]
+   ],
+   "status": "live",
+   "store_url": "https://someslight.com/"
   },
   {
+   "commission_note": "20% flat (Commission Manager Default, verified 2026-11-21)",
+   "commission_rate": 0.2,
    "id": "awin-friendly-songs-88629",
+   "link_template": "https://www.awin1.com/cread.php?awinmid=88629&awinaffid=3161005&clickref={SID}",
    "name": "Friendly Songs",
    "network": "awin",
-   "commission_rate": 0.2,
-   "commission_note": "20% flat (Commission Manager Default, verified 2026-11-21)",
-   "link_template": "https://www.awin1.com/cread.php?awinmid=88629&awinaffid=3161005&clickref={SID}",
-   "store_url": "https://www.personalizedfriendlysongs.com",
-   "status": "live",
    "notes": "Awin 88629. Joined 2026-11-21 (batch 78, auto-accepted). Personalized songs and music gifts \u2014 birthday songs, lullabies, singing stuffed animals. Link Online. Payment Status GREEN (avg pay 38 days); no Exposure Level applies.",
    "regions": [
     "US"
-   ]
+   ],
+   "status": "live",
+   "store_url": "https://www.personalizedfriendlysongs.com"
   },
   {
+   "commission_note": "6% flat (Commission Manager Default, verified 2026-11-21)",
+   "commission_rate": 0.06,
    "id": "awin-scarletdarkness-129969",
+   "link_template": "https://www.awin1.com/cread.php?awinmid=129969&awinaffid=3161005&clickref={SID}",
    "name": "ScarletDarkness (US)",
    "network": "awin",
-   "commission_rate": 0.06,
-   "commission_note": "6% flat (Commission Manager Default, verified 2026-11-21)",
-   "link_template": "https://www.awin1.com/cread.php?awinmid=129969&awinaffid=3161005&clickref={SID}",
-   "store_url": "https://scarletdarkness.com/",
-   "status": "live",
    "notes": "Awin 129969. Joined 2026-11-21 (batch 80, auto-accepted). Renaissance, Victorian, goth and punk women's clothing and corsets. Link Online. Payment Status amber, Exposure Level 1 (over credit limit, pays via Direct Debit, avg pay 41 days) \u2014 listed per the EL1 precedent.",
    "regions": [
     "US"
-   ]
+   ],
+   "status": "live",
+   "store_url": "https://scarletdarkness.com/"
   },
   {
+   "commission_note": "10% flat (Commission Manager Default, verified 2026-11-21; profile advertises 'up to 15%' but CM governs)",
+   "commission_rate": 0.1,
    "id": "awin-kingsyard-79354",
+   "link_template": "https://www.awin1.com/cread.php?awinmid=79354&awinaffid=3161005&clickref={SID}",
    "name": "Kingsyard",
    "network": "awin",
-   "commission_rate": 0.1,
-   "commission_note": "10% flat (Commission Manager Default, verified 2026-11-21; profile advertises 'up to 15%' but CM governs)",
-   "link_template": "https://www.awin1.com/cread.php?awinmid=79354&awinaffid=3161005&clickref={SID}",
-   "store_url": "https://www.kingsyard.com",
-   "status": "live",
    "notes": "Awin 79354. Joined 2026-11-21 (batch 80, auto-accepted). Premium bird feeders and backyard birding accessories. Link Online. Payment Status GREEN (accelerated payments; avg pay ~70 days); no Exposure Level applies.",
    "regions": [
     "US"
-   ]
+   ],
+   "status": "live",
+   "store_url": "https://www.kingsyard.com"
   },
   {
+   "commission_note": "10% flat (Commission Manager Default, verified 2026-11-21)",
+   "commission_rate": 0.1,
    "id": "awin-max-recovery-clothing-117883",
+   "link_template": "https://www.awin1.com/cread.php?awinmid=117883&awinaffid=3161005&clickref={SID}",
    "name": "Max Recovery Clothing",
    "network": "awin",
-   "commission_rate": 0.1,
-   "commission_note": "10% flat (Commission Manager Default, verified 2026-11-21)",
-   "link_template": "https://www.awin1.com/cread.php?awinmid=117883&awinaffid=3161005&clickref={SID}",
-   "store_url": "https://maxrecoveryclothing.com/",
-   "status": "live",
    "notes": "Awin 117883. Joined 2026-11-21 (batch 82, auto-accepted). Therapeutic recovery pants for athletes (myofascial release / muscle recovery). Link Online. Payment Status amber, Exposure Level 1 (over credit limit, pays via Direct Debit) \u2014 listed per the EL1 precedent.",
    "regions": [
     "US"
-   ]
+   ],
+   "status": "live",
+   "store_url": "https://maxrecoveryclothing.com/"
   },
   {
+   "commission_note": "16% flat (Commission Manager Default, verified 2026-11-21)",
+   "commission_rate": 0.16,
    "id": "awin-kitty-kick-stix-117825",
+   "link_template": "https://www.awin1.com/cread.php?awinmid=117825&awinaffid=3161005&clickref={SID}",
    "name": "Kitty Kick Stix - Catnip Toys",
    "network": "awin",
-   "commission_rate": 0.16,
-   "commission_note": "16% flat (Commission Manager Default, verified 2026-11-21)",
-   "link_template": "https://www.awin1.com/cread.php?awinmid=117825&awinaffid=3161005&clickref={SID}",
-   "store_url": "https://www.kittykickstix.com/",
-   "status": "live",
    "notes": "Awin 117825. Joined 2026-11-21 (batch 83, auto-accepted). USA-made handcrafted plush catnip kicker toys for cats. Link Online. Payment Status amber, Exposure Level 1 (avg pay ~26 days) \u2014 listed per the EL1 precedent.",
    "regions": [
     "US"
-   ]
+   ],
+   "status": "live",
+   "store_url": "https://www.kittykickstix.com/"
   },
   {
+   "commission_note": "5% flat (Commission Manager Default, verified 2026-11-21; profile advertises 5-10% \u2014 CM governs)",
+   "commission_rate": 0.05,
    "id": "awin-reudyn-131985",
+   "link_template": "https://www.awin1.com/cread.php?awinmid=131985&awinaffid=3161005&clickref={SID}",
    "name": "REUDYN",
    "network": "awin",
-   "commission_rate": 0.05,
-   "commission_note": "5% flat (Commission Manager Default, verified 2026-11-21; profile advertises 5-10% \u2014 CM governs)",
-   "link_template": "https://www.awin1.com/cread.php?awinmid=131985&awinaffid=3161005&clickref={SID}",
-   "store_url": "https://www.reudyn.com/",
-   "status": "live",
    "notes": "Awin 131985. Joined 2026-11-21 (batch 83, auto-accepted). Intelligent wearable robotics \u2014 hip-assist exoskeletons (Hip X26). Link Online. Payment Status amber, Exposure Level 2.",
    "regions": [
     "US"
-   ]
+   ],
+   "status": "live",
+   "store_url": "https://www.reudyn.com/"
   },
   {
+   "commission_note": "10% flat (Commission Manager, verified 2026-11-21; profile marketing says 15%/20% \u2014 CM governs)",
+   "commission_rate": 0.1,
    "id": "awin-wau-124878",
+   "link_template": "https://www.awin1.com/cread.php?awinmid=124878&awinaffid=3161005&clickref={SID}",
    "name": "WAU",
    "network": "awin",
-   "commission_rate": 0.1,
-   "commission_note": "10% flat (Commission Manager, verified 2026-11-21; profile marketing says 15%/20% \u2014 CM governs)",
-   "link_template": "https://www.awin1.com/cread.php?awinmid=124878&awinaffid=3161005&clickref={SID}",
-   "store_url": "https://wauglobal.com/",
-   "status": "live",
    "notes": "Awin 124878. Joined 2026-11-21 (batch 85, auto-accepted). Premium beauty and health-tech devices for face, body, hair and oral care. Link Online. Payment Status amber, Exposure Level 2 (avg pay ~59-72 days). Serves 47 regions incl. US/UK/CA/AU/EU.",
    "regions": [
     "GLOBAL"
-   ]
+   ],
+   "status": "live",
+   "store_url": "https://wauglobal.com/"
   },
   {
+   "commission_note": "5% flat (Commission Manager Default, verified 2026-11-21)",
+   "commission_rate": 0.05,
    "id": "awin-brookwood-med-124250",
+   "link_template": "https://www.awin1.com/cread.php?awinmid=124250&awinaffid=3161005&clickref={SID}",
    "name": "Brookwood Med",
    "network": "awin",
-   "commission_rate": 0.05,
-   "commission_note": "5% flat (Commission Manager Default, verified 2026-11-21)",
-   "link_template": "https://www.awin1.com/cread.php?awinmid=124250&awinaffid=3161005&clickref={SID}",
-   "store_url": "https://brookwoodmed.com/",
-   "status": "live",
    "notes": "Awin 124250. Joined 2026-11-21 (batch 85, auto-accepted). Certified face masks (KN95, KF94, kids and sports) and PPE. Link Online. Payment Status amber, Exposure Level 1 (avg pay ~48-55 days) \u2014 listed per the EL1 precedent.",
    "regions": [
     "US"
-   ]
+   ],
+   "status": "live",
+   "store_url": "https://brookwoodmed.com/"
   },
   {
+   "commission_note": "15% flat (Commission Manager Default, verified 2026-11-21; tiered up to 20% by monthly GMV)",
+   "commission_rate": 0.15,
    "id": "awin-traverseon-124816",
+   "link_template": "https://www.awin1.com/cread.php?awinmid=124816&awinaffid=3161005&clickref={SID}",
    "name": "Traverseon",
    "network": "awin",
-   "commission_rate": 0.15,
-   "commission_note": "15% flat (Commission Manager Default, verified 2026-11-21; tiered up to 20% by monthly GMV)",
-   "link_template": "https://www.awin1.com/cread.php?awinmid=124816&awinaffid=3161005&clickref={SID}",
-   "store_url": "https://traverseon.com/",
-   "status": "live",
    "notes": "Awin 124816. Joined 2026-11-21 (batch 95, auto-accepted). Premium compact outdoor gear \u2014 tents, sleeping bags, camping chairs. Link Online. Payment Status amber, Exposure Level 1 (pays via Direct Debit; avg pay ~55 days) \u2014 listed per the EL1 precedent.",
    "regions": [
     "US"
-   ]
+   ],
+   "status": "live",
+   "store_url": "https://traverseon.com/"
   },
   {
+   "commission_note": "20% flat (Commission Manager Default, verified 2026-11-21)",
+   "commission_rate": 0.2,
    "id": "awin-neuroscent-117317",
+   "link_template": "https://www.awin1.com/cread.php?awinmid=117317&awinaffid=3161005&clickref={SID}",
    "name": "NeuroScent",
    "network": "awin",
-   "commission_rate": 0.2,
-   "commission_note": "20% flat (Commission Manager Default, verified 2026-11-21)",
-   "link_template": "https://www.awin1.com/cread.php?awinmid=117317&awinaffid=3161005&clickref={SID}",
-   "store_url": "https://neuroscent.myshopify.com/",
-   "status": "live",
    "notes": "Awin 117317. Joined 2026-11-21 (batch 95, auto-accepted). British wellbeing brand \u2014 botanical essential-oil blends, diffusers, wellbeing kits. Link Online. Payment Status amber, Exposure Level 1 (pays via Direct Debit; avg pay ~17 days) \u2014 listed per the EL1 precedent.",
    "regions": [
     "AT",
@@ -1199,142 +1197,144 @@
     "CH",
     "GB",
     "US"
-   ]
+   ],
+   "status": "live",
+   "store_url": "https://neuroscent.myshopify.com/"
   },
   {
+   "commission_note": "10%-21% (Commission Manager: Default 21%, New Customer 21%, Returning Customer 10% \u2014 verified 2026-11-21)",
+   "commission_rate": null,
    "id": "awin-secretknit-131165",
+   "link_template": "https://www.awin1.com/cread.php?awinmid=131165&awinaffid=3161005&clickref={SID}",
    "name": "SecretKnit (US)",
    "network": "awin",
-   "commission_rate": null,
-   "commission_note": "10%-21% (Commission Manager: Default 21%, New Customer 21%, Returning Customer 10% \u2014 verified 2026-11-21)",
-   "link_template": "https://www.awin1.com/cread.php?awinmid=131165&awinaffid=3161005&clickref={SID}",
-   "store_url": "https://secretknit.com/",
-   "status": "live",
    "notes": "Awin 131165. Joined 2026-11-21 (batch 97, auto-accepted). Handmade crochet flower bouquets and gifts. Link Online. Payment Status green (accelerated payments); no Exposure Level displayed for this program.",
    "regions": [
     "US"
-   ]
+   ],
+   "status": "live",
+   "store_url": "https://secretknit.com/"
   },
   {
+   "commission_note": "18% flat (Commission Manager Default, verified 2026-11-22)",
+   "commission_rate": 0.18,
    "id": "awin-natures-skin-and-body-food-26560",
+   "link_template": "https://www.awin1.com/cread.php?awinmid=26560&awinaffid=3161005&clickref={SID}",
    "name": "Nature's Skin And Body Food (US)",
    "network": "awin",
-   "commission_rate": 0.18,
-   "commission_note": "18% flat (Commission Manager Default, verified 2026-11-22)",
-   "link_template": "https://www.awin1.com/cread.php?awinmid=26560&awinaffid=3161005&clickref={SID}",
-   "store_url": "https://naturesskinandbody.com/",
-   "status": "live",
    "notes": "Awin 26560. Joined 2026-11-22 (batch 101, auto-accepted). Clean beauty \u2014 non-toxic skincare, hair care and body care. Link Online. Payment Status amber, Exposure Level 1 (pays via Direct Debit; avg pay ~53 days) \u2014 listed per the EL1 precedent.",
    "regions": [
     "US"
-   ]
+   ],
+   "status": "live",
+   "store_url": "https://naturesskinandbody.com/"
   },
   {
-   "id": "awin-abbe-glasses-91117",
-   "name": "ABBE Glasses",
-   "network": "awin",
-   "store_url": "https://www.abbeglasses.com",
+   "active": true,
    "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=91117&awinaffid=3161005&clickref={SID}",
    "commission_rate": 0.1,
    "commission_type": "percent",
+   "id": "awin-abbe-glasses-91117",
+   "name": "ABBE Glasses",
+   "network": "awin",
    "notes": "ABBE Glasses Co. Ltd. (Awin 91117). CM Default 10% verified (also Voucher Rate 12%, Default Lead $1 \u2014 listed at Default). abbeglasses.com \u2014 prescription glasses and eyewear. Link Online, Payment Status green (accelerated), no Exposure Level displayed. US. Member share 7%. Joined Nov 22, 2026 (batch 105).",
    "regions": [
     "US"
    ],
-   "active": true
+   "store_url": "https://www.abbeglasses.com"
   },
   {
-   "id": "awin-neje-92915",
-   "name": "NEJE",
-   "network": "awin",
-   "store_url": "https://neje.shop",
+   "active": true,
    "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=92915&awinaffid=3161005&clickref={SID}",
    "commission_rate": 0.08,
    "commission_type": "percent",
+   "id": "awin-neje-92915",
+   "name": "NEJE",
+   "network": "awin",
    "notes": "Shenzhen Zhixinjie Technology Co., Ltd. (Awin 92915), listed under its store brand NEJE. CM Default 8% flat verified (no other groups). neje.shop \u2014 diode laser engravers/machines, laser modules and accessories. Link Online, Payment Status green (avg pay ~70 days), no Exposure Level displayed. US. Member share 5.6%. Joined Nov 22, 2026 (batch 128).",
    "regions": [
     "US"
    ],
-   "active": true
+   "store_url": "https://neje.shop"
   },
   {
-   "id": "awin-loveisarose-96879",
-   "name": "LoveIsARose.com",
-   "network": "awin",
-   "store_url": "https://www.loveisarose.com",
+   "active": true,
    "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=96879&awinaffid=3161005&clickref={SID}",
    "commission_rate": 0.1,
    "commission_type": "percent",
+   "id": "awin-loveisarose-96879",
+   "name": "LoveIsARose.com",
+   "network": "awin",
    "notes": "LoveIsARose.com (Awin 96879). CM Default 10% flat verified (no other groups). loveisarose.com \u2014 gold, platinum and silver roses and anniversary gifts, incl. Personalized Family Trees. Link Online, Payment Status green (avg pay ~20 days), no Exposure Level displayed. US. Member share 7%. Applied batch 89 (pending), approved and joined Nov 22, 2026.",
    "regions": [
     "US"
    ],
-   "active": true
+   "store_url": "https://www.loveisarose.com"
   },
   {
-   "id": "awin-mimi-panda-84797",
-   "name": "Mimi Panda",
-   "network": "awin",
-   "store_url": "https://mimi-panda.com",
+   "active": true,
    "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=84797&awinaffid=3161005&clickref={SID}",
    "commission_rate": 0.35,
    "commission_type": "percent",
+   "id": "awin-mimi-panda-84797",
+   "name": "Mimi Panda",
+   "network": "awin",
    "notes": "Mimi Panda (Awin 84797). CM Default 35% verified (groups range 5%-35%: Commercial Plan 25%; coupon use reduces commission by the coupon %). mimi-panda.com \u2014 turns photos into coloring pages and paint-by-number artworks, digital delivery. Link Online, Payment Status green (avg pay 68 days), no Exposure Level displayed. US. 90-day cookie. Member share 24.5%. Applied batch 139 (pending), approved and joined Nov 22, 2026.",
    "regions": [
     "US"
    ],
-   "active": true
+   "store_url": "https://mimi-panda.com"
   },
   {
-   "id": "awin-upper-brand-97753",
-   "name": "UPPER Brand",
-   "network": "awin",
-   "store_url": "https://upperbags.com",
+   "active": true,
    "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=97753&awinaffid=3161005&clickref={SID}",
    "commission_rate": 0.2,
    "commission_type": "percent",
+   "id": "awin-upper-brand-97753",
+   "name": "UPPER Brand",
+   "network": "awin",
    "notes": "UPPER Brand | Best Diaper Bag (Awin 97753). CM Default 20% verified (only group). upperbags.com \u2014 premium leather diaper bags and baby accessories, designed in NYC. Link Online, Payment Status green, no Exposure Level displayed. Regions: US only per the profile Regions section (program text claims global shipping, but the Regions section governs). 30-day cookie. Member share 14%. Applied batch 145, auto-accepted and joined Nov 22, 2026.",
    "regions": [
     "US"
    ],
-   "active": true
+   "store_url": "https://upperbags.com"
   },
   {
-   "id": "awin-flags-connections-88425",
-   "name": "Flags Connections",
-   "network": "awin",
-   "store_url": "https://www.flagsconnections.com",
+   "active": true,
    "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=88425&awinaffid=3161005&clickref={SID}",
    "commission_rate": 0.12,
    "commission_type": "percent",
+   "id": "awin-flags-connections-88425",
+   "name": "Flags Connections",
+   "network": "awin",
    "notes": "Flags Connections (Awin 88425). CM Default 12% flat verified (only rate; matches headline). flagsconnections.com \u2014 flags and flag accessories, avg order $200. Link Online, Payment Status GREEN (accelerated; avg pay 73d), no Exposure Level displayed. US only. 60-day attribution. Member share 8.4%. Joined Nov 22, 2026 (approval email); verified and listed Nov 22, 2026.",
    "regions": [
     "US"
    ],
-   "active": true
+   "store_url": "https://www.flagsconnections.com"
   },
   {
-   "id": "awin-sailo-92667",
-   "name": "SAILO",
-   "network": "awin",
-   "store_url": "https://www.sailo.com",
+   "active": true,
    "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=92667&awinaffid=3161005&clickref={SID}",
    "commission_rate": 0.05,
    "commission_type": "percent",
+   "id": "awin-sailo-92667",
+   "name": "SAILO",
+   "network": "awin",
    "notes": "SAILO (Awin 92667). CM Default is a RANGE 2%-10% with no exposed group breakdown; profile headline says 'up to 5% per sale' (AOV $1,600). sailo.com \u2014 boat and yacht rentals. Listed as 2%-10%, member 1.4%-7%; registry scalar 0.05 reflects the advertised per-sale headline, see range. Link Online, Payment Status GREEN (accelerated; avg pay 46d), no Exposure Level displayed. Regions: US only per the profile Regions field (boats in 50+ countries, but Regions governs). 60-day cookie. Joined Nov 22, 2026; verified and listed Nov 22, 2026.",
    "regions": [
     "US"
    ],
-   "active": true
+   "store_url": "https://www.sailo.com"
   },
   {
-   "id": "awin-needs-no-label-78586",
-   "name": "Needs No Label",
-   "network": "awin",
-   "store_url": "https://www.needsnolabel.com",
+   "active": true,
    "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=78586&awinaffid=3161005&clickref={SID}",
    "commission_rate": 0.02,
    "commission_type": "percent",
+   "id": "awin-needs-no-label-78586",
+   "name": "Needs No Label",
+   "network": "awin",
    "notes": "Needs No Label (Awin 78586). CM Default 2% verified (only rate group). needsnolabel.com. Link Online, Exposure Level 1, Payment Status AMBER (avg pay 61d). 46 regions incl. US and UK. 30-day cookie. Member share 1.4%. Joined Nov 22, 2026 (auto-accepted, batch 149); verified and listed Nov 22, 2026.",
    "regions": [
     "AR",
@@ -1383,16 +1383,16 @@
     "GB",
     "US"
    ],
-   "active": true
+   "store_url": "https://www.needsnolabel.com"
   },
   {
-   "id": "awin-nothingprojector-75408",
-   "name": "Nothingprojector",
-   "network": "awin",
-   "store_url": "https://nothingprojector.com",
+   "active": true,
    "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=75408&awinaffid=3161005&clickref={SID}",
    "commission_rate": 0.05,
    "commission_type": "percent",
+   "id": "awin-nothingprojector-75408",
+   "name": "Nothingprojector",
+   "network": "awin",
    "notes": "Nothingprojector (Awin 75408). CM Default 5% verified (only rate group). nothingprojector.com. Link Online, Payment Status GREEN (accelerated; avg pay 70d), no Exposure Level displayed. 23 regions incl. US and UK. 30-day cookie. Member share 3.5%. Joined Nov 22, 2026 (auto-accepted, batch 149); verified and listed Nov 22, 2026.",
    "regions": [
     "AU",
@@ -1419,16 +1419,16 @@
     "GB",
     "US"
    ],
-   "active": true
+   "store_url": "https://nothingprojector.com"
   },
   {
-   "id": "awin-smugglers-crate-81213",
-   "name": "Smugglers Crate",
-   "network": "awin",
-   "store_url": "https://smugglerscrate.com",
+   "active": true,
    "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=81213&awinaffid=3161005&clickref={SID}",
    "commission_rate": 0.15,
    "commission_type": "percent",
+   "id": "awin-smugglers-crate-81213",
+   "name": "Smugglers Crate",
+   "network": "awin",
    "notes": "Smugglers Crate (Awin 81213). CM Default 15% verified (only rate group). smugglerscrate.com. Link Online, Exposure Level 2, Payment Status AMBER (avg pay 61d). 10 regions incl. US and UK. 30-day cookie. Member share 10.5%. Joined Nov 22, 2026 (auto-accepted, batch 149); verified and listed Nov 22, 2026.",
    "regions": [
     "CA",
@@ -1442,289 +1442,328 @@
     "GB",
     "US"
    ],
-   "active": true
+   "store_url": "https://smugglerscrate.com"
   },
   {
-   "id": "awin-xlaserlab-118933",
-   "name": "Xlaserlab",
-   "network": "awin",
-   "store_url": "https://www.xlaserlab.com",
+   "active": true,
    "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=118933&awinaffid=3161005&clickref={SID}",
    "commission_rate": 0.03,
    "commission_type": "percent",
+   "id": "awin-xlaserlab-118933",
+   "name": "Xlaserlab",
+   "network": "awin",
    "notes": "Xlaserlab (Awin 118933). CM Default 3% verified (only rate group; cut from 5% on Nov 22, 2026 \u2014 CM governs over the profile's stale '5% Commission' text and the approval email figure). xlaserlab.com. Link Online, Exposure Level 2, Payment Status AMBER (avg pay 75d). US only. 90-day cookie. Member share 2.1%. Joined Nov 22, 2026; verified and listed Nov 22, 2026.",
    "regions": [
     "US"
    ],
-   "active": true
+   "store_url": "https://www.xlaserlab.com"
   },
   {
-   "id": "awin-bonne-et-filou-59397",
-   "name": "Bonne et Filou",
-   "network": "awin",
-   "store_url": "https://bonneetfilou.com",
+   "active": true,
    "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=59397&awinaffid=3161005&clickref={SID}",
    "commission_rate": 0.2,
    "commission_type": "percent",
+   "id": "awin-bonne-et-filou-59397",
+   "name": "Bonne et Filou",
+   "network": "awin",
    "notes": "Bonne et Filou (Awin 59397). CM Default 20% verified (only rate group). bonneetfilou.com. Link Online, Payment Status GREEN (accelerated; avg pay 25d), no Exposure Level displayed. US only. 30-day cookie. Member share 14%. Joined Nov 22, 2026 (profile shows Joined; My Programs directory still listed it Pending at check time \u2014 directory lag, profile governs); verified and listed Nov 22, 2026.",
    "regions": [
     "US"
    ],
-   "active": true
+   "store_url": "https://bonneetfilou.com"
   },
   {
-   "id": "awin-more-than-matcha-124962",
-   "name": "More Than Matcha",
-   "network": "awin",
-   "store_url": "https://morethanmatcha.co",
+   "active": true,
    "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=124962&awinaffid=3161005&clickref={SID}",
    "commission_rate": 0.1,
    "commission_type": "percent",
+   "id": "awin-more-than-matcha-124962",
+   "name": "More Than Matcha",
+   "network": "awin",
    "notes": "More Than Matcha (Awin 124962). CM Default 10% verified (only rate group). morethanmatcha.co. Link Online, Exposure Level 1, Payment Status AMBER. US only. Member share 7%. Auto-accepted on application; joined Nov 22, 2026; verified and listed Nov 22, 2026.",
    "regions": [
     "US"
    ],
-   "active": true
+   "store_url": "https://morethanmatcha.co"
   },
   {
-   "id": "awin-rowabi-46127",
-   "name": "Rowabi",
-   "network": "awin",
-   "store_url": "https://www.rowabi.com",
+   "active": true,
    "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=46127&awinaffid=3161005&clickref={SID}",
    "commission_rate": 0.1,
    "commission_type": "percent",
+   "id": "awin-rowabi-46127",
+   "name": "Rowabi",
+   "network": "awin",
    "notes": "Rowabi (Awin 46127). CM Default 10% verified (Commission Manager Default group; profile text mentions 'up to 10%' / 'up to 8%' \u2014 CM governs). rowabi.com. Link Online, Payment Status GREEN (accelerated), no Exposure Level displayed. US only. Member share 7%. Auto-accepted on application; joined Nov 22, 2026; verified and listed Nov 22, 2026.",
    "regions": [
     "US"
    ],
-   "active": true
+   "store_url": "https://www.rowabi.com"
   },
   {
-   "id": "awin-teethnightguard-88527",
-   "name": "TeethNightGuard.com",
-   "network": "awin",
-   "store_url": "https://www.teethnightguard.com",
+   "active": true,
    "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=88527&awinaffid=3161005&clickref={SID}",
    "commission_rate": 0.06,
    "commission_type": "percent",
+   "id": "awin-teethnightguard-88527",
+   "name": "TeethNightGuard.com",
+   "network": "awin",
    "notes": "TeethNightGuard.com (Awin 88527). CM Default 6% verified (timeline range runs to 20% and profile text mentions 12%/up to 20% \u2014 CM Default governs). teethnightguard.com. Link Online, Payment Status GREEN (avg pay 71d), no Exposure Level displayed. US only. Member share 4.2%. Joined Nov 22, 2026; verified and listed Nov 22, 2026.",
    "regions": [
     "US"
    ],
-   "active": true
+   "store_url": "https://www.teethnightguard.com"
   },
   {
-   "id": "awin-efe-52103",
-   "name": "EFE",
-   "network": "awin",
-   "store_url": "https://www.efeglasses.com",
+   "active": true,
    "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=52103&awinaffid=3161005&clickref={SID}",
    "commission_rate": 0.08,
    "commission_type": "percent",
+   "id": "awin-efe-52103",
+   "name": "EFE",
+   "network": "awin",
    "notes": "EFE (Awin 52103). CM Default 8% verified (other groups GLACY15 15%, Exclusive Discount 17%, CYCLING 15% are not the Default; profile 'up to 15%' is headline text). efeglasses.com. Link Online, Payment Status GREEN (avg pay 72d), no Exposure Level displayed. US only. Member share 5.6%. Joined Nov 22, 2026; verified and listed Nov 22, 2026.",
    "regions": [
     "US"
    ],
-   "active": true
+   "store_url": "https://www.efeglasses.com"
   },
   {
-   "id": "awin-house-of-twist-120193",
-   "name": "House of Twist",
-   "network": "awin",
-   "store_url": "https://twistperfumes.com",
+   "active": true,
    "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=120193&awinaffid=3161005&clickref={SID}",
    "commission_rate": 0.1,
    "commission_type": "percent",
+   "id": "awin-house-of-twist-120193",
+   "name": "House of Twist",
+   "network": "awin",
    "notes": "House of Twist (Awin 120193) \u2014 the store is Twist Perfumes (twistperfumes.com); the 'Twist Perfumes' welcome email Nov 22 is this same program. CM Default 10% verified (a 'Coupon/Cashback' group at 2% exists \u2014 CM Default governs). EL1, Payment Status Amber (avg pay 62d), Link Online. US only. Member share 7%. Auto-accepted in batch 156; verified and listed Nov 22, 2026.",
    "regions": [
     "US"
    ],
-   "active": true
+   "store_url": "https://twistperfumes.com"
   },
   {
-   "id": "awin-efootwear-90809",
-   "name": "eFootwear.com",
-   "network": "awin",
-   "store_url": "https://www.efootwear.com",
+   "active": true,
    "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=90809&awinaffid=3161005&clickref={SID}",
    "commission_rate": 0.1,
    "commission_type": "percent",
+   "id": "awin-efootwear-90809",
+   "name": "eFootwear.com",
+   "network": "awin",
    "notes": "eFootwear.com (Awin 90809). CM Default 10% verified (single Default group). EL0, Payment Status GREEN accelerated (avg pay 19d), Link Online. efootwear.com. US only. Member share 7%. Approved Nov 22, 2026 (batch 106 application); verified and listed Nov 22, 2026.",
    "regions": [
     "US"
    ],
-   "active": true
+   "store_url": "https://www.efootwear.com"
   },
   {
-   "id": "awin-blackboxmeats-25940",
-   "name": "BlackboxMeats (US)",
-   "network": "awin",
-   "store_url": "https://blackboxmeats.com",
+   "active": true,
    "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=25940&awinaffid=3161005&clickref={SID}",
    "commission_rate": 0.03,
    "commission_type": "percent",
+   "id": "awin-blackboxmeats-25940",
+   "name": "BlackboxMeats (US)",
+   "network": "awin",
    "notes": "BlackboxMeats (US) (Awin 25940). CM Default 3% verified. EL1, Payment Status Amber (avg pay 63d), Link Online. blackboxmeats.com. US only. Member share 2.1%. Auto-accepted in batch 157; verified and listed Nov 22, 2026.",
    "regions": [
     "US"
    ],
-   "active": true
+   "store_url": "https://blackboxmeats.com"
   },
   {
-   "id": "awin-celsius-herbs-126887",
-   "name": "Celsius Herbs",
-   "network": "awin",
-   "store_url": "https://celsiusherbs.com",
+   "active": true,
    "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=126887&awinaffid=3161005&clickref={SID}",
    "commission_rate": 0.2,
    "commission_type": "percent",
+   "id": "awin-celsius-herbs-126887",
+   "name": "Celsius Herbs",
+   "network": "awin",
    "notes": "Celsius Herbs (Awin 126887). CM Default 20% verified. EL1, Payment Status Amber (avg pay 57d), Link Online. celsiusherbs.com. US only. Member share 14%. Auto-accepted in batch 158; verified and listed Nov 22, 2026.",
    "regions": [
     "US"
    ],
-   "active": true
+   "store_url": "https://celsiusherbs.com"
   },
   {
-   "id": "awin-primeful-130555",
-   "name": "Primeful",
-   "network": "awin",
-   "store_url": "https://heroofmybook.com",
+   "active": true,
    "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=130555&awinaffid=3161005&clickref={SID}",
    "commission_rate": 0.16,
    "commission_type": "percent",
+   "id": "awin-primeful-130555",
+   "name": "Primeful",
+   "network": "awin",
    "notes": "Primeful (Awin 130555); the store is Hero of My Book (heroofmybook.com). CM Default 16% verified (profile text says 15% base; CM governs). EL1, Payment Status Amber, Link Online. US only. Member share 11.2%. Terms: incentivized purchases only outside an approved cashback/loyalty partnership are barred \u2014 Dark Money's Awin approval is that partnership. Auto-accepted in batch 159; verified and listed Nov 22, 2026.",
    "regions": [
     "US"
    ],
-   "active": true
+   "store_url": "https://heroofmybook.com"
   },
   {
-   "id": "awin-dry-and-dirty-us-127021",
-   "name": "Dry & Dirty (US)",
-   "network": "awin",
-   "store_url": "https://www.dryanddirty.com/",
+   "active": true,
    "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=127021&awinaffid=3161005&clickref={SID}",
    "commission_rate": 0.15,
    "commission_type": "percent",
+   "id": "awin-dry-and-dirty-us-127021",
+   "name": "Dry & Dirty (US)",
+   "network": "awin",
    "notes": "Awin advertiser 127021 (Dry & Dirty US). Commission Manager Default 15% verified at fold-in (Nov 22, 2026; only commission group). Exposure Level 1, Amber payment status (avg pay 28d), Link Online. US. Member share 70% = 10.5%.",
    "regions": [
     "US"
    ],
-   "active": true
+   "store_url": "https://www.dryanddirty.com/"
   },
   {
-   "id": "awin-skimpies-us-107443",
-   "name": "Skimpies US",
-   "network": "awin",
-   "store_url": "https://www.skimpies.com",
+   "active": true,
    "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=107443&awinaffid=3161005&clickref={SID}",
    "commission_rate": 0.2,
    "commission_type": "percent",
+   "id": "awin-skimpies-us-107443",
+   "name": "Skimpies US",
+   "network": "awin",
    "notes": "Awin advertiser 107443 (Skimpies US). Commission Manager Default 20% verified at fold-in (Nov 22, 2026; only commission group). Exposure Level 1, Amber payment status (avg pay 36d), Link Online. US. Member share 70% = 14%.",
    "regions": [
     "US"
    ],
-   "active": true
+   "store_url": "https://www.skimpies.com"
   },
   {
-   "id": "awin-illadelph-spirits-119371",
-   "name": "Illadelph Spirits",
-   "network": "awin",
-   "store_url": "https://shop.illadelphspirits.com/",
+   "active": true,
    "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=119371&awinaffid=3161005&clickref={SID}",
    "commission_rate": 0.05,
    "commission_type": "percent",
+   "id": "awin-illadelph-spirits-119371",
+   "name": "Illadelph Spirits",
+   "network": "awin",
    "notes": "Awin advertiser 119371 (Illadelph Spirits). Commission Manager Default 5% verified at fold-in (Nov 22, 2026; only commission group). Exposure Level 1, Amber payment status (avg pay 19d), Link Online. US. Alcohol (craft vodka) \u2014 listed per James's explicit approval Nov 22, 2026. Member share 70% = 3.5%.",
    "regions": [
     "US"
    ],
-   "active": true
+   "store_url": "https://shop.illadelphspirits.com/"
   },
   {
-   "id": "awin-enjox-toys-111786",
-   "name": "Enjox Toys",
-   "network": "awin",
-   "store_url": "https://www.enjox.com/",
+   "active": true,
    "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=111786&awinaffid=3161005&clickref={SID}",
    "commission_rate": 0.2,
    "commission_type": "percent",
+   "id": "awin-enjox-toys-111786",
+   "name": "Enjox Toys",
+   "network": "awin",
    "notes": "Awin advertiser 111786 (Enjox Toys). Commission Manager Default 20% verified at fold-in (Nov 22, 2026; only commission group; a +5% new-affiliate bonus is mentioned in program text but has no CM group, not counted). Exposure Level not shown on profile; Payment Status Green (accelerated, avg pay 54d), Link Online. US. Adult toys \u2014 listed under James's Nov 22, 2026 legal-products rule. Member share 70% = 14%.",
    "regions": [
     "US"
    ],
-   "active": true
+   "store_url": "https://www.enjox.com/"
   },
   {
-   "id": "awin-christmas-mystery-129653",
-   "name": "Christmas Mystery",
-   "network": "awin",
-   "store_url": "http://yd4hpz-10.myshopify.com/",
+   "active": true,
    "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=129653&awinaffid=3161005&clickref={SID}",
    "commission_rate": 0.15,
    "commission_type": "percent",
+   "id": "awin-christmas-mystery-129653",
+   "name": "Christmas Mystery",
+   "network": "awin",
    "notes": "Awin advertiser 129653 (Christmas Mystery). Commission Manager Default 15% verified at fold-in (Nov 22, 2026; only group in CM). Exposure Level 1, Amber payment status, Link Online. US. Member share 70% = 10.5%.",
    "regions": [
     "US"
    ],
-   "active": true
+   "store_url": "http://yd4hpz-10.myshopify.com/"
   },
   {
-   "id": "awin-newt-nutrition-131393",
-   "name": "Newt Nutrition",
-   "network": "awin",
-   "store_url": "https://trysemex.com",
+   "active": true,
    "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=131393&awinaffid=3161005&clickref={SID}",
    "commission_rate": 0.1,
    "commission_type": "percent",
+   "id": "awin-newt-nutrition-131393",
+   "name": "Newt Nutrition",
+   "network": "awin",
    "notes": "Awin advertiser 131393 (Newt Nutrition). Commission Manager Default 10% verified at fold-in (Nov 22, 2026; only group). Exposure Level 1, Amber payment status, Link Online. US. Member share 70% = 7%.",
    "regions": [
     "US"
    ],
-   "active": true
+   "store_url": "https://trysemex.com"
   },
   {
-   "id": "awin-orion-rlt-130163",
-   "name": "Orion RLT",
-   "network": "awin",
-   "store_url": "https://orionrlt.com/",
+   "active": true,
    "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=130163&awinaffid=3161005&clickref={SID}",
    "commission_rate": 0.1,
    "commission_type": "percent",
+   "id": "awin-orion-rlt-130163",
+   "name": "Orion RLT",
+   "network": "awin",
    "notes": "Awin advertiser 130163 (Orion RLT). Commission Manager Default 10% verified at fold-in (Nov 22, 2026; only group). Exposure Level 1, Amber payment status, Link Online. US. Member share 70% = 7%.",
    "regions": [
     "US"
    ],
-   "active": true
+   "store_url": "https://orionrlt.com/"
   },
   {
-   "id": "awin-cookie-pop-candy-pop-129711",
-   "name": "Cookie Pop Candy Pop",
-   "network": "awin",
-   "store_url": "https://www.cookiepopcandypop.com/",
+   "active": true,
    "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=129711&awinaffid=3161005&clickref={SID}",
    "commission_rate": 0.125,
    "commission_type": "percent",
+   "id": "awin-cookie-pop-candy-pop-129711",
+   "name": "Cookie Pop Candy Pop",
+   "network": "awin",
    "notes": "Awin advertiser 129711 (Cookie Pop Candy Pop Affiliate Program (US)). Commission Manager Default 12.5% verified at fold-in (Nov 22, 2026; only group). Exposure Level 1, Amber payment status, Link Online. US. Member share 70% = 8.75%.",
    "regions": [
     "US"
    ],
-   "active": true
+   "store_url": "https://www.cookiepopcandypop.com/"
   },
   {
-   "id": "awin-haurangi-131486",
-   "name": "Haurangi",
-   "network": "awin",
-   "store_url": "https://haurangi.com/",
+   "active": true,
    "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=131486&awinaffid=3161005&clickref={SID}",
    "commission_rate": 0.12,
    "commission_type": "percent",
+   "id": "awin-haurangi-131486",
+   "name": "Haurangi",
+   "network": "awin",
    "notes": "Awin advertiser 131486 (Haurangi). Commission Manager Default 12% verified at fold-in (Nov 22, 2026; only group). Exposure Level 1, Amber payment status, Link Online. US. Member share 70% = 8.4%.",
    "regions": [
     "US"
    ],
-   "active": true
+   "store_url": "https://haurangi.com/"
+  },
+  {
+   "approved_at": "2026-11-22",
+   "commission": "10% on ticket purchases",
+   "commission_rate": 0.1,
+   "id": "cj-weekend-in-italy",
+   "link_template": "https://www.kqzyfj.com/click-101932824-17310676?sid={SID}",
+   "name": "Weekend in Italy",
+   "network": "cj",
+   "note": "CJ advertiser 7948308 (WEEKEND A FIRENZE srl, weekendinitaly.com). Verified at fold-in Nov 22, 2026: 10% on museum/monument ticket purchases, Incentivized Traffic: Allowed in CJ program terms, links Active for website 101932824, relationship active since 2026-11-21. Member share 70% = 7%.",
+   "regions": [
+    "AU",
+    "AT",
+    "BE",
+    "BR",
+    "CA",
+    "CN",
+    "DK",
+    "FR",
+    "DE",
+    "IN",
+    "IE",
+    "IT",
+    "JP",
+    "KR",
+    "MX",
+    "NL",
+    "NO",
+    "PL",
+    "ZA",
+    "ES",
+    "SE",
+    "CH",
+    "AE",
+    "GB",
+    "US"
+   ],
+   "status": "approved",
+   "store_url": "https://www.weekendinitaly.com/"
   }
  ],
- "updated_at": "2026-11-22",
- "registry_version": 62
+ "registry_version": 63,
+ "updated_at": "2026-11-22"
 }
