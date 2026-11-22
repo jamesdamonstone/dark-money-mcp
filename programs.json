@@ -1,5 +1,5 @@
 {
- "count": 69,
+ "count": 70,
  "programs": [
   {
    "commission": "40%",
@@ -917,6 +917,21 @@
    "name": "PaintMySoul",
    "network": "awin",
    "note": "Auto-accepted in Awin batch 69 (advertiser 131774). Hand-painted custom portraits from photos. Terms allow Cashback and Loyalty. CM Default $5 flat, Link Online, Payment green. Member earns $3.50.",
+   "regions": [
+    "US"
+   ],
+   "status": "approved"
+  },
+  {
+   "approved_at": "2026-11-21",
+   "batch": "batch-71",
+   "commission": "10% per sale",
+   "commission_rate": 0.1,
+   "id": "awin-bella-maison-usa",
+   "link_template": "https://www.awin1.com/cread.php?awinmid=121896&awinaffid=3161005&clickref={SID}",
+   "name": "Bella Maison USA",
+   "network": "awin",
+   "note": "Auto-accepted in Awin batch 71 (advertiser 121896). Home and lifestyle brand (tableware, bedding, decor). Terms allow Cashback. CM Default 10%, Link Online, Exposure Level 1. Member earns 7%.",
    "regions": [
     "US"
    ],
