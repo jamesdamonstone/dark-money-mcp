@@ -992,8 +992,22 @@
       "regions": [
         "US"
       ]
+    },
+    {
+      "id": "awin-max-recovery-clothing-117883",
+      "name": "Max Recovery Clothing",
+      "network": "awin",
+      "commission_rate": 0.1,
+      "commission_note": "10% flat (Commission Manager Default, verified 2026-11-21)",
+      "link_template": "https://www.awin1.com/cread.php?awinmid=117883&awinaffid=3161005&clickref={SID}",
+      "store_url": "https://maxrecoveryclothing.com/",
+      "status": "live",
+      "notes": "Awin 117883. Joined 2026-11-21 (batch 82, auto-accepted). Therapeutic recovery pants for athletes (myofascial release / muscle recovery). Link Online. Payment Status amber, Exposure Level 1 (over credit limit, pays via Direct Debit) \u2014 listed per the EL1 precedent.",
+      "regions": [
+        "US"
+      ]
     }
   ],
   "updated_at": "2026-11-21",
-  "registry_version": 33
+  "registry_version": 34
 }
