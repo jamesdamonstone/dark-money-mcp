@@ -1,5 +1,5 @@
 {
- "count": 107,
+ "count": 106,
  "programs": [
   {
    "approved_at": "2026-11-19",
@@ -1007,21 +1007,6 @@
   {
    "approved_at": "2026-11-21",
    "batch": 69,
-   "commission": "3%",
-   "commission_rate": 0.03,
-   "id": "awin-bible-bricks",
-   "link_template": "https://www.awin1.com/cread.php?awinmid=131866&awinaffid=3161005&clickref={SID}",
-   "name": "Bible Bricks",
-   "network": "awin",
-   "note": "Auto-accepted in Awin batch 69 (advertiser 131866). LEGO-compatible building sets that bring Bible stories to life (biblebricks.com). Terms allow Cashback and Loyalty. CM Default 3% flat (single group, verified at fold-in; profile headline says 10% - CM governs). Link Online. Exposure Level 2. US only. Folded in as site update #36.",
-   "regions": [
-    "US"
-   ],
-   "status": "approved"
-  },
-  {
-   "approved_at": "2026-11-21",
-   "batch": 69,
    "commission": "$5 flat per sale",
    "commission_rate": null,
    "id": "awin-paintmysoul",
@@ -1657,5 +1642,5 @@
   }
  ],
  "updated_at": "2026-11-22",
- "registry_version": 56
+ "registry_version": 57
 }
