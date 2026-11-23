@@ -1,5 +1,5 @@
 {
- "count": 117,
+ "count": 118,
  "programs": [
   {
    "approved_at": "2026-11-19",
@@ -1848,8 +1848,22 @@
     "US"
    ],
    "store_url": "https://www.autelpilot.com/"
+  },
+  {
+   "active": true,
+   "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=57145&awinaffid=3161005&clickref={SID}",
+   "commission_rate": 0.15,
+   "commission_type": "percent",
+   "id": "awin-comenii-scrubs-57145",
+   "name": "Comenii Scrubs",
+   "network": "awin",
+   "notes": "Awin advertiser 57145 (COMENII LIMITED - medical scrubs/uniforms). Standard 15% verified at fold-in (Nov 22, 2026; CM band 15-20%, profile Overview: 15% standard, up to 20% only for selected high-performing content partners). Joined confirmed in BOTH profile and legacy Joined list. Payment status Green (avg pay ~24d); no Exposure Level shown (Green programmes carry none). Link Online. US only. Terms PDF (09 Jan 2026): Allowed partner types include Loyalty, Virtual incentives, Sub networks, Discount code (no Cashback entry - listed under the Loyalty-satisfies rule, same as batch-time application); no incentivized-traffic ban. Member share 70% = 10.5%.",
+   "regions": [
+    "US"
+   ],
+   "store_url": "https://comenii.com/"
   }
  ],
- "registry_version": 67,
+ "registry_version": 68,
  "updated_at": "2026-11-22"
 }
