@@ -1,5 +1,5 @@
 {
- "count": 138,
+ "count": 139,
  "programs": [
   {
    "approved_at": "2026-11-19",
@@ -2242,8 +2242,25 @@
    ],
    "status": "approved",
    "store_url": "https://www.24-7pressrelease.com"
+  },
+  {
+   "active": true,
+   "affiliate_link_template": "https://www.anrdoezrs.net/click-101932824-15402815?sid={SID}",
+   "approved_at": "2026-11-23",
+   "commission_rate": 0.5,
+   "commission_type": "percent",
+   "id": "cj-abelssoft-int-6260179",
+   "link_template": "https://www.anrdoezrs.net/click-101932824-15402815?sid={SID}",
+   "name": "Abelssoft Int",
+   "network": "cj",
+   "notes": "CJ advertiser 6260179 (Abelssoft \u2014 Windows optimization, security and multimedia software). Auto-approved / joined instantly Nov 23, 2026 (CJ batch C3). Default sale action commission 50.00% verified at fold-in (Nov 23, 2026) from the Active Partner Conditions; item list runs 40%/50%/60%/70% by product, 0% on 3rd-party products. Terms: no cashback/incentivized-traffic ban. Serviceable area worldwide. Member share 70% of 50% = 35%.",
+   "regions": [
+    "GLOBAL"
+   ],
+   "status": "approved",
+   "store_url": "https://www.abelssoft.com"
   }
  ],
- "registry_version": 84,
+ "registry_version": 85,
  "updated_at": "2026-11-23"
 }
