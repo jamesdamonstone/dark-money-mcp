@@ -1,5 +1,5 @@
 {
- "count": 122,
+ "count": 123,
  "programs": [
   {
    "approved_at": "2026-11-19",
@@ -1929,8 +1929,32 @@
    ],
    "status": "approved",
    "store_url": "https://www.x-sense.com"
+  },
+  {
+   "active": true,
+   "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=74424&awinaffid=3161005&clickref={SID}",
+   "commission_rate": 0.02,
+   "commission_type": "percent",
+   "id": "awin-tymo-beauty-74424",
+   "name": "TYMO Beauty",
+   "network": "awin",
+   "notes": "Awin advertiser 74424 (TYMO BEAUTY LIMITED, tymobeauty.com - hair tools: straighteners, smart curlers). CM Default verified at fold-in (Nov 22, 2026): 2.00% current (dropped from 5% the same evening; profile copy advertises 3% baseline / up to 20% by publisher type - CM Default governs). Joined confirmed in BOTH profile and legacy Joined list. Payment status Green (avg pay 71d); no Exposure Level shown (Green programmes carry none). Link Online. Regions AU BE CA DE IT MX PL PT ES GB US. Terms PDF (17 Jul 2025): Allowed partner types include Cashback, Loyalty, Sub networks, Discount code, Virtual incentives; no incentivized-traffic ban (coupon rules are the standard program-codes-only kind). Member share 70% = 1.4%.",
+   "regions": [
+    "AU",
+    "BE",
+    "CA",
+    "DE",
+    "IT",
+    "MX",
+    "PL",
+    "PT",
+    "ES",
+    "GB",
+    "US"
+   ],
+   "store_url": "https://www.tymobeauty.com"
   }
  ],
- "registry_version": 70,
+ "registry_version": 71,
  "updated_at": "2026-11-22"
 }
