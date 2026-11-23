@@ -1,5 +1,5 @@
 {
- "count": 126,
+ "count": 127,
  "programs": [
   {
    "approved_at": "2026-11-19",
@@ -1995,8 +1995,65 @@
     "US"
    ],
    "store_url": "https://ciarraappliances.com"
+  },
+  {
+   "active": true,
+   "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=105805&awinaffid=3161005&clickref={SID}",
+   "commission_rate": 0.06,
+   "commission_type": "percent",
+   "id": "awin-einstar-105805",
+   "name": "EINSTAR",
+   "network": "awin",
+   "notes": "Awin advertiser 105805 (einstar.com - handheld 3D scanners by SHINING 3D; the Awin welcome email arrived under the name SHINING 3D). CM group named Default 6.00% verified at fold-in (Nov 22, 2026); a separate 'software' group pays 10% and KOL tiers reach 8-10% - listed at Default. Joined confirmed in BOTH profile and legacy Joined list. Payment status Green (avg pay 72d); no Exposure Level shown (Green programmes carry none). Link Online. 44 regions. Terms PDF (28 Aug 2026): Allowed partner types include Loyalty, Virtual incentives, Discount code but NOT Cashback and NOT Sub networks - listed under the standing Loyalty-satisfies rule (same basis as Comenii Scrubs); no incentivized-traffic ban anywhere in the PDF. Member share 70% = 4.2%.",
+   "regions": [
+    "AR",
+    "AU",
+    "AT",
+    "BE",
+    "BR",
+    "BG",
+    "CA",
+    "CL",
+    "CN",
+    "CO",
+    "HR",
+    "CZ",
+    "DK",
+    "FI",
+    "FR",
+    "DE",
+    "GR",
+    "HU",
+    "IN",
+    "IE",
+    "IT",
+    "JP",
+    "LV",
+    "LT",
+    "MX",
+    "NZ",
+    "NO",
+    "PE",
+    "PL",
+    "PT",
+    "RO",
+    "RU",
+    "SG",
+    "SK",
+    "SI",
+    "ZA",
+    "ES",
+    "SE",
+    "CH",
+    "TR",
+    "UA",
+    "AE",
+    "GB",
+    "US"
+   ],
+   "store_url": "https://www.einstar.com"
   }
  ],
- "registry_version": 74,
+ "registry_version": 75,
  "updated_at": "2026-11-22"
 }
