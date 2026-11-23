@@ -1,5 +1,5 @@
 {
- "count": 136,
+ "count": 137,
  "programs": [
   {
    "approved_at": "2026-11-19",
@@ -2209,8 +2209,22 @@
     "US"
    ],
    "store_url": "https://thejorja.com"
+  },
+  {
+   "active": true,
+   "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=91891&awinaffid=3161005&clickref={SID}",
+   "commission_rate": 0.08,
+   "commission_type": "percent",
+   "id": "awin-lectron-91891",
+   "name": "Lectron",
+   "network": "awin",
+   "notes": "Awin advertiser 91891, program name 'Lectron' (ev-lectron.com - EV chargers and accessories). CM single flat 8% verified at fold-in (Nov 23, 2026) via Commission Manager timeline (8.00%-8.00%; Commission Groups tab is not publisher-accessible platform-wide, confirmed via control program). Joined Nov 23, 2026 via instant acceptance in batch 181; joined status re-verified read-only before fold-in. Payment status Green (Green advertisers carry no Exposure Level), avg pay 51d. Link Online. US only. Terms: Allowed list includes Cashback and Loyalty. Member share 70% of 8% = 5.6%.",
+   "regions": [
+    "US"
+   ],
+   "store_url": "https://ev-lectron.com"
   }
  ],
- "registry_version": 82,
+ "registry_version": 83,
  "updated_at": "2026-11-23"
 }
