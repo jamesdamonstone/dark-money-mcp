@@ -19,7 +19,7 @@
 
 ## Coverage
 
-**137 live programs** across two affiliate networks (114 on Awin, 23 on CJ Affiliate), updated as advertisers approve Dark Money. Programs are location-aware: most serve the US, with growing coverage in GB, DE, CA, FR, IT, ES, AU and more, plus global programs.
+**100+ live programs and growing** across two affiliate networks (114 on Awin, 23 on CJ Affiliate), updated as advertisers approve Dark Money. Programs are location-aware: most serve the US, with growing coverage in GB, DE, CA, FR, IT, ES, AU and more, plus global programs.
 
 A few examples (store commission → member's 70% share):
 
@@ -55,7 +55,7 @@ List the stores where Dark Money members currently earn cashback, with the commi
 Example result (abridged):
 
 ```
-Dark Money — 137 live programs worldwide. Members earn 70% of each commission; payouts at $20.
+Dark Money — 100+ live programs worldwide and growing. Members earn 70% of each commission; payouts at $20.
 
 - NordVPN (cj): commission 40% on new subscriptions — member earns 28%
 - Ovago (cj): commission Flat per booking: $8 domestic / $13 international / $20 business class — member earns $5.60 / $9.10 / $14.00
