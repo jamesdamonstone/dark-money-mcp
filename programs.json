@@ -1,5 +1,5 @@
 {
- "count": 125,
+ "count": 126,
  "programs": [
   {
    "approved_at": "2026-11-19",
@@ -1981,8 +1981,22 @@
     "US"
    ],
    "store_url": "https://dvikjewels.com"
+  },
+  {
+   "active": true,
+   "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=92751&awinaffid=3161005&clickref={SID}",
+   "commission_rate": 0.08,
+   "commission_type": "percent",
+   "id": "awin-ciarra-92751",
+   "name": "Ciarra (AirWin Group HK)",
+   "network": "awin",
+   "notes": "Awin advertiser 92751, program name 'AirWin Group HK Limited' - the storefront brand is Ciarra (ciarraappliances.com - kitchen appliances: range hoods, induction cooktops, built-in ovens). CM timeline single flat 8.00% verified at fold-in (Nov 22, 2026). Joined confirmed in BOTH profile and legacy Joined list. Payment status Green (avg pay 59-60d); no Exposure Level shown (Green programmes carry none). Link Online. US only. Terms PDF (29 Aug 2025): Allowed partner types include Cashback, Loyalty, Discount code, Virtual incentives; Sub networks is NOT in the Allowed list, but Dark Money is a direct publisher, not a sub-network, and Cashback is expressly Allowed - no bar. No incentivized-traffic ban. Member share 70% = 5.6%.",
+   "regions": [
+    "US"
+   ],
+   "store_url": "https://ciarraappliances.com"
   }
  ],
- "registry_version": 73,
+ "registry_version": 74,
  "updated_at": "2026-11-22"
 }
