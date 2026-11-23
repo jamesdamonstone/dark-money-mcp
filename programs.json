@@ -1,5 +1,5 @@
 {
- "count": 134,
+ "count": 135,
  "programs": [
   {
    "approved_at": "2026-11-19",
@@ -2181,8 +2181,22 @@
     "US"
    ],
    "store_url": "https://armadillotough.com"
+  },
+  {
+   "active": true,
+   "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=118283&awinaffid=3161005&clickref={SID}",
+   "commission_rate": 0.25,
+   "commission_type": "percent",
+   "id": "awin-chance-of-sunny-118283",
+   "name": "Chance of Sunny",
+   "network": "awin",
+   "notes": "Awin advertiser 118283, program name 'Chance of Sunny' (chanceofsunny.com - skincare/sunscreen). CM Default single flat 25% verified at fold-in (Nov 23, 2026) via Commission Manager; profile overview corroborates 25% (the Commission Groups tab showed only a promo line). Joined Nov 23, 2026 via instant acceptance in batch 177; joined status re-verified read-only before fold-in. Payment status Amber, EXPOSURE LEVEL 1. Link Online. US only. Terms: Allowed list includes Cashback and Loyalty; no exclusions. Member share 70% of 25% = 17.5%.",
+   "regions": [
+    "US"
+   ],
+   "store_url": "https://chanceofsunny.com"
   }
  ],
- "registry_version": 80,
+ "registry_version": 81,
  "updated_at": "2026-11-23"
 }
