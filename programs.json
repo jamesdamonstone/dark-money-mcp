@@ -1,5 +1,5 @@
 {
- "count": 129,
+ "count": 130,
  "programs": [
   {
    "approved_at": "2026-11-19",
@@ -2108,8 +2108,22 @@
    ],
    "status": "approved",
    "store_url": "https://www.whokeys.com"
+  },
+  {
+   "active": true,
+   "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=98411&awinaffid=3161005&clickref={SID}",
+   "commission_rate": 0.0307,
+   "commission_type": "percent",
+   "id": "awin-asteria-hair-98411",
+   "name": "Asteria Hair",
+   "network": "awin",
+   "notes": "Awin advertiser 98411, program name 'Xuchang Longyi Meifa Accessory Co., Ltd' - the storefront brand is Asteria Hair (asteriahair.com - human hair wigs, bundles and extensions). CM group named Default 3.07% flat verified at fold-in (Nov 23, 2026). Joined confirmed in BOTH profile and legacy Joined list. Payment status Green (avg pay 71d); no Exposure Level shown (Green programmes carry none). Link Online. US only. Terms PDF (02 Jun 2025) is a 1-page placeholder-class document: NO partner-type list and NO prohibitions (its only content is a personal-information paragraph) - listed under the standing placeholder rule; our cashback model was disclosed in the application the advertiser approved. Member share 70% of 3.07% = 2.149%, displayed 2.1%.",
+   "regions": [
+    "US"
+   ],
+   "store_url": "https://www.asteriahair.com"
   }
  ],
- "registry_version": 77,
+ "registry_version": 78,
  "updated_at": "2026-11-23"
 }
