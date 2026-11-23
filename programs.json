@@ -1,5 +1,5 @@
 {
- "count": 135,
+ "count": 136,
  "programs": [
   {
    "approved_at": "2026-11-19",
@@ -2195,8 +2195,22 @@
     "US"
    ],
    "store_url": "https://chanceofsunny.com"
+  },
+  {
+   "active": true,
+   "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=117877&awinaffid=3161005&clickref={SID}",
+   "commission_rate": 0.1,
+   "commission_type": "percent",
+   "id": "awin-jorja-117877",
+   "name": "Jorja",
+   "network": "awin",
+   "notes": "Awin advertiser 117877, program name 'Jorja' (thejorja.com - women's jewelry/accessories). CM Default single flat 10% verified at fold-in (Nov 23, 2026) via Commission Manager timeline (profile Commission Groups tab would not load - intermittent fault; Terms PDF confirms no excluded categories). Joined Nov 23, 2026 via instant acceptance in batch 179; joined status re-verified read-only before fold-in. Payment status Amber, EXPOSURE LEVEL 1, avg pay 46d. Link Online. US only. Terms: Preferred list includes Loyalty and Virtual incentives. Member share 70% of 10% = 7%.",
+   "regions": [
+    "US"
+   ],
+   "store_url": "https://thejorja.com"
   }
  ],
- "registry_version": 81,
+ "registry_version": 82,
  "updated_at": "2026-11-23"
 }
