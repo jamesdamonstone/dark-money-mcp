@@ -1,5 +1,5 @@
 {
- "count": 137,
+ "count": 138,
  "programs": [
   {
    "approved_at": "2026-11-19",
@@ -2223,8 +2223,27 @@
     "US"
    ],
    "store_url": "https://ev-lectron.com"
+  },
+  {
+   "active": true,
+   "affiliate_link_template": "https://www.anrdoezrs.net/click-101932824-10754888?sid={SID}",
+   "approved_at": "2026-11-23",
+   "commission_rate": 15,
+   "commission_type": "flat",
+   "id": "cj-24-7pressrelease-2898768",
+   "link_template": "https://www.anrdoezrs.net/click-101932824-10754888?sid={SID}",
+   "name": "24-7PressRelease",
+   "network": "cj",
+   "notes": "CJ advertiser 2898768 (24-7PressRelease.com \u2014 press release distribution). Auto-approved / joined instantly Nov 23, 2026 (CJ batch C1). Commission $15.00 flat per sale verified at fold-in (Nov 23, 2026). Terms: no cashback/incentivized-traffic ban; SEM keyword rules only. Serviceable area CA, GB, US. Member share 70% of $15 = $10.50.",
+   "regions": [
+    "CA",
+    "GB",
+    "US"
+   ],
+   "status": "approved",
+   "store_url": "https://www.24-7pressrelease.com"
   }
  ],
- "registry_version": 83,
+ "registry_version": 84,
  "updated_at": "2026-11-23"
 }
