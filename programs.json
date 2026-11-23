@@ -1,5 +1,5 @@
 {
- "count": 128,
+ "count": 129,
  "programs": [
   {
    "approved_at": "2026-11-19",
@@ -2066,8 +2066,50 @@
     "US"
    ],
    "store_url": "https://www.eksa.net"
+  },
+  {
+   "approved_at": "2026-11-22",
+   "commission_rate": 0.08,
+   "commission_type": "percent",
+   "id": "cj-whokeys-7958531",
+   "link_template": "https://www.kqzyfj.com/click-101932824-17325512?sid={SID}",
+   "name": "Whokeys",
+   "network": "cj",
+   "notes": "CJ advertiser 7958531 (whokeys.com - digital software licenses: Windows/Office keys, AI productivity tools; legal name AMZGAME CO., LIMITED). Relationship Active (accepted Nov 22, 2026). Program Terms 'Whokeys | 8% CPS Terms': 8.00% on completed purchases, 45-day referral period. CJ policies shown: Incentivized Traffic Allowed, Sub-Affiliates Allowed. 28 serviceable regions. Member share 70% = 5.6%.",
+   "regions": [
+    "AR",
+    "AU",
+    "AT",
+    "BE",
+    "BR",
+    "CA",
+    "CL",
+    "CO",
+    "HR",
+    "CZ",
+    "FR",
+    "DE",
+    "GR",
+    "IT",
+    "JP",
+    "KR",
+    "MX",
+    "NL",
+    "PE",
+    "PH",
+    "PL",
+    "PT",
+    "SA",
+    "RS",
+    "ES",
+    "AE",
+    "GB",
+    "US"
+   ],
+   "status": "approved",
+   "store_url": "https://www.whokeys.com"
   }
  ],
- "registry_version": 76,
+ "registry_version": 77,
  "updated_at": "2026-11-23"
 }
