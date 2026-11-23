@@ -21,6 +21,7 @@
     "shopping"
   ],
   "license": "MIT",
+  "mcpName": "io.github.jamesdamonstone/dark-money-mcp",
   "name": "dark-money-mcp",
   "repository": {
     "type": "git",
