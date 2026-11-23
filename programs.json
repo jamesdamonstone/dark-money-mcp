@@ -1,5 +1,5 @@
 {
- "count": 130,
+ "count": 131,
  "programs": [
   {
    "approved_at": "2026-11-19",
@@ -2122,8 +2122,22 @@
     "US"
    ],
    "store_url": "https://www.asteriahair.com"
+  },
+  {
+   "active": true,
+   "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=90241&awinaffid=3161005&clickref={SID}",
+   "commission_rate": 0.3,
+   "commission_type": "percent",
+   "id": "awin-flexclip-90241",
+   "name": "FlexClip",
+   "network": "awin",
+   "notes": "Awin advertiser 90241, program name 'PearlMountain Limited' - the storefront brand is FlexClip (flexclip.com - AI-powered online video editor; the same program also covers DesignEvo logo design and DesignCap graphic design). CM group named Default 30.00% verified at fold-in (Nov 23, 2026) via the Commission Manager timeline; store-specific groups exist (FlexClip 35%, DesignEvo 30%, DesignCap 35%, Voucher 50%) - listed at the Default 30% per the CM-Default-governs rule. Joined confirmed in BOTH profile and legacy Joined list. Payment status Green (avg pay 70-71d); no Exposure Level shown (Green programmes carry none). Link Online. US only. Terms PDF (22 Apr 2026): Allowed partner types include Cashback, Loyalty, Sub networks, Discount code, Virtual incentives - all Allowed, no incentivised-traffic ban; coupon guidelines govern coupon codes only. Member share 70% of 30% = 21%.",
+   "regions": [
+    "US"
+   ],
+   "store_url": "https://www.flexclip.com"
   }
  ],
- "registry_version": 78,
+ "registry_version": 79,
  "updated_at": "2026-11-23"
 }
