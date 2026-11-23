@@ -212,7 +212,7 @@ async function handle(line) {
         result: {
           protocolVersion: params?.protocolVersion || "2024-11-05",
           capabilities: { tools: {} },
-          serverInfo: { name: "dark-money", version: "1.1.0" },
+          serverInfo: { name: "dark-money", version: "1.1.1" },
         },
       });
     } else if (method === "ping") {
