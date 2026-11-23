@@ -1,5 +1,5 @@
 {
- "count": 124,
+ "count": 125,
  "programs": [
   {
    "approved_at": "2026-11-19",
@@ -1967,8 +1967,22 @@
     "US"
    ],
    "store_url": "https://shop.voopoo.com"
+  },
+  {
+   "active": true,
+   "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=131199&awinaffid=3161005&clickref={SID}",
+   "commission_rate": 0.1,
+   "commission_type": "percent",
+   "id": "awin-dvik-jewels-131199",
+   "name": "Dvik Jewels",
+   "network": "awin",
+   "notes": "Awin advertiser 131199 (dvikjewels.com - lab-grown diamond jewelry). CM group named Default 10.00% flat verified at fold-in (Nov 22, 2026). Joined confirmed in BOTH profile and legacy Joined list. Payment status Green (avg pay n/a - program launched Oct 2026); no Exposure Level shown (Green programmes carry none). Link Online. US only. Terms PDF (01 Oct 2026): Allowed partner types include Cashback, Loyalty, Sub networks, Discount code, Virtual incentives; no incentivized-traffic ban. TERMS NOTE (Navi ruling: PASS with notes): the PDF says cashback/loyalty/coupon/sub-network activity 'may be reviewed and may require prior approval depending on the promotional method' - a conditional review reservation, not an express prior-approval gate for cashback (cf. Seald courtesy-wording line); Cashback is expressly Allowed, and Dark Money's model was disclosed in its application. Member share 70% = 7%.",
+   "regions": [
+    "US"
+   ],
+   "store_url": "https://dvikjewels.com"
   }
  ],
- "registry_version": 72,
+ "registry_version": 73,
  "updated_at": "2026-11-22"
 }
