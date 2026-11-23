@@ -21,7 +21,7 @@ import { dirname, join } from "node:path";
 const here = dirname(fileURLToPath(import.meta.url));
 const data = JSON.parse(readFileSync(join(here, "programs.json"), "utf8"));
 const PROGRAMS = data.programs;
-const API = "https://dark-money-api.netlify.app/api";
+const API = "https://api.strangefawkes.com/api";
 const TERMS_URL = "https://darkmoney.strangefawkes.com/terms.html";
 const APP_URL = "https://darkmoney.strangefawkes.com/app.html";
 const MEMBER_ID_RE = /^dm_[A-Za-z0-9]{10}$/;
