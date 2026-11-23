@@ -1,5 +1,5 @@
 {
- "count": 118,
+ "count": 119,
  "programs": [
   {
    "approved_at": "2026-11-19",
@@ -1862,8 +1862,22 @@
     "US"
    ],
    "store_url": "https://comenii.com/"
+  },
+  {
+   "active": true,
+   "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=99013&awinaffid=3161005&clickref={SID}",
+   "commission_rate": 0.1,
+   "commission_type": "percent",
+   "id": "awin-simple-project-99013",
+   "name": "Simple Project",
+   "network": "awin",
+   "notes": "Awin advertiser 99013 (Shenzhen Cangyu Technology Co., Ltd. - brand Simple Project, simpleprojectus.com; macerating toilets/bathroom). CM group named Default 10% verified at fold-in (Nov 22, 2026; other groups UGC12 12% and HF10K 18% are not ours). Joined confirmed in BOTH profile and legacy Joined list. Payment status Green (avg pay ~54d); no Exposure Level shown (Green programmes carry none). Link Online. US only. Terms PDF (20 Aug 2025): Allowed partner types include Cashback, Loyalty, Sub networks, Discount code, Virtual incentives; no incentivized-traffic ban (only cross-platform discount-code restrictions and a brand-keyword ad ban, neither of which touches the cashback model). Member share 70% = 7%.",
+   "regions": [
+    "US"
+   ],
+   "store_url": "https://simpleprojectus.com"
   }
  ],
- "registry_version": 68,
+ "registry_version": 69,
  "updated_at": "2026-11-22"
 }
