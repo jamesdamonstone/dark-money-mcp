@@ -1,5 +1,5 @@
 {
- "count": 131,
+ "count": 134,
  "programs": [
   {
    "approved_at": "2026-11-19",
@@ -2136,8 +2136,53 @@
     "US"
    ],
    "store_url": "https://www.flexclip.com"
+  },
+  {
+   "active": true,
+   "affiliate_link_template": "https://www.anrdoezrs.net/click-101932824-15273661?sid={SID}",
+   "approved_at": "2026-11-23",
+   "commission_rate": 0.1,
+   "commission_type": "percent",
+   "id": "cj-wellbefore-6106470",
+   "link_template": "https://www.anrdoezrs.net/click-101932824-15273661?sid={SID}",
+   "name": "WellBefore",
+   "network": "cj",
+   "notes": "CJ advertiser 6106470 (Social Medical Supply, LLC dba WellBefore - masks, respirators, gloves, PPE and wellness supplies). Relationship Active from Nov 23, 2026. Program Terms 'General 10% Terms' 10.00% CPS verified at fold-in (Nov 23, 2026). Policies: Incentivized Traffic Allowed, Sub-Affiliates Allowed. Serviceable area US only. Member share 70% of 10% = 7%.",
+   "regions": [
+    "US"
+   ],
+   "status": "approved",
+   "store_url": "https://wellbefore.com"
+  },
+  {
+   "active": true,
+   "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=47153&awinaffid=3161005&clickref={SID}",
+   "commission_rate": 0.08,
+   "commission_type": "percent",
+   "id": "awin-sunjoy-47153",
+   "name": "SUNJOY",
+   "network": "awin",
+   "notes": "Awin advertiser 47153, program name 'Sunjoy Group (US)' - listed as SUNJOY (sunjoyshop.com - gazebos, pergolas, patio furniture, greenhouses). Single base rate 8% on all general items verified at fold-in (Nov 23, 2026); 0% applies only to replacement parts and gazebo accessories (an exclusion category, not a tier). Joined confirmed in BOTH profile and legacy Joined list. Payment status Green (avg pay 64-94d); no Exposure Level shown (Green). Link Online. US only. Terms PDF (11 Dec 2025): Cashback and Loyalty in the Allowed partner types; Sub networks absent - direct publisher, no bar (Ciarra basis); incentivised traffic prohibited only 'without disclosure' and Dark Money's model is disclosed in the application and on the site. Member share 70% of 8% = 5.6%.",
+   "regions": [
+    "US"
+   ],
+   "store_url": "https://sunjoyshop.com"
+  },
+  {
+   "active": true,
+   "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=121712&awinaffid=3161005&clickref={SID}",
+   "commission_rate": 0.04,
+   "commission_type": "percent",
+   "id": "awin-armadillo-tough-121712",
+   "name": "Armadillo Tough",
+   "network": "awin",
+   "notes": "Awin advertiser 121712, program name 'Armadillo Tough (US)' (armadillotough.com - heavy-gauge steel garage storage: cabinets, workbenches, slatwall, overhead racks). CM single flat 4% verified at fold-in (Nov 23, 2026). Joined confirmed in BOTH profile and legacy Joined list. Payment status Amber with EXPOSURE LEVEL 1 (lowest payment-risk tier; the hold rule is EL4/EL5), avg pay 23-24d. Link Online. US only. Terms PDF (04 Nov 2025): all five partner types Allowed incl. Cashback and Sub networks; no incentivised-traffic ban. Member share 70% of 4% = 2.8%.",
+   "regions": [
+    "US"
+   ],
+   "store_url": "https://armadillotough.com"
   }
  ],
- "registry_version": 79,
+ "registry_version": 80,
  "updated_at": "2026-11-23"
 }
