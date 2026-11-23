@@ -1,5 +1,5 @@
 {
- "count": 116,
+ "count": 117,
  "programs": [
   {
    "approved_at": "2026-11-19",
@@ -1834,8 +1834,22 @@
     "US"
    ],
    "store_url": "https://www.otraeyewear.com/"
+  },
+  {
+   "active": true,
+   "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=37618&awinaffid=3161005&clickref={SID}",
+   "commission_rate": 0.03,
+   "commission_type": "percent",
+   "id": "awin-autelpilot-37618",
+   "name": "Autelpilot",
+   "network": "awin",
+   "notes": "Awin advertiser 37618 (Autelpilot - Autel drones + accessories). Single flat 3% verified at fold-in (Nov 22, 2026; CM timeline 3.00% flat, current from Nov 22 19:44; was 3.5% before). Joined confirmed in BOTH profile and legacy Joined list. Payment status Green (avg pay ~24d); no Exposure Level shown (Green programmes carry none). Link Online. US only. Terms PDF (29 Jul 2025): Cashback, Sub networks, Discount code in Allowed partner types; no incentivized-traffic ban. Member share 70% = 2.1%.",
+   "regions": [
+    "US"
+   ],
+   "store_url": "https://www.autelpilot.com/"
   }
  ],
- "registry_version": 66,
+ "registry_version": 67,
  "updated_at": "2026-11-22"
 }
