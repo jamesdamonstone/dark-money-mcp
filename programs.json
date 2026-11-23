@@ -1,5 +1,5 @@
 {
- "count": 119,
+ "count": 122,
  "programs": [
   {
    "approved_at": "2026-11-19",
@@ -1876,8 +1876,61 @@
     "US"
    ],
    "store_url": "https://simpleprojectus.com"
+  },
+  {
+   "active": true,
+   "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=108888&awinaffid=3161005&clickref={SID}",
+   "commission_rate": 0.13,
+   "commission_type": "percent",
+   "id": "awin-welax-108888",
+   "name": "Welax",
+   "network": "awin",
+   "notes": "Awin advertiser 108888 (welaxhome.com; furniture - office chairs, sofas, desks). CM Default verified at fold-in (Nov 22, 2026): 13.00% current (rose from 12% on Nov 22). Joined confirmed in BOTH profile and legacy Joined list. Payment status Green (avg pay 48-55d by view); no Exposure Level shown (Green programmes carry none). Link Online. US only. Terms PDF (14 Aug 2026): Allowed partner types include Cashback, Loyalty, Sub networks, Discount code, Virtual incentives; no incentivized-traffic ban (coupon rule only restricts promoting codes obtained outside affiliate channels). Member share 70% = 9.1%.",
+   "regions": [
+    "US"
+   ],
+   "store_url": "https://welaxhome.com"
+  },
+  {
+   "approved_at": "2026-11-22",
+   "commission": "10%",
+   "commission_rate": 0.1,
+   "id": "cj-twopages-7835575",
+   "link_template": "https://www.jdoqocy.com/click-101932824-17238713?sid={SID}",
+   "name": "TWOPAGES",
+   "network": "cj",
+   "note": "CJ advertiser 7835575 (Hangzhou Tangpushi Home Products Co., Ltd., twopagescurtains.com - custom curtains, draperies, shades). Verified at fold-in Nov 22, 2026: relationship Active, Default Term 10.00% on Website Purchase, link active for website 101932824. US only. Member share 70% = 7%.",
+   "regions": [
+    "US"
+   ],
+   "status": "approved",
+   "store_url": "https://www.twopagescurtains.com/"
+  },
+  {
+   "approved_at": "2026-11-22",
+   "commission": "9%",
+   "commission_rate": 0.09,
+   "id": "cj-x-sense-7286313",
+   "link_template": "https://www.dpbolvw.net/click-101932824-17052518?sid={SID}",
+   "name": "X-Sense",
+   "network": "cj",
+   "note": "CJ advertiser 7286313 (GAUYEK INTERNATIONAL LIMITED, x-sense.com - smart smoke/CO alarms, water leak detectors). Verified at fold-in Nov 22, 2026: relationship Active, Program Terms rate 9.00% on US/DE/FR/IT/ES/EU purchase actions (advertiser description mentions 10% plus seasonal bumps - the terms table governs). Evergreen link active for website 101932824. Regions AT CZ FR DE GR IT RO ES SE US. Member share 70% = 6.3%.",
+   "regions": [
+    "AT",
+    "CZ",
+    "FR",
+    "DE",
+    "GR",
+    "IT",
+    "RO",
+    "ES",
+    "SE",
+    "US"
+   ],
+   "status": "approved",
+   "store_url": "https://www.x-sense.com"
   }
  ],
- "registry_version": 69,
+ "registry_version": 70,
  "updated_at": "2026-11-22"
 }
