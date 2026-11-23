@@ -1,5 +1,5 @@
 {
- "count": 114,
+ "count": 115,
  "programs": [
   {
    "approved_at": "2026-11-19",
@@ -1804,8 +1804,22 @@
     "US"
    ],
    "store_url": "https://cronjager.com/"
+  },
+  {
+   "active": true,
+   "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=94891&awinaffid=3161005&clickref={SID}",
+   "commission_rate": 0.1,
+   "commission_type": "percent",
+   "id": "awin-welock-94891",
+   "name": "WELOCK",
+   "network": "awin",
+   "notes": "Awin advertiser 94891 (Shenzhen Myhand Industrial Co.,Ltd - WELOCK smart locks). Single flat 10% verified at fold-in (Nov 22, 2026; Commission Manager timeline 10.00% flat, profile 'Base commission >=10%'; Commission Groups tab would not load). Exposure Level not displayed on profile; payment status Green (avg pay 81d, accelerated payments). Link Online. US only (Awin Regions field). Terms PDF (08 Sep 2025): Cashback, Loyalty, Virtual incentives, Sub networks all in Allowed partner types; no incentivized-traffic ban. Member share 70% = 7%.",
+   "regions": [
+    "US"
+   ],
+   "store_url": "https://en.welock.com/"
   }
  ],
- "registry_version": 64,
+ "registry_version": 65,
  "updated_at": "2026-11-22"
 }
