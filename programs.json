@@ -1,5 +1,5 @@
 {
- "count": 115,
+ "count": 116,
  "programs": [
   {
    "approved_at": "2026-11-19",
@@ -1818,8 +1818,24 @@
     "US"
    ],
    "store_url": "https://en.welock.com/"
+  },
+  {
+   "active": true,
+   "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=96299&awinaffid=3161005&clickref={SID}",
+   "commission_rate": 0.15,
+   "commission_type": "percent",
+   "id": "awin-otra-eyewear-96299",
+   "name": "Otra Eyewear",
+   "network": "awin",
+   "notes": "Awin advertiser 96299 (Otra Eyewear - sunglasses/eyewear). Single flat 15% verified at fold-in (Nov 22, 2026; Commission Manager timeline 15.00% flat, only rate; Commission Groups tab would not load). Payment status Green (avg pay ~20d); no Exposure Level shown (Green programmes carry none). Link Online. Regions AU, CA, US. Terms PDF (25 May 2026): Cashback, Loyalty, Virtual incentives, Sub networks, Discount code all in Allowed partner types; no incentivized-traffic ban. Member share 70% = 10.5%.",
+   "regions": [
+    "AU",
+    "CA",
+    "US"
+   ],
+   "store_url": "https://www.otraeyewear.com/"
   }
  ],
- "registry_version": 65,
+ "registry_version": 66,
  "updated_at": "2026-11-22"
 }
