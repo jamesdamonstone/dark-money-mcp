@@ -1,5 +1,5 @@
 {
- "count": 123,
+ "count": 124,
  "programs": [
   {
    "approved_at": "2026-11-19",
@@ -1953,8 +1953,22 @@
     "US"
    ],
    "store_url": "https://www.tymobeauty.com"
+  },
+  {
+   "active": true,
+   "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=124822&awinaffid=3161005&clickref={SID}",
+   "commission_rate": 0.2,
+   "commission_type": "percent",
+   "id": "awin-voopoo-124822",
+   "name": "VooPoo",
+   "network": "awin",
+   "notes": "Awin advertiser 124822 (shop.voopoo.com - vaping devices: pod systems, mods, disposables). Rate basis verified at fold-in (Nov 22, 2026): the profile Commission Groups page states 'Base Rate: 20% across all products'; CM timeline shows a single 20.00%-30.00% bar with no group breakdown and the Terms PDF states 15-30% per confirmed sale - listed at the stated 20% base. Joined confirmed in BOTH profile and legacy Joined list. Payment status Green (avg pay 20-22d); no Exposure Level shown (Green programmes carry none). Link Online. US only. Terms PDF (28 Feb 2026): Allowed partner types include Cashback, Loyalty, Sub networks, Discount code, Virtual incentives; no incentivized-traffic ban. Listed under James's Nov 22 legal rule (legal + terms-clean + EL<4 lists without asking). Member share 70% = 14%.",
+   "regions": [
+    "US"
+   ],
+   "store_url": "https://shop.voopoo.com"
   }
  ],
- "registry_version": 71,
+ "registry_version": 72,
  "updated_at": "2026-11-22"
 }
