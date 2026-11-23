@@ -1,5 +1,5 @@
 {
- "count": 127,
+ "count": 128,
  "programs": [
   {
    "approved_at": "2026-11-19",
@@ -2052,8 +2052,22 @@
     "US"
    ],
    "store_url": "https://www.einstar.com"
+  },
+  {
+   "active": true,
+   "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=92427&awinaffid=3161005&clickref={SID}",
+   "commission_rate": 0.15,
+   "commission_type": "percent",
+   "id": "awin-eksa-92427",
+   "name": "EKSA",
+   "network": "awin",
+   "notes": "Awin advertiser 92427, program name 'EKSA INC.' (eksa.net - gaming headsets and accessories). CM group named Default 15.00% flat verified at fold-in (Nov 23, 2026); profile notes up to 18% for premium publishers - listed at Default. Joined confirmed in BOTH profile and legacy Joined list. Payment status Green (avg pay 70d); no Exposure Level shown (Green programmes carry none). Link Online. US only. Terms PDF (18 Aug 2025): Allowed partner types include Cashback, Loyalty, Discount code, Virtual incentives; Sub networks not listed (Dark Money is a direct publisher); no incentivized-traffic ban. Member share 70% = 10.5%.",
+   "regions": [
+    "US"
+   ],
+   "store_url": "https://www.eksa.net"
   }
  ],
- "registry_version": 75,
- "updated_at": "2026-11-22"
+ "registry_version": 76,
+ "updated_at": "2026-11-23"
 }
