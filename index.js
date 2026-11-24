@@ -164,13 +164,19 @@ async function callTool(name, args = {}) {
       }),
     });
     const body = await res.json().catch(() => ({}));
+    if (body.error === "email_taken") {
+      // The API no longer returns an existing member's ID to a join caller
+      // (it doubles as a login credential). Surface the state, not an ID.
+      return textResult(
+        `That email is already a Dark Money member — no new membership was created, and the existing member ID can't be looked up from here. If it's your human's email, ask them for their member ID (format dm_XXXXXXXXXX), or have them open the member app and log in: https://darkmoney.strangefawkes.com/app.html`,
+        true
+      );
+    }
     if (!res.ok || !body.ok) {
       return textResult(`Join failed: ${body.error || res.status}. Check the name and email and try again.`, true);
     }
     return textResult(
-      body.existing
-        ? `That email is already a Dark Money member. Member ID: ${body.member_id}\nMember app: ${body.app_url}`
-        : `Membership created — welcome to Dark Money.\n\nMember ID: ${body.member_id}\nMember app (links + balance): ${body.app_url}\n\nSave the member ID: it's how purchases get credited. Use get_cashback_link with it for any store in list_programs. Founding offer: the first 25 members earn 100% of the commission on their first confirmed purchase.`
+      `Membership created — welcome to Dark Money.\n\nMember ID: ${body.member_id}\nMember app (links + balance): ${body.app_url}\n\nSave the member ID: it's how purchases get credited. Use get_cashback_link with it for any store in list_programs. Founding offer: the first 25 members to earn a confirmed commission get 100% of that commission.`
     );
   }
 
