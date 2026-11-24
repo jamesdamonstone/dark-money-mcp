@@ -1,5 +1,5 @@
 {
- "count": 184,
+ "count": 185,
  "programs": [
   {
    "approved_at": "2026-11-19",
@@ -3174,8 +3174,25 @@
     "NO"
    ],
    "status": "approved"
+  },
+  {
+   "active": true,
+   "affiliate_link_template": "https://www.jdoqocy.com/click-101932824-15734653?sid={SID}",
+   "approved_at": "2026-11-24",
+   "commission_rate": 0.1,
+   "commission_type": "percent",
+   "id": "cj-budget-pet-care-4250177",
+   "link_template": "https://www.jdoqocy.com/click-101932824-15734653?sid={SID}",
+   "name": "Budget Pet Care",
+   "network": "cj",
+   "notes": "CJ advertiser 4250177 (Budget Pet Care \u2014 pet medications and supplies). Status Active (auto-approved Nov 24, 2026, batch C37). Program Terms list Incentivized Traffic: Allowed \u2014 verified at fold-in Nov 24, 2026. Commission 10% on new and existing customer purchases, 30-day referral (Program Terms govern; the description's 'up to 13%' and 60-day cookie do not). Evergreen Link ID 15734653. Serviceable worldwide per CJ (conversions ~99% US). Member share 70% of 10% = 7%.",
+   "regions": [
+    "GLOBAL"
+   ],
+   "status": "approved",
+   "store_url": "https://www.budgetpetcare.com/"
   }
  ],
- "registry_version": 96,
+ "registry_version": 97,
  "updated_at": "2026-11-24"
 }
