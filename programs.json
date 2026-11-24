@@ -1,5 +1,5 @@
 {
- "count": 142,
+ "count": 171,
  "programs": [
   {
    "approved_at": "2026-11-19",
@@ -2321,8 +2321,497 @@
    ],
    "status": "approved",
    "store_url": "https://www.magzter.com"
+  },
+  {
+   "active": true,
+   "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=87327&awinaffid=3161005&clickref={SID}",
+   "approved_at": "2026-11-23",
+   "commission_rate": 0.1,
+   "commission_type": "percent",
+   "id": "awin-tesmart-87327",
+   "link_template": "https://www.awin1.com/cread.php?awinmid=87327&awinaffid=3161005&clickref={SID}",
+   "name": "TESmart",
+   "network": "awin",
+   "notes": "Awin advertiser 87327 (TESmart — KVM switches / docking stations). Joined Nov 23, 2026; CM Default 10.00% verified Nov 24, 2026; Green, Link Online, US. Terms: Cashback and Loyalty Allowed. Member share 70% of 10% = 7%.",
+   "regions": [
+    "US"
+   ],
+   "status": "approved"
+  },
+  {
+   "active": true,
+   "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=55811&awinaffid=3161005&clickref={SID}",
+   "approved_at": "2026-11-23",
+   "commission_rate": 0.05,
+   "commission_type": "percent",
+   "id": "awin-shock-vitalize-55811",
+   "link_template": "https://www.awin1.com/cread.php?awinmid=55811&awinaffid=3161005&clickref={SID}",
+   "name": "SHOCK VITALIZE",
+   "network": "awin",
+   "notes": "Awin advertiser 55811 (SHOCK VITALIZE). Joined Nov 23, 2026; CM Default 5.00% verified Nov 24, 2026 (groups run 3-10%); Green, Link Online, US. Terms: Cashback and Loyalty Allowed. Member share 70% of 5% = 3.5%.",
+   "regions": [
+    "US"
+   ],
+   "status": "approved"
+  },
+  {
+   "active": true,
+   "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=65850&awinaffid=3161005&clickref={SID}",
+   "approved_at": "2026-11-23",
+   "commission_rate": 0.1,
+   "commission_type": "percent",
+   "id": "awin-big-wall-decor-65850",
+   "link_template": "https://www.awin1.com/cread.php?awinmid=65850&awinaffid=3161005&clickref={SID}",
+   "name": "BIG Wall Decor",
+   "network": "awin",
+   "notes": "Awin advertiser 65850 (Big Wall Decor (US) — wall art). Joined Nov 23, 2026; CM Default 10.00% verified Nov 24, 2026; Exposure Level 1, Link Online, US. Terms: Cashback and Loyalty Allowed. Member share 70% of 10% = 7%.",
+   "regions": [
+    "US"
+   ],
+   "status": "approved"
+  },
+  {
+   "active": true,
+   "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=71005&awinaffid=3161005&clickref={SID}",
+   "approved_at": "2026-11-23",
+   "commission_rate": 0.15,
+   "commission_type": "percent",
+   "id": "awin-dr-tom-cowan-71005",
+   "link_template": "https://www.awin1.com/cread.php?awinmid=71005&awinaffid=3161005&clickref={SID}",
+   "name": "Dr. Tom Cowan",
+   "network": "awin",
+   "notes": "Awin advertiser 71005 (Dr. Tom Cowan — wellness foods/supplements). Joined Nov 23, 2026; CM Default 15.00% verified Nov 24, 2026 (range 10-20%); Green, Link Online, US. Terms: Cashback and Loyalty Allowed. Member share 70% of 15% = 10.5%.",
+   "regions": [
+    "US"
+   ],
+   "status": "approved"
+  },
+  {
+   "active": true,
+   "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=114846&awinaffid=3161005&clickref={SID}",
+   "approved_at": "2026-11-23",
+   "commission_rate": 0.055,
+   "commission_type": "percent",
+   "id": "awin-propper-114846",
+   "link_template": "https://www.awin1.com/cread.php?awinmid=114846&awinaffid=3161005&clickref={SID}",
+   "name": "Propper",
+   "network": "awin",
+   "notes": "Awin advertiser 114846 (Propper (US) — tactical apparel). Joined Nov 23, 2026; CM Default 5.50% verified Nov 24, 2026 (profile headline 13.5% is not the Default); Exposure Level 2, Link Online, US. Terms: Cashback and Loyalty Allowed. Member share 70% of 5.5% = 3.85%.",
+   "regions": [
+    "US"
+   ],
+   "status": "approved"
+  },
+  {
+   "active": true,
+   "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=22999&awinaffid=3161005&clickref={SID}",
+   "approved_at": "2026-11-23",
+   "commission_rate": 0.1,
+   "commission_type": "percent",
+   "id": "awin-billion-dollar-beauty-22999",
+   "link_template": "https://www.awin1.com/cread.php?awinmid=22999&awinaffid=3161005&clickref={SID}",
+   "name": "Billion Dollar Beauty",
+   "network": "awin",
+   "notes": "Awin advertiser 22999 (Billion Dollar Beauty (US) — cosmetics). Joined Nov 23, 2026; CM Default 10.00% verified Nov 24, 2026; Exposure Level 1, Link Online, US. Terms: Cashback and Loyalty Allowed. Member share 70% of 10% = 7%.",
+   "regions": [
+    "US"
+   ],
+   "status": "approved"
+  },
+  {
+   "active": true,
+   "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=126211&awinaffid=3161005&clickref={SID}",
+   "approved_at": "2026-11-24",
+   "commission_rate": 0.1,
+   "commission_type": "percent",
+   "id": "awin-irwin-naturals-126211",
+   "link_template": "https://www.awin1.com/cread.php?awinmid=126211&awinaffid=3161005&clickref={SID}",
+   "name": "Irwin Naturals",
+   "network": "awin",
+   "notes": "Awin advertiser 126211 (Irwin Naturals — supplements). Joined Nov 24, 2026; CM Default 10.00% verified Nov 24, 2026; Exposure Level 2, Link Online, US. Terms: Cashback and Loyalty Allowed. Member share 70% of 10% = 7%.",
+   "regions": [
+    "US"
+   ],
+   "status": "approved"
+  },
+  {
+   "active": true,
+   "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=82685&awinaffid=3161005&clickref={SID}",
+   "approved_at": "2026-11-24",
+   "commission_rate": 0.2,
+   "commission_type": "percent",
+   "id": "awin-wjd-exclusives-82685",
+   "link_template": "https://www.awin1.com/cread.php?awinmid=82685&awinaffid=3161005&clickref={SID}",
+   "name": "WJD Exclusives",
+   "network": "awin",
+   "notes": "Awin advertiser 82685 (WJD Exclusives). Joined Nov 24, 2026; CM Default 20.00% verified Nov 24, 2026 (raised from 16% on Nov 23 per Awin rate-change notices Nov 23 and Nov 24); Green, Link Online, US. Terms: Cashback and Loyalty Allowed. Member share 70% of 20% = 14%.",
+   "regions": [
+    "US"
+   ],
+   "status": "approved"
+  },
+  {
+   "active": true,
+   "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=126207&awinaffid=3161005&clickref={SID}",
+   "approved_at": "2026-11-24",
+   "commission_rate": 0.1,
+   "commission_type": "percent",
+   "id": "awin-musclepharm-126207",
+   "link_template": "https://www.awin1.com/cread.php?awinmid=126207&awinaffid=3161005&clickref={SID}",
+   "name": "MusclePharm",
+   "network": "awin",
+   "notes": "Awin advertiser 126207 (MusclePharm — sports nutrition). Joined Nov 24, 2026; CM Default 10.00% verified Nov 24, 2026; Exposure Level 2, Link Online, US. Terms: Cashback and Loyalty Allowed. Member share 70% of 10% = 7%.",
+   "regions": [
+    "US"
+   ],
+   "status": "approved"
+  },
+  {
+   "active": true,
+   "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=109278&awinaffid=3161005&clickref={SID}",
+   "approved_at": "2026-11-24",
+   "commission_rate": 0.08,
+   "commission_type": "percent",
+   "id": "awin-lacros-ebike-109278",
+   "link_template": "https://www.awin1.com/cread.php?awinmid=109278&awinaffid=3161005&clickref={SID}",
+   "name": "Lacros ebike",
+   "network": "awin",
+   "notes": "Awin advertiser 109278 (Lacros ebike — folding e-bikes). Joined Nov 24, 2026; CM Default 8.00% verified Nov 24, 2026 (cut from 10% on Nov 23 per Awin rate-change notice); Green, Link Online, US. Terms: Cashback and Loyalty Allowed. Member share 70% of 8% = 5.6%.",
+   "regions": [
+    "US"
+   ],
+   "status": "approved"
+  },
+  {
+   "active": true,
+   "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=124734&awinaffid=3161005&clickref={SID}",
+   "approved_at": "2026-11-24",
+   "commission_rate": 0.3,
+   "commission_type": "percent",
+   "id": "awin-arq8-124734",
+   "link_template": "https://www.awin1.com/cread.php?awinmid=124734&awinaffid=3161005&clickref={SID}",
+   "name": "Arq8",
+   "network": "awin",
+   "notes": "Awin advertiser 124734 (Arq8). Joined Nov 24, 2026; CM Default 30.00% verified Nov 24, 2026 (profile headline 20% is not the Default); Exposure Level 1, Link Online, US. Terms: Cashback and Loyalty Allowed. Member share 70% of 30% = 21%.",
+   "regions": [
+    "US"
+   ],
+   "status": "approved"
+  },
+  {
+   "active": true,
+   "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=127043&awinaffid=3161005&clickref={SID}",
+   "approved_at": "2026-11-23",
+   "commission_rate": 20,
+   "commission_type": "flat",
+   "id": "awin-wisephone-127043",
+   "link_template": "https://www.awin1.com/cread.php?awinmid=127043&awinaffid=3161005&clickref={SID}",
+   "name": "Wisephone",
+   "network": "awin",
+   "notes": "Awin advertiser 127043 (Wisephone — minimalist phones). Joined Nov 23, 2026; CM Default USD 20.00 flat per sale verified Nov 24, 2026 (current segment Nov 23, 2026 to Jan 9, 2027; profile $40 figure is outdated); Exposure Level 2, Link Online, US. Terms: Cashback and Loyalty Allowed. Member share 70% of $20 = $14 flat.",
+   "regions": [
+    "US"
+   ],
+   "status": "approved"
+  },
+  {
+   "active": true,
+   "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=124092&awinaffid=3161005&clickref={SID}",
+   "approved_at": "2026-11-24",
+   "commission_rate": 0.05,
+   "commission_type": "percent",
+   "id": "awin-golden-maple-124092",
+   "link_template": "https://www.awin1.com/cread.php?awinmid=124092&awinaffid=3161005&clickref={SID}",
+   "name": "Golden Maple",
+   "network": "awin",
+   "notes": "Awin advertiser 124092 (Golden Maple). Joined Nov 24, 2026; CM Default verified Nov 24, 2026: 10.00% promo Nov 24-30, 2026, then 5.00% from Dec 1, 2026 — listed at the durable 5.00%; Exposure Level 2, Link Online, US. Terms: Cashback and Loyalty Allowed. Member share 70% of 5% = 3.5%.",
+   "regions": [
+    "US"
+   ],
+   "status": "approved"
+  },
+  {
+   "active": true,
+   "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=98153&awinaffid=3161005&clickref={SID}",
+   "approved_at": "2026-11-23",
+   "commission_rate": 0.12,
+   "commission_type": "percent",
+   "id": "awin-orolay-98153",
+   "link_template": "https://www.awin1.com/cread.php?awinmid=98153&awinaffid=3161005&clickref={SID}",
+   "name": "Orolay",
+   "network": "awin",
+   "notes": "Awin advertiser 98153 (Orolay — outerwear). Joined Nov 23, 2026; CM Default 12.00% verified Nov 24, 2026; Green, Link Online, US. Terms: the generic Allowed list omits Cashback/Loyalty, but the Additional Terms expressly state incentivised traffic is allowed only via cashback and loyalty/reward affiliates — the specific provision governs and allows Dark Money's model. Member share 70% of 12% = 8.4%.",
+   "regions": [
+    "US"
+   ],
+   "status": "approved"
+  },
+  {
+   "active": true,
+   "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=131575&awinaffid=3161005&clickref={SID}",
+   "approved_at": "2026-11-24",
+   "commission_rate": 0.04,
+   "commission_type": "percent",
+   "id": "awin-bello-diamonds-131575",
+   "link_template": "https://www.awin1.com/cread.php?awinmid=131575&awinaffid=3161005&clickref={SID}",
+   "name": "Bello Diamonds",
+   "network": "awin",
+   "notes": "Awin advertiser 131575 (Bello Diamonds — jewelry). Joined Nov 24, 2026; CM Default 4.00% verified Nov 24, 2026 (VIP tiers up to 10% are not the Default); Green, Link Online, US. Terms: Cashback and Loyalty Allowed; profile names cashback and loyalty partners as ideal partners. Member share 70% of 4% = 2.8%.",
+   "regions": [
+    "US"
+   ],
+   "status": "approved"
+  },
+  {
+   "active": true,
+   "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=129885&awinaffid=3161005&clickref={SID}",
+   "approved_at": "2026-11-22",
+   "commission_rate": 0.12,
+   "commission_type": "percent",
+   "id": "awin-salt-and-bone-129885",
+   "link_template": "https://www.awin1.com/cread.php?awinmid=129885&awinaffid=3161005&clickref={SID}",
+   "name": "Salt & Bone",
+   "network": "awin",
+   "notes": "Awin advertiser 129885 (Salt & Bone). Joined both views; CM Default 12.00% verified Nov 24, 2026 (Content publishers group 12% applies; coupon/promotional group is 2%); Exposure Level 1, Link Online, US. Terms: Cashback and Loyalty Allowed. Member share 70% of 12% = 8.4%.",
+   "regions": [
+    "US"
+   ],
+   "status": "approved"
+  },
+  {
+   "active": true,
+   "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=83139&awinaffid=3161005&clickref={SID}",
+   "approved_at": "2026-11-23",
+   "commission_rate": 0.08,
+   "commission_type": "percent",
+   "id": "awin-buture-83139",
+   "link_template": "https://www.awin1.com/cread.php?awinmid=83139&awinaffid=3161005&clickref={SID}",
+   "name": "Buture",
+   "network": "awin",
+   "notes": "Awin advertiser 83139 (Buture — vacuums/home appliances). Joined both views; CM Default 8.00% verified Nov 24, 2026 (the row named Default governs over the 10% Default Commission Group); Green, Link Online, GB/US. Terms: Cashback and Loyalty Allowed. Member share 70% of 8% = 5.6%.",
+   "regions": [
+    "GB",
+    "US"
+   ],
+   "status": "approved"
+  },
+  {
+   "active": true,
+   "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=130383&awinaffid=3161005&clickref={SID}",
+   "approved_at": "2026-11-23",
+   "commission_rate": 0.08,
+   "commission_type": "percent",
+   "id": "awin-regal-estate-130383",
+   "link_template": "https://www.awin1.com/cread.php?awinmid=130383&awinaffid=3161005&clickref={SID}",
+   "name": "REGAL estate",
+   "network": "awin",
+   "notes": "Awin advertiser 130383 (REGAL estate). Joined both views; CM Default 8.00% verified Nov 24, 2026 (Elite 15% / Advanced 10% are not the Default); Exposure Level 1, Link Online, US. Terms: Cashback and Loyalty Allowed. Member share 70% of 8% = 5.6%.",
+   "regions": [
+    "US"
+   ],
+   "status": "approved"
+  },
+  {
+   "active": true,
+   "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=130903&awinaffid=3161005&clickref={SID}",
+   "approved_at": "2026-11-23",
+   "commission_rate": 0.15,
+   "commission_type": "percent",
+   "id": "awin-jjnsolar-130903",
+   "link_template": "https://www.awin1.com/cread.php?awinmid=130903&awinaffid=3161005&clickref={SID}",
+   "name": "JJNSOLAR",
+   "network": "awin",
+   "notes": "Awin advertiser 130903 (JJNSOLAR — solar products). Joined both views; CM Default 15.00% verified Nov 24, 2026; Exposure Level 1, Link Online, US. Terms: Cashback and Loyalty Allowed. Member share 70% of 15% = 10.5%.",
+   "regions": [
+    "US"
+   ],
+   "status": "approved"
+  },
+  {
+   "active": true,
+   "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=108374&awinaffid=3161005&clickref={SID}",
+   "approved_at": "2026-11-23",
+   "commission_rate": 0.0417,
+   "commission_type": "percent",
+   "id": "awin-topoak-overland-108374",
+   "link_template": "https://www.awin1.com/cread.php?awinmid=108374&awinaffid=3161005&clickref={SID}",
+   "name": "TopOak Overland",
+   "network": "awin",
+   "notes": "Awin advertiser 108374 (TopOak Overland — rooftop tents/overland gear). Joined both views; CM Default 4.17% verified Nov 24, 2026; Green, Link Online, US. Terms: Cashback and Loyalty Allowed. Member share 70% of 4.17% = 2.9%.",
+   "regions": [
+    "US"
+   ],
+   "status": "approved"
+  },
+  {
+   "active": true,
+   "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=110478&awinaffid=3161005&clickref={SID}",
+   "approved_at": "2026-11-23",
+   "commission_rate": 0.1,
+   "commission_type": "percent",
+   "id": "awin-epi-jewelry-110478",
+   "link_template": "https://www.awin1.com/cread.php?awinmid=110478&awinaffid=3161005&clickref={SID}",
+   "name": "EPI Jewelry",
+   "network": "awin",
+   "notes": "Awin advertiser 110478 (EPI International Limited, listed as EPI Jewelry). Joined both views; CM Default 10.00% verified Nov 24, 2026; Green, Link Online, US. Terms: Cashback and Loyalty Allowed. Member share 70% of 10% = 7%.",
+   "regions": [
+    "US"
+   ],
+   "status": "approved"
+  },
+  {
+   "active": true,
+   "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=101109&awinaffid=3161005&clickref={SID}",
+   "approved_at": "2026-11-23",
+   "commission_rate": 0.09,
+   "commission_type": "percent",
+   "id": "awin-lane-woods-101109",
+   "link_template": "https://www.awin1.com/cread.php?awinmid=101109&awinaffid=3161005&clickref={SID}",
+   "name": "Lane Woods",
+   "network": "awin",
+   "notes": "Awin advertiser 101109 (Lane Woods). Joined both views; CM Default 9.00% CURRENT verified Nov 24, 2026 (raised from 8% on Nov 24 per the Nov 23 rate-change notice; segment runs to Jan 9, 2027); Green, Link Online, US. Terms: Cashback and Loyalty Allowed. Member share 70% of 9% = 6.3%.",
+   "regions": [
+    "US"
+   ],
+   "status": "approved"
+  },
+  {
+   "active": true,
+   "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=106313&awinaffid=3161005&clickref={SID}",
+   "approved_at": "2026-11-23",
+   "commission_rate": 0.08,
+   "commission_type": "percent",
+   "id": "awin-deerrun-uk-106313",
+   "link_template": "https://www.awin1.com/cread.php?awinmid=106313&awinaffid=3161005&clickref={SID}",
+   "name": "DeerRun UK",
+   "network": "awin",
+   "notes": "Awin advertiser 106313 (DeerRun UK — treadmills). Joined both views; CM Default 8.00% verified Nov 24, 2026; Green, Link Online, GB/US. Terms: Cashback and Loyalty Allowed. Member share 70% of 8% = 5.6%.",
+   "regions": [
+    "GB",
+    "US"
+   ],
+   "status": "approved"
+  },
+  {
+   "active": true,
+   "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=131085&awinaffid=3161005&clickref={SID}",
+   "approved_at": "2026-11-23",
+   "commission_rate": 0.08,
+   "commission_type": "percent",
+   "id": "awin-just-try-131085",
+   "link_template": "https://www.awin1.com/cread.php?awinmid=131085&awinaffid=3161005&clickref={SID}",
+   "name": "Just Try",
+   "network": "awin",
+   "notes": "Awin advertiser 131085 (Just Try). Joined both views; CM Default 8.00% verified Nov 24, 2026; Exposure Level 1, Link Online, US. Terms: Cashback and Loyalty Allowed. Member share 70% of 8% = 5.6%.",
+   "regions": [
+    "US"
+   ],
+   "status": "approved"
+  },
+  {
+   "active": true,
+   "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=77156&awinaffid=3161005&clickref={SID}",
+   "approved_at": "2026-11-23",
+   "commission_rate": 0.03,
+   "commission_type": "percent",
+   "id": "awin-gshopper-77156",
+   "link_template": "https://www.awin1.com/cread.php?awinmid=77156&awinaffid=3161005&clickref={SID}",
+   "name": "Gshopper",
+   "network": "awin",
+   "notes": "Awin advertiser 77156 (Gshopper — cross-border marketplace). Joined both views; CM Default 3.00% verified Nov 24, 2026 (cut from 4% confirmed); Green, Link Online, 24 regions. Terms: Cashback and Loyalty Allowed. Member share 70% of 3% = 2.1%.",
+   "regions": [
+    "BE",
+    "BG",
+    "HR",
+    "CZ",
+    "DK",
+    "FI",
+    "FR",
+    "DE",
+    "GR",
+    "HU",
+    "IE",
+    "IT",
+    "NL",
+    "NO",
+    "PL",
+    "PT",
+    "RO",
+    "SK",
+    "SI",
+    "ES",
+    "SE",
+    "CH",
+    "GB",
+    "US"
+   ],
+   "status": "approved"
+  },
+  {
+   "active": true,
+   "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=48247&awinaffid=3161005&clickref={SID}",
+   "approved_at": "2026-11-23",
+   "commission_rate": 0.1,
+   "commission_type": "percent",
+   "id": "awin-3dmakerpro-48247",
+   "link_template": "https://www.awin1.com/cread.php?awinmid=48247&awinaffid=3161005&clickref={SID}",
+   "name": "3DMakerpro",
+   "network": "awin",
+   "notes": "Awin advertiser 48247 (3DMakerpro (Global) — 3D scanners). Joined both views; CM Default 10.00% verified Nov 24, 2026; Green, Link Online; programme profile serviceable area US. Terms: Cashback and Loyalty Allowed. Member share 70% of 10% = 7%.",
+   "regions": [
+    "US"
+   ],
+   "status": "approved"
+  },
+  {
+   "active": true,
+   "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=123618&awinaffid=3161005&clickref={SID}",
+   "approved_at": "2026-11-23",
+   "commission_rate": 0.12,
+   "commission_type": "percent",
+   "id": "awin-cozeware-123618",
+   "link_template": "https://www.awin1.com/cread.php?awinmid=123618&awinaffid=3161005&clickref={SID}",
+   "name": "Cozeware",
+   "network": "awin",
+   "notes": "Awin advertiser 123618 (Cozeware). Joined both views; CM Default 12.00% verified Nov 24, 2026; Green, Link Online, US. Terms: Cashback and Loyalty Allowed. Member share 70% of 12% = 8.4%.",
+   "regions": [
+    "US"
+   ],
+   "status": "approved"
+  },
+  {
+   "active": true,
+   "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=124972&awinaffid=3161005&clickref={SID}",
+   "approved_at": "2026-11-23",
+   "commission_rate": 0.15,
+   "commission_type": "percent",
+   "id": "awin-hoshanho-124972",
+   "link_template": "https://www.awin1.com/cread.php?awinmid=124972&awinaffid=3161005&clickref={SID}",
+   "name": "Hoshanho",
+   "network": "awin",
+   "notes": "Awin advertiser 124972 (Hoshanho — knives). Joined both views; CM Default 15.00% verified Nov 24, 2026; Exposure Level 2, Link Online, US. Terms: Cashback Allowed (Loyalty not in the Allowed list — Cashback in the list satisfies the listing rule for Dark Money's cashback model). Member share 70% of 15% = 10.5%.",
+   "regions": [
+    "US"
+   ],
+   "status": "approved"
+  },
+  {
+   "active": true,
+   "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=96109&awinaffid=3161005&clickref={SID}",
+   "approved_at": "2026-11-23",
+   "commission_rate": 10,
+   "commission_type": "flat",
+   "id": "awin-atlrx-96109",
+   "link_template": "https://www.awin1.com/cread.php?awinmid=96109&awinaffid=3161005&clickref={SID}",
+   "name": "ATLRx",
+   "network": "awin",
+   "notes": "Awin advertiser 96109 (ATLRx). Joined both views; CM Default USD 10.00 flat per sale verified Nov 24, 2026 (profile 15% headline does not govern); Green, Link Online, US. Terms: Cashback and Loyalty Allowed. Member share 70% of $10 = $7 flat.",
+   "regions": [
+    "US"
+   ],
+   "status": "approved"
   }
  ],
- "registry_version": 86,
+ "registry_version": 88,
  "updated_at": "2026-11-24"
 }
