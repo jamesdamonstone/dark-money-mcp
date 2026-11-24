@@ -1,5 +1,5 @@
 {
- "count": 172,
+ "count": 173,
  "programs": [
   {
    "approved_at": "2026-11-19",
@@ -2826,8 +2826,24 @@
     "US"
    ],
    "status": "approved"
+  },
+  {
+   "active": true,
+   "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=114104&awinaffid=3161005&clickref={SID}",
+   "approved_at": "2026-11-24",
+   "commission_rate": 13.8,
+   "commission_type": "percent",
+   "id": "awin-lunzo-at-114104",
+   "link_template": "https://www.awin1.com/cread.php?awinmid=114104&awinaffid=3161005&clickref={SID}",
+   "name": "Lunzo AT",
+   "network": "awin",
+   "notes": "Awin advertiser 114104 (Lunzo AT). Joined immediately Nov 24, 2026 via advertiser invitation (batch 187). CM Default 13.8% verified Nov 24, 2026; Exposure Level 2; Austria only. Terms: Cashback in Allowed partner types and Allowed channels. Member share 70% of 13.8% = 9.66%.",
+   "regions": [
+    "AT"
+   ],
+   "status": "approved"
   }
  ],
- "registry_version": 89,
+ "registry_version": 90,
  "updated_at": "2026-11-24"
 }
