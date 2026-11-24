@@ -1,5 +1,5 @@
 {
- "count": 171,
+ "count": 172,
  "programs": [
   {
    "approved_at": "2026-11-19",
@@ -783,7 +783,7 @@
    "approved_at": "2026-11-21",
    "batch": "approval",
    "commission": "$25.00 flat per sale",
-   "commission_rate": 25.0,
+   "commission_rate": 25,
    "id": "awin-marley-spoon",
    "link_template": "https://www.awin1.com/cread.php?awinmid=6988&awinaffid=3161005&clickref={SID}",
    "name": "Marley Spoon",
@@ -2810,8 +2810,24 @@
     "US"
    ],
    "status": "approved"
+  },
+  {
+   "active": true,
+   "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=113722&awinaffid=3161005&clickref={SID}",
+   "approved_at": "2026-11-24",
+   "commission_rate": 10,
+   "commission_type": "percent",
+   "id": "awin-enable-accessible-haircare-113722",
+   "link_template": "https://www.awin1.com/cread.php?awinmid=113722&awinaffid=3161005&clickref={SID}",
+   "name": "Enable Accessible Haircare",
+   "network": "awin",
+   "notes": "Awin advertiser 113722 (Enable Accessible Haircare Products). Joined immediately Nov 24, 2026 (revisit batch R1 after terms PDF read locally). CM Default 10.00% verified Nov 24, 2026 (overview 15% headline does not govern); US. Terms: Cashback and Loyalty in Allowed partner types, no incentivized ban. Member share 70% of 10% = 7%.",
+   "regions": [
+    "US"
+   ],
+   "status": "approved"
   }
  ],
- "registry_version": 88,
+ "registry_version": 89,
  "updated_at": "2026-11-24"
 }
