@@ -1,5 +1,5 @@
 {
- "count": 190,
+ "count": 191,
  "programs": [
   {
    "approved_at": "2026-11-19",
@@ -3461,8 +3461,25 @@
     "US"
    ],
    "status": "approved"
+  },
+  {
+   "active": true,
+   "affiliate_link_template": "https://www.kqzyfj.com/click-101932824-10480547?sid={SID}",
+   "approved_at": "2026-11-24",
+   "category": "Tech",
+   "commission_rate": 5,
+   "commission_type": "flat",
+   "id": "cj-gamefly-1132500",
+   "link_template": "https://www.kqzyfj.com/click-101932824-10480547?sid={SID}",
+   "name": "GameFly",
+   "network": "cj",
+   "notes": "CJ advertiser 1132500 (GameFly — video game rental subscriptions). Auto-approved Nov 24, 2026 (batch P22); Program Terms list Incentivized Traffic: Allowed via the advertiser's specified incentivized link only — link ID 10480547 used (verified Nov 24). Commission: $5.00 flat per GameFly Subscription lead; the Item Sale action pays 0.00% — never list on it. Terms require a customer-service contact for incentive issues (james@strangefawkes.com). US only. Member share 70% of $5 = $3.50 flat per subscription.",
+   "regions": [
+    "US"
+   ],
+   "status": "approved"
   }
  ],
- "registry_version": 101,
+ "registry_version": 103,
  "updated_at": "2026-11-24"
 }
