@@ -1,5 +1,5 @@
 {
- "count": 191,
+ "count": 192,
  "programs": [
   {
    "approved_at": "2026-11-19",
@@ -3478,8 +3478,26 @@
     "US"
    ],
    "status": "approved"
+  },
+  {
+   "active": true,
+   "affiliate_link_template": "https://www.dpbolvw.net/click-101932824-15734454?sid={SID}",
+   "approved_at": "2026-11-24",
+   "category": "Gifts",
+   "commission_rate": 20,
+   "commission_type": "percent",
+   "id": "cj-flowers-fast-231679",
+   "link_template": "https://www.dpbolvw.net/click-101932824-15734454?sid={SID}",
+   "name": "Flowers Fast",
+   "network": "cj",
+   "notes": "CJ advertiser 231679 (Flowers Fast — flower delivery). Auto-approved Nov 24, 2026 (batch C60). Program Terms list Incentivized Traffic: Allowed — verified at fold-in Nov 24, 2026. Commission: 20% per sale, 45-day referral. Serviceable Canada and United States. Member share 70% of 20% = 14%.",
+   "regions": [
+    "US",
+    "CA"
+   ],
+   "status": "approved"
   }
  ],
- "registry_version": 103,
+ "registry_version": 104,
  "updated_at": "2026-11-24"
 }
