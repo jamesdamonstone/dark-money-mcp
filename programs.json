@@ -1,5 +1,5 @@
 {
- "count": 195,
+ "count": 196,
  "programs": [
   {
    "approved_at": "2026-11-19",
@@ -3547,8 +3547,27 @@
     "US"
    ],
    "status": "approved"
+  },
+  {
+   "active": true,
+   "affiliate_link_template": "https://www.kqzyfj.com/click-101932824-16942179?sid={SID}",
+   "approved_at": "2026-11-24",
+   "category": "Beauty",
+   "commission_rate": 5,
+   "commission_type": "percent",
+   "id": "cj-fragranceshop-7287203",
+   "link_template": "https://www.kqzyfj.com/click-101932824-16942179?sid={SID}",
+   "name": "FragranceShop.com",
+   "network": "cj",
+   "notes": "CJ advertiser 7287203 (FragranceShop.com). AUTO-APPROVED Nov 24, 2026 (batch C64) and verified Active. Program Terms Incentivized Traffic: Allowed. Commission 5% (Program Terms govern; no cashback-specific rate). Evergreen link 16942179 used for the template (Dark Money website 101932824). Member share 70% of 5% = 3.5%.",
+   "regions": [
+    "AU",
+    "CA",
+    "US"
+   ],
+   "status": "approved"
   }
  ],
- "registry_version": 105,
+ "registry_version": 106,
  "updated_at": "2026-11-24"
 }
