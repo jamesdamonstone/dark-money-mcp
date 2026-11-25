@@ -1,5 +1,5 @@
 {
- "count": 192,
+ "count": 195,
  "programs": [
   {
    "approved_at": "2026-11-19",
@@ -3496,8 +3496,59 @@
     "CA"
    ],
    "status": "approved"
+  },
+  {
+   "active": true,
+   "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=115673&awinaffid=3161005&clickref={SID}",
+   "approved_at": "2026-11-24",
+   "category": "Food & drink",
+   "commission_rate": 8,
+   "commission_type": "percent",
+   "id": "awin-kaytea-115673",
+   "link_template": "https://www.awin1.com/cread.php?awinmid=115673&awinaffid=3161005&clickref={SID}",
+   "name": "Kaytea",
+   "network": "awin",
+   "notes": "Awin advertiser 115673 (Kaytea). Joined immediately Nov 24, 2026 (batch 216). Exposure Level 1. Commission Manager Default 8%. Cashback and Loyalty both in the terms' Preferred partner types; branding terms state all other promotion methods are accepted without restrictions. Note: the profile Overview was inconsistent (Spanish baby-products text on first load; organic cold brew iced tea after joining) — categorised Food & drink per the post-join Overview; verify the storefront at first sale.",
+   "regions": [
+    "GB"
+   ],
+   "status": "approved"
+  },
+  {
+   "active": true,
+   "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=115685&awinaffid=3161005&clickref={SID}",
+   "approved_at": "2026-11-24",
+   "category": "Beauty",
+   "commission_rate": 12,
+   "commission_type": "percent",
+   "id": "awin-dryze-nederland-115685",
+   "link_template": "https://www.awin1.com/cread.php?awinmid=115685&awinaffid=3161005&clickref={SID}",
+   "name": "Dryze Nederland",
+   "network": "awin",
+   "notes": "Awin advertiser 115685 (Dryze Nederland — hair styling tools). Joined immediately Nov 24, 2026 (batch 216). Exposure Level 1. Commission Manager Default 12%. Cashback and Loyalty both in the terms' Preferred partner types; no ban or gate. Terms' commission-basis table conflicts with the Additional terms on what the commission base includes — noted only.",
+   "regions": [
+    "NL"
+   ],
+   "status": "approved"
+  },
+  {
+   "active": true,
+   "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=115697&awinaffid=3161005&clickref={SID}",
+   "approved_at": "2026-11-24",
+   "category": "General",
+   "commission_rate": 8,
+   "commission_type": "percent",
+   "id": "awin-zozulu-115697",
+   "link_template": "https://www.awin1.com/cread.php?awinmid=115697&awinaffid=3161005&clickref={SID}",
+   "name": "Zozulu",
+   "network": "awin",
+   "notes": "Awin advertiser 115697 (Zozulu — home decor, kitchen, automotive, lighting, furnishings). Joined immediately Nov 24, 2026 (batch 216). Exposure Level 2. Commission Manager Default 8% GOVERNS over the flat 10% stated in the Overview and terms prose. Overview expressly welcomes cashback platforms and loyalty websites. Member share 70% of 8% = 5.6%.",
+   "regions": [
+    "US"
+   ],
+   "status": "approved"
   }
  ],
- "registry_version": 104,
+ "registry_version": 105,
  "updated_at": "2026-11-24"
 }
