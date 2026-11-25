@@ -1,5 +1,5 @@
 {
-  "count": 188,
+  "count": 189,
   "programs": [
     {
       "approved_at": "2026-11-19",
@@ -3239,8 +3239,24 @@
         "GLOBAL"
       ],
       "status": "approved"
+    },
+    {
+      "active": true,
+      "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=115393&awinaffid=3161005&clickref={SID}",
+      "approved_at": "2026-11-24",
+      "commission_rate": 15,
+      "commission_type": "percent",
+      "id": "awin-anita-zaha-115393",
+      "link_template": "https://www.awin1.com/cread.php?awinmid=115393&awinaffid=3161005&clickref={SID}",
+      "name": "ANITA & ZAHA",
+      "network": "awin",
+      "notes": "Awin advertiser 115393 (ANITA & ZAHA — French fashion label). Joined immediately Nov 24, 2026 (batch 209). Terms: Loyalty in Allowed partner types (Cashback not listed; no cashback ban or gate); the application disclosed the cashback model openly and was accepted instantly. CM Default 15% governs (matches the Overview's fixed 15%). Exposure Level 1. Member share 70% of 15% = 10.5%.",
+      "regions": [
+        "FR"
+      ],
+      "status": "approved"
     }
   ],
-  "registry_version": 100,
+  "registry_version": 101,
   "updated_at": "2026-11-24"
 }
