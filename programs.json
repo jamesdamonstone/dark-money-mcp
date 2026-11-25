@@ -1,5 +1,5 @@
 {
- "count": 196,
+ "count": 198,
  "programs": [
   {
    "approved_at": "2026-11-19",
@@ -3566,8 +3566,42 @@
     "US"
    ],
    "status": "approved"
+  },
+  {
+   "active": true,
+   "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=115739&awinaffid=3161005&clickref={SID}",
+   "approved_at": "2026-11-24",
+   "category": "Gifts",
+   "commission_rate": 5,
+   "commission_type": "percent",
+   "id": "awin-teddys-trove-115739",
+   "link_template": "https://www.awin1.com/cread.php?awinmid=115739&awinaffid=3161005&clickref={SID}",
+   "name": "Teddys Trove",
+   "network": "awin",
+   "notes": "Awin advertiser 115739 (Teddys Trove — teddy bears and plush gifts). Joined immediately Nov 24, 2026 (batch 217). Exposure Level 1. Commission Manager Default 5% (matches the Overview). Cashback and Loyalty both in the terms' Preferred partner types. Caveats: advertiser requires prior approval of copy appearing in online/offline media; vouchers only via the Awin interface, full-price items only. Member share 70% of 5% = 3.5%.",
+   "regions": [
+    "GB"
+   ],
+   "status": "approved"
+  },
+  {
+   "active": true,
+   "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=115743&awinaffid=3161005&clickref={SID}",
+   "approved_at": "2026-11-24",
+   "category": "General",
+   "commission_rate": 12,
+   "commission_type": "flat_eur",
+   "id": "awin-plusshop-fi-115743",
+   "link_template": "https://www.awin1.com/cread.php?awinmid=115743&awinaffid=3161005&clickref={SID}",
+   "name": "Plusshop FI",
+   "network": "awin",
+   "notes": "Awin advertiser 115743 (Plusshop FI — Finnish general store). Joined immediately Nov 24, 2026 (batch 217). Exposure Level 2. Commission Manager Default EUR 12.00 flat CPA — the Overview's alternative 50%-of-basket model is an opt-in switch by message that was NOT taken; list on the EUR 12 CPA. Terms expressly welcome cashback and loyalty programs by name; no traffic restrictions. Member share 70% of EUR 12 = EUR 8.40.",
+   "regions": [
+    "FI"
+   ],
+   "status": "approved"
   }
  ],
- "registry_version": 106,
+ "registry_version": 107,
  "updated_at": "2026-11-24"
 }
