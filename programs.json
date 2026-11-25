@@ -1,5 +1,5 @@
 {
- "count": 198,
+ "count": 199,
  "programs": [
   {
    "approved_at": "2026-11-19",
@@ -3600,8 +3600,25 @@
     "FI"
    ],
    "status": "approved"
+  },
+  {
+   "active": true,
+   "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=118585&awinaffid=3161005&clickref={SID}",
+   "approved_at": "2026-11-24",
+   "category": "Services",
+   "commission_rate": 30,
+   "commission_type": "flat_usd",
+   "id": "awin-resume-corner-inc-118585",
+   "link_template": "https://www.awin1.com/cread.php?awinmid=118585&awinaffid=3161005&clickref={SID}",
+   "name": "Resume Corner, Inc.",
+   "network": "awin",
+   "notes": "Awin advertiser 118585 (Resume Corner, Inc. — professional resume writing and career coaching). Joined immediately Nov 24, 2026 (batch 219). Exposure Level not shown on the live profile (directory CSV: none). Commission Manager Default USD 30.00 flat per sale (matches the Overview). Loyalty is in the terms' Allowed partner types (Cashback absent — Loyalty alone suffices); no cashback ban or gate. 365-day cookie. Member share 70% of USD 30 = USD 21.00.",
+   "regions": [
+    "US"
+   ],
+   "status": "approved"
   }
  ],
- "registry_version": 107,
+ "registry_version": 108,
  "updated_at": "2026-11-24"
 }
