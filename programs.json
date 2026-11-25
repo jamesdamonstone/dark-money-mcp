@@ -4,6 +4,7 @@
   {
    "approved_at": "2026-11-19",
    "batch": 2,
+   "category": "Tech",
    "commission": "40% on new subscriptions",
    "commission_rate": 0.4,
    "id": "cj-nordvpn",
@@ -18,6 +19,7 @@
   {
    "approved_at": "2026-11-19",
    "batch": 8,
+   "category": "Food & drink",
    "commission": "20% per confirmed sale",
    "commission_rate": 0.2,
    "id": "cj-zchocolat",
@@ -33,6 +35,7 @@
   {
    "approved_at": "2026-11-19",
    "batch": 9,
+   "category": "Gifts",
    "commission": "8%",
    "commission_rate": 0.08,
    "id": "cj-trinity-road-websites",
@@ -48,6 +51,7 @@
   {
    "approved_at": "2026-11-19",
    "batch": 9,
+   "category": "Services",
    "commission": "3%",
    "commission_rate": 0.03,
    "id": "cj-signs-banners-magnets",
@@ -63,6 +67,7 @@
   {
    "approved_at": "2026-11-19",
    "batch": 10,
+   "category": "Tech",
    "commission": "15%",
    "commission_rate": 0.15,
    "id": "cj-rexing",
@@ -77,6 +82,7 @@
   {
    "approved_at": "2026-11-19",
    "batch": 10,
+   "category": "Health",
    "commission": "6%",
    "commission_rate": 0.06,
    "id": "cj-pure-genius-protein",
@@ -91,6 +97,7 @@
   {
    "approved_at": "2026-11-19",
    "batch": 13,
+   "category": "Health",
    "commission": "10%",
    "commission_rate": 0.1,
    "id": "cj-groundluxe",
@@ -106,6 +113,7 @@
   {
    "approved_at": "2026-11-19",
    "batch": 14,
+   "category": "General",
    "commission": "2%",
    "commission_rate": 0.02,
    "id": "cj-greatergood",
@@ -120,6 +128,7 @@
   {
    "approved_at": "2026-11-19",
    "batch": 9,
+   "category": "Home & garden",
    "commission": "7%",
    "commission_rate": 0.07,
    "id": "cj-shelving",
@@ -135,6 +144,7 @@
   {
    "approved_at": "2026-11-19",
    "batch": 16,
+   "category": "General",
    "commission": "2%-50% (tiered by category)",
    "commission_rate": null,
    "id": "cj-dhgate",
@@ -150,6 +160,7 @@
   {
    "approved_at": "2026-11-19",
    "batch": 11,
+   "category": "Fashion",
    "commission": "6%",
    "commission_rate": 0.06,
    "id": "cj-nicks-boots",
@@ -164,6 +175,7 @@
   {
    "approved_at": "2026-11-19",
    "batch": 10,
+   "category": "Services",
    "commission": "$75 flat per signup",
    "commission_rate": null,
    "id": "cj-phone-com",
@@ -179,6 +191,7 @@
   {
    "approved_at": "2026-11-19",
    "batch": 15,
+   "category": "Fashion",
    "commission": "8%-10%",
    "commission_rate": null,
    "id": "cj-dream-pairs",
@@ -194,6 +207,7 @@
   {
    "approved_at": "2026-11-19",
    "batch": 1,
+   "category": "Home & garden",
    "commission": "10%",
    "commission_rate": 0.1,
    "id": "awin-gate-operators-direct",
@@ -209,6 +223,7 @@
   {
    "approved_at": "2026-11-20",
    "batch": 10,
+   "category": "Travel",
    "commission": "Flat per booking: $8 domestic / $13 international / $20 business class; with insurance $13 domestic / $23 international",
    "commission_rate": null,
    "id": "cj-ovago",
@@ -224,6 +239,7 @@
   {
    "approved_at": "2026-11-20",
    "batch": 19,
+   "category": "Kids & baby",
    "commission": "5%",
    "commission_rate": 0.05,
    "id": "cj-xplora-uk",
@@ -239,6 +255,7 @@
   {
    "approved_at": "2026-11-20",
    "batch": 19,
+   "category": "Kids & baby",
    "commission": "10%",
    "commission_rate": 0.1,
    "id": "cj-xplora",
@@ -254,6 +271,7 @@
   {
    "approved_at": "2026-11-20",
    "batch": 3,
+   "category": "Pets",
    "commission": "15%",
    "commission_rate": 0.15,
    "id": "awin-alzoo",
@@ -269,6 +287,7 @@
   {
    "approved_at": "2026-11-20",
    "batch": 4,
+   "category": "Tech",
    "commission": "$15 flat per sale",
    "commission_rate": null,
    "id": "awin-your-phone-here",
@@ -284,6 +303,7 @@
   {
    "approved_at": "2026-11-20",
    "batch": 4,
+   "category": "Health",
    "commission": "20%",
    "commission_rate": 0.2,
    "id": "awin-buena-cura-us",
@@ -299,6 +319,7 @@
   {
    "approved_at": "2026-11-20",
    "batch": 2,
+   "category": "Health",
    "commission": "20%",
    "commission_rate": 0.2,
    "id": "awin-shed-supplements",
@@ -314,6 +335,7 @@
   {
    "approved_at": "2026-11-20",
    "batch": 5,
+   "category": "Jewelry",
    "commission": "10%",
    "commission_rate": 0.1,
    "id": "awin-miles-jewellery",
@@ -329,6 +351,7 @@
   {
    "approved_at": "2026-11-20",
    "batch": 5,
+   "category": "Pets",
    "commission": "10%",
    "commission_rate": 0.1,
    "id": "awin-coziwow",
@@ -344,6 +367,7 @@
   {
    "approved_at": "2026-11-20",
    "batch": 21,
+   "category": "Food & drink",
    "commission": "7%",
    "commission_rate": 0.07,
    "id": "cj-winebasket",
@@ -359,6 +383,7 @@
   {
    "approved_at": "2026-11-20",
    "batch": 6,
+   "category": "Jewelry",
    "commission": "5%",
    "commission_rate": 0.05,
    "id": "awin-maddie-grace-jewelry",
@@ -374,6 +399,7 @@
   {
    "approved_at": "2026-11-20",
    "batch": 6,
+   "category": "Health",
    "commission": "5%",
    "commission_rate": 0.05,
    "id": "awin-lifevibe",
@@ -389,6 +415,7 @@
   {
    "approved_at": "2026-11-20",
    "batch": "intelsio",
+   "category": "Beauty",
    "commission": "10%",
    "commission_rate": 0.1,
    "id": "awin-snow",
@@ -404,6 +431,7 @@
   {
    "approved_at": "2026-11-20",
    "batch": "intelsio",
+   "category": "Health",
    "commission": "$45 flat per sale",
    "commission_rate": null,
    "id": "awin-curex",
@@ -419,6 +447,7 @@
   {
    "approved_at": "2026-11-20",
    "batch": "intelsio",
+   "category": "Health",
    "commission": "$45 flat per sale",
    "commission_rate": null,
    "id": "awin-clarityx",
@@ -434,6 +463,7 @@
   {
    "approved_at": "2026-11-20",
    "batch": "intelsio",
+   "category": "Health",
    "commission": "$120 flat per sale",
    "commission_rate": null,
    "id": "awin-signos",
@@ -449,6 +479,7 @@
   {
    "approved_at": "2026-11-20",
    "batch": "intelsio",
+   "category": "Health",
    "commission": "$120 flat per sale",
    "commission_rate": null,
    "id": "awin-shedrx",
@@ -464,6 +495,7 @@
   {
    "approved_at": "2026-11-20",
    "batch": "intelsio",
+   "category": "Health",
    "commission": "10%",
    "commission_rate": 0.1,
    "id": "awin-measured",
@@ -479,6 +511,7 @@
   {
    "approved_at": "2026-11-20",
    "batch": "intelsio",
+   "category": "Health",
    "commission": "$18 flat per sale",
    "commission_rate": null,
    "id": "awin-neuro-gum",
@@ -494,6 +527,7 @@
   {
    "approved_at": "2026-11-20",
    "batch": 6,
+   "category": "Home & garden",
    "commission": "10%",
    "commission_rate": 0.1,
    "id": "awin-wallshoppe",
@@ -509,6 +543,7 @@
   {
    "approved_at": "2026-11-20",
    "batch": 8,
+   "category": "Travel",
    "commission": "20%",
    "commission_rate": 0.2,
    "id": "awin-skoot",
@@ -524,6 +559,7 @@
   {
    "approved_at": "2026-11-20",
    "batch": 10,
+   "category": "Health",
    "commission": "10%",
    "commission_rate": 0.1,
    "id": "awin-edify",
@@ -539,6 +575,7 @@
   {
    "approved_at": "2026-11-20",
    "batch": "invitation/batch-11",
+   "category": "Fashion",
    "commission": "15% per sale",
    "commission_rate": 0.15,
    "id": "awin-veronika-vilim",
@@ -554,6 +591,7 @@
   {
    "approved_at": "2026-11-20",
    "batch": "invitation/batch-11",
+   "category": "General",
    "commission": "10% per sale",
    "commission_rate": 0.1,
    "id": "awin-lunzo-ro",
@@ -569,6 +607,7 @@
   {
    "approved_at": "2026-11-20",
    "batch": "invitation/batch-11",
+   "category": "General",
    "commission": "13.8% per sale",
    "commission_rate": 0.138,
    "id": "awin-lunzo-sk",
@@ -584,6 +623,7 @@
   {
    "approved_at": "2026-11-20",
    "batch": "batch-12",
+   "category": "Eyewear",
    "commission": "12.8% per sale",
    "commission_rate": 0.128,
    "id": "awin-thierry-lasry",
@@ -599,6 +639,7 @@
   {
    "approved_at": "2026-11-20",
    "batch": "batch-13",
+   "category": "Home & garden",
    "commission": "15% per sale",
    "commission_rate": 0.15,
    "id": "awin-isla-capricho",
@@ -614,6 +655,7 @@
   {
    "approved_at": "2026-11-20",
    "batch": "batch-13",
+   "category": "Home & garden",
    "commission": "5% per sale (cashback rate)",
    "commission_rate": 0.05,
    "id": "awin-kurtens",
@@ -632,6 +674,7 @@
   {
    "approved_at": "2026-11-20",
    "batch": "batch-32",
+   "category": "Beauty",
    "commission": "5% per sale",
    "commission_rate": 0.05,
    "id": "cj-unice",
@@ -647,6 +690,7 @@
   {
    "approved_at": "2026-11-20",
    "batch": "batch-14",
+   "category": "Jewelry",
    "commission": "15% per sale",
    "commission_rate": 0.15,
    "id": "awin-blooh",
@@ -662,6 +706,7 @@
   {
    "approved_at": "2026-11-20",
    "batch": "batch-16",
+   "category": "Services",
    "commission": "20% per sale",
    "commission_rate": 0.2,
    "id": "awin-techpals",
@@ -677,6 +722,7 @@
   {
    "approved_at": "2026-11-20",
    "batch": "batch-16",
+   "category": "Home & garden",
    "commission": "10% per sale",
    "commission_rate": 0.1,
    "id": "awin-welcome-home",
@@ -692,6 +738,7 @@
   {
    "approved_at": "2026-11-20",
    "batch": "batch-17",
+   "category": "Fashion",
    "commission": "16% per sale",
    "commission_rate": 0.16,
    "id": "awin-east-x-east",
@@ -707,6 +754,7 @@
   {
    "approved_at": "2026-11-20",
    "batch": "batch-17",
+   "category": "Home & garden",
    "commission": "10% per sale",
    "commission_rate": 0.1,
    "id": "awin-cocinare",
@@ -722,6 +770,7 @@
   {
    "approved_at": "2026-11-20",
    "batch": "batch-18",
+   "category": "Tech",
    "commission": "10% per sale",
    "commission_rate": 0.1,
    "id": "awin-uuna-tek",
@@ -737,6 +786,7 @@
   {
    "approved_at": "2026-11-20",
    "batch": "pre-batch-15-join-verified-late",
+   "category": "Home & garden",
    "commission": "13% per sale",
    "commission_rate": 0.13,
    "id": "awin-alorair",
@@ -752,6 +802,7 @@
   {
    "approved_at": "2026-11-20",
    "batch": "batch-20",
+   "category": "Health",
    "commission": "30% per sale",
    "commission_rate": 0.3,
    "id": "awin-thrivous",
@@ -767,6 +818,7 @@
   {
    "approved_at": "2026-11-21",
    "batch": "batch-23",
+   "category": "Services",
    "commission": "10% per sale",
    "commission_rate": 0.1,
    "id": "awin-myphysicianplan",
@@ -782,6 +834,7 @@
   {
    "approved_at": "2026-11-21",
    "batch": "approval",
+   "category": "Food & drink",
    "commission": "$25.00 flat per sale",
    "commission_rate": 25,
    "id": "awin-marley-spoon",
@@ -797,6 +850,7 @@
   {
    "approved_at": "2026-11-21",
    "batch": "approval",
+   "category": "Fashion",
    "commission": "20% per sale",
    "commission_rate": 0.2,
    "id": "awin-afewvibe",
@@ -812,6 +866,7 @@
   {
    "approved_at": "2026-11-21",
    "batch": "approval",
+   "category": "Home & garden",
    "commission": "6% per sale",
    "commission_rate": 0.06,
    "id": "awin-argendon",
@@ -827,6 +882,7 @@
   {
    "approved_at": "2026-11-21",
    "batch": "batch-25",
+   "category": "Home & garden",
    "commission": "5% per sale",
    "commission_rate": 0.05,
    "id": "awin-regina-andrew-detroit",
@@ -842,6 +898,7 @@
   {
    "approved_at": "2026-11-21",
    "batch": "batch-26",
+   "category": "Home & garden",
    "commission": "10% per sale",
    "commission_rate": 0.1,
    "id": "awin-monvane",
@@ -857,6 +914,7 @@
   {
    "approved_at": "2026-11-21",
    "batch": "batch-28",
+   "category": "Jewelry",
    "commission": "15% per sale",
    "commission_rate": 0.15,
    "id": "awin-santean-bracelets",
@@ -872,6 +930,7 @@
   {
    "approved_at": "2026-11-21",
    "batch": "batch-29",
+   "category": "Food & drink",
    "commission": "10% per sale",
    "commission_rate": 0.1,
    "id": "awin-petes-pasta",
@@ -887,6 +946,7 @@
   {
    "approved_at": "2026-11-21",
    "batch": 24,
+   "category": "Beauty",
    "commission": "5%-6%",
    "commission_rate": null,
    "id": "awin-surebeauty",
@@ -902,6 +962,7 @@
   {
    "approved_at": "2026-11-21",
    "batch": 32,
+   "category": "Health",
    "commission": "25%",
    "commission_rate": 0.25,
    "id": "awin-menomojo",
@@ -917,6 +978,7 @@
   {
    "approved_at": "2026-11-21",
    "batch": 36,
+   "category": "Kids & baby",
    "commission": "8%-10%",
    "commission_rate": null,
    "id": "awin-mamaraya",
@@ -932,6 +994,7 @@
   {
    "approved_at": "2026-11-21",
    "batch": 58,
+   "category": "Beauty",
    "commission": "20%",
    "commission_rate": 0.2,
    "id": "awin-era-of-nature-111540",
@@ -947,6 +1010,7 @@
   {
    "approved_at": "2026-11-21",
    "batch": 61,
+   "category": "Eyewear",
    "commission": "15%",
    "commission_rate": 0.15,
    "id": "awin-dima-eyewear",
@@ -962,6 +1026,7 @@
   {
    "approved_at": "2026-11-21",
    "batch": "intelsio",
+   "category": "Health",
    "commission": "$50 flat per sale",
    "commission_rate": null,
    "id": "awin-daybreak",
@@ -977,6 +1042,7 @@
   {
    "approved_at": "2026-11-21",
    "batch": "intelsio",
+   "category": "Beauty",
    "commission": "$10 flat per sale",
    "commission_rate": null,
    "id": "awin-doctor-derm",
@@ -992,6 +1058,7 @@
   {
    "approved_at": "2026-11-21",
    "batch": 67,
+   "category": "Fashion",
    "commission": "3%",
    "commission_rate": 0.03,
    "id": "awin-rockstar-original",
@@ -1007,6 +1074,7 @@
   {
    "approved_at": "2026-11-21",
    "batch": 69,
+   "category": "Gifts",
    "commission": "$5 flat per sale",
    "commission_rate": null,
    "id": "awin-paintmysoul",
@@ -1022,6 +1090,7 @@
   {
    "approved_at": "2026-11-21",
    "batch": 71,
+   "category": "Home & garden",
    "commission": "10%",
    "commission_rate": 0.1,
    "id": "awin-bella-maison-usa",
@@ -1035,6 +1104,7 @@
    "status": "approved"
   },
   {
+   "category": "Fashion",
    "commission_note": "20% flat (Commission Manager Default, verified 2026-11-21)",
    "commission_rate": 0.2,
    "id": "awin-some-slight-clothing-128659",
@@ -1049,6 +1119,7 @@
    "store_url": "https://someslight.com/"
   },
   {
+   "category": "Gifts",
    "commission_note": "20% flat (Commission Manager Default, verified 2026-11-21)",
    "commission_rate": 0.2,
    "id": "awin-friendly-songs-88629",
@@ -1063,6 +1134,7 @@
    "store_url": "https://www.personalizedfriendlysongs.com"
   },
   {
+   "category": "Fashion",
    "commission_note": "6% flat (Commission Manager Default, verified 2026-11-21)",
    "commission_rate": 0.06,
    "id": "awin-scarletdarkness-129969",
@@ -1077,6 +1149,7 @@
    "store_url": "https://scarletdarkness.com/"
   },
   {
+   "category": "Home & garden",
    "commission_note": "10% flat (Commission Manager Default, verified 2026-11-21; profile advertises 'up to 15%' but CM governs)",
    "commission_rate": 0.1,
    "id": "awin-kingsyard-79354",
@@ -1091,6 +1164,7 @@
    "store_url": "https://www.kingsyard.com"
   },
   {
+   "category": "Sports",
    "commission_note": "10% flat (Commission Manager Default, verified 2026-11-21)",
    "commission_rate": 0.1,
    "id": "awin-max-recovery-clothing-117883",
@@ -1105,6 +1179,7 @@
    "store_url": "https://maxrecoveryclothing.com/"
   },
   {
+   "category": "Pets",
    "commission_note": "16% flat (Commission Manager Default, verified 2026-11-21)",
    "commission_rate": 0.16,
    "id": "awin-kitty-kick-stix-117825",
@@ -1119,6 +1194,7 @@
    "store_url": "https://www.kittykickstix.com/"
   },
   {
+   "category": "Tech",
    "commission_note": "5% flat (Commission Manager Default, verified 2026-11-21; profile advertises 5-10% — CM governs)",
    "commission_rate": 0.05,
    "id": "awin-reudyn-131985",
@@ -1133,6 +1209,7 @@
    "store_url": "https://www.reudyn.com/"
   },
   {
+   "category": "Beauty",
    "commission_note": "10% flat (Commission Manager, verified 2026-11-21; profile marketing says 15%/20% — CM governs)",
    "commission_rate": 0.1,
    "id": "awin-wau-124878",
@@ -1147,6 +1224,7 @@
    "store_url": "https://wauglobal.com/"
   },
   {
+   "category": "Health",
    "commission_note": "5% flat (Commission Manager Default, verified 2026-11-21)",
    "commission_rate": 0.05,
    "id": "awin-brookwood-med-124250",
@@ -1161,6 +1239,7 @@
    "store_url": "https://brookwoodmed.com/"
   },
   {
+   "category": "Sports",
    "commission_note": "15% flat (Commission Manager Default, verified 2026-11-21; tiered up to 20% by monthly GMV)",
    "commission_rate": 0.15,
    "id": "awin-traverseon-124816",
@@ -1175,6 +1254,7 @@
    "store_url": "https://traverseon.com/"
   },
   {
+   "category": "Beauty",
    "commission_note": "20% flat (Commission Manager Default, verified 2026-11-21)",
    "commission_rate": 0.2,
    "id": "awin-neuroscent-117317",
@@ -1202,6 +1282,7 @@
    "store_url": "https://neuroscent.myshopify.com/"
   },
   {
+   "category": "Gifts",
    "commission_note": "10%-21% (Commission Manager: Default 21%, New Customer 21%, Returning Customer 10% — verified 2026-11-21)",
    "commission_rate": null,
    "id": "awin-secretknit-131165",
@@ -1216,6 +1297,7 @@
    "store_url": "https://secretknit.com/"
   },
   {
+   "category": "Beauty",
    "commission_note": "18% flat (Commission Manager Default, verified 2026-11-22)",
    "commission_rate": 0.18,
    "id": "awin-natures-skin-and-body-food-26560",
@@ -1232,6 +1314,7 @@
   {
    "active": true,
    "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=91117&awinaffid=3161005&clickref={SID}",
+   "category": "Eyewear",
    "commission_rate": 0.1,
    "commission_type": "percent",
    "id": "awin-abbe-glasses-91117",
@@ -1246,6 +1329,7 @@
   {
    "active": true,
    "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=92915&awinaffid=3161005&clickref={SID}",
+   "category": "Tech",
    "commission_rate": 0.08,
    "commission_type": "percent",
    "id": "awin-neje-92915",
@@ -1260,6 +1344,7 @@
   {
    "active": true,
    "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=96879&awinaffid=3161005&clickref={SID}",
+   "category": "Gifts",
    "commission_rate": 0.1,
    "commission_type": "percent",
    "id": "awin-loveisarose-96879",
@@ -1274,6 +1359,7 @@
   {
    "active": true,
    "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=84797&awinaffid=3161005&clickref={SID}",
+   "category": "Gifts",
    "commission_rate": 0.35,
    "commission_type": "percent",
    "id": "awin-mimi-panda-84797",
@@ -1288,6 +1374,7 @@
   {
    "active": true,
    "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=97753&awinaffid=3161005&clickref={SID}",
+   "category": "Kids & baby",
    "commission_rate": 0.2,
    "commission_type": "percent",
    "id": "awin-upper-brand-97753",
@@ -1302,6 +1389,7 @@
   {
    "active": true,
    "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=88425&awinaffid=3161005&clickref={SID}",
+   "category": "Home & garden",
    "commission_rate": 0.12,
    "commission_type": "percent",
    "id": "awin-flags-connections-88425",
@@ -1316,6 +1404,7 @@
   {
    "active": true,
    "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=92667&awinaffid=3161005&clickref={SID}",
+   "category": "Travel",
    "commission_rate": 0.05,
    "commission_type": "percent",
    "id": "awin-sailo-92667",
@@ -1330,6 +1419,7 @@
   {
    "active": true,
    "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=78586&awinaffid=3161005&clickref={SID}",
+   "category": "Fashion",
    "commission_rate": 0.02,
    "commission_type": "percent",
    "id": "awin-needs-no-label-78586",
@@ -1388,6 +1478,7 @@
   {
    "active": true,
    "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=75408&awinaffid=3161005&clickref={SID}",
+   "category": "Tech",
    "commission_rate": 0.05,
    "commission_type": "percent",
    "id": "awin-nothingprojector-75408",
@@ -1424,6 +1515,7 @@
   {
    "active": true,
    "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=81213&awinaffid=3161005&clickref={SID}",
+   "category": "Gifts",
    "commission_rate": 0.15,
    "commission_type": "percent",
    "id": "awin-smugglers-crate-81213",
@@ -1447,6 +1539,7 @@
   {
    "active": true,
    "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=118933&awinaffid=3161005&clickref={SID}",
+   "category": "Tech",
    "commission_rate": 0.03,
    "commission_type": "percent",
    "id": "awin-xlaserlab-118933",
@@ -1461,6 +1554,7 @@
   {
    "active": true,
    "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=59397&awinaffid=3161005&clickref={SID}",
+   "category": "Pets",
    "commission_rate": 0.2,
    "commission_type": "percent",
    "id": "awin-bonne-et-filou-59397",
@@ -1475,6 +1569,7 @@
   {
    "active": true,
    "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=124962&awinaffid=3161005&clickref={SID}",
+   "category": "Food & drink",
    "commission_rate": 0.1,
    "commission_type": "percent",
    "id": "awin-more-than-matcha-124962",
@@ -1489,6 +1584,7 @@
   {
    "active": true,
    "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=46127&awinaffid=3161005&clickref={SID}",
+   "category": "Home & garden",
    "commission_rate": 0.1,
    "commission_type": "percent",
    "id": "awin-rowabi-46127",
@@ -1503,6 +1599,7 @@
   {
    "active": true,
    "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=88527&awinaffid=3161005&clickref={SID}",
+   "category": "Health",
    "commission_rate": 0.06,
    "commission_type": "percent",
    "id": "awin-teethnightguard-88527",
@@ -1517,6 +1614,7 @@
   {
    "active": true,
    "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=52103&awinaffid=3161005&clickref={SID}",
+   "category": "Eyewear",
    "commission_rate": 0.08,
    "commission_type": "percent",
    "id": "awin-efe-52103",
@@ -1531,6 +1629,7 @@
   {
    "active": true,
    "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=120193&awinaffid=3161005&clickref={SID}",
+   "category": "Beauty",
    "commission_rate": 0.1,
    "commission_type": "percent",
    "id": "awin-house-of-twist-120193",
@@ -1545,6 +1644,7 @@
   {
    "active": true,
    "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=90809&awinaffid=3161005&clickref={SID}",
+   "category": "Fashion",
    "commission_rate": 0.1,
    "commission_type": "percent",
    "id": "awin-efootwear-90809",
@@ -1559,6 +1659,7 @@
   {
    "active": true,
    "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=25940&awinaffid=3161005&clickref={SID}",
+   "category": "Food & drink",
    "commission_rate": 0.03,
    "commission_type": "percent",
    "id": "awin-blackboxmeats-25940",
@@ -1573,6 +1674,7 @@
   {
    "active": true,
    "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=126887&awinaffid=3161005&clickref={SID}",
+   "category": "Health",
    "commission_rate": 0.2,
    "commission_type": "percent",
    "id": "awin-celsius-herbs-126887",
@@ -1587,6 +1689,7 @@
   {
    "active": true,
    "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=130555&awinaffid=3161005&clickref={SID}",
+   "category": "Kids & baby",
    "commission_rate": 0.16,
    "commission_type": "percent",
    "id": "awin-primeful-130555",
@@ -1601,6 +1704,7 @@
   {
    "active": true,
    "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=127021&awinaffid=3161005&clickref={SID}",
+   "category": "Food & drink",
    "commission_rate": 0.15,
    "commission_type": "percent",
    "id": "awin-dry-and-dirty-us-127021",
@@ -1615,6 +1719,7 @@
   {
    "active": true,
    "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=107443&awinaffid=3161005&clickref={SID}",
+   "category": "Fashion",
    "commission_rate": 0.2,
    "commission_type": "percent",
    "id": "awin-skimpies-us-107443",
@@ -1629,6 +1734,7 @@
   {
    "active": true,
    "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=119371&awinaffid=3161005&clickref={SID}",
+   "category": "Food & drink",
    "commission_rate": 0.05,
    "commission_type": "percent",
    "id": "awin-illadelph-spirits-119371",
@@ -1643,6 +1749,7 @@
   {
    "active": true,
    "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=111786&awinaffid=3161005&clickref={SID}",
+   "category": "Kids & baby",
    "commission_rate": 0.2,
    "commission_type": "percent",
    "id": "awin-enjox-toys-111786",
@@ -1657,6 +1764,7 @@
   {
    "active": true,
    "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=129653&awinaffid=3161005&clickref={SID}",
+   "category": "Gifts",
    "commission_rate": 0.15,
    "commission_type": "percent",
    "id": "awin-christmas-mystery-129653",
@@ -1671,6 +1779,7 @@
   {
    "active": true,
    "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=131393&awinaffid=3161005&clickref={SID}",
+   "category": "Health",
    "commission_rate": 0.1,
    "commission_type": "percent",
    "id": "awin-newt-nutrition-131393",
@@ -1685,6 +1794,7 @@
   {
    "active": true,
    "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=130163&awinaffid=3161005&clickref={SID}",
+   "category": "Health",
    "commission_rate": 0.1,
    "commission_type": "percent",
    "id": "awin-orion-rlt-130163",
@@ -1699,6 +1809,7 @@
   {
    "active": true,
    "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=129711&awinaffid=3161005&clickref={SID}",
+   "category": "Food & drink",
    "commission_rate": 0.125,
    "commission_type": "percent",
    "id": "awin-cookie-pop-candy-pop-129711",
@@ -1713,6 +1824,7 @@
   {
    "active": true,
    "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=131486&awinaffid=3161005&clickref={SID}",
+   "category": "Fashion",
    "commission_rate": 0.12,
    "commission_type": "percent",
    "id": "awin-haurangi-131486",
@@ -1726,6 +1838,7 @@
   },
   {
    "approved_at": "2026-11-22",
+   "category": "Travel",
    "commission": "10% on ticket purchases",
    "commission_rate": 0.1,
    "id": "cj-weekend-in-italy",
@@ -1766,6 +1879,7 @@
   {
    "active": true,
    "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=98661&awinaffid=3161005&clickref={SID}",
+   "category": "General",
    "commission_rate": 0.1,
    "commission_type": "percent",
    "id": "awin-cronjager-98661",
@@ -1808,6 +1922,7 @@
   {
    "active": true,
    "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=94891&awinaffid=3161005&clickref={SID}",
+   "category": "Home & garden",
    "commission_rate": 0.1,
    "commission_type": "percent",
    "id": "awin-welock-94891",
@@ -1822,6 +1937,7 @@
   {
    "active": true,
    "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=96299&awinaffid=3161005&clickref={SID}",
+   "category": "Eyewear",
    "commission_rate": 0.15,
    "commission_type": "percent",
    "id": "awin-otra-eyewear-96299",
@@ -1838,6 +1954,7 @@
   {
    "active": true,
    "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=37618&awinaffid=3161005&clickref={SID}",
+   "category": "Tech",
    "commission_rate": 0.03,
    "commission_type": "percent",
    "id": "awin-autelpilot-37618",
@@ -1852,6 +1969,7 @@
   {
    "active": true,
    "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=57145&awinaffid=3161005&clickref={SID}",
+   "category": "Fashion",
    "commission_rate": 0.15,
    "commission_type": "percent",
    "id": "awin-comenii-scrubs-57145",
@@ -1866,6 +1984,7 @@
   {
    "active": true,
    "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=99013&awinaffid=3161005&clickref={SID}",
+   "category": "Home & garden",
    "commission_rate": 0.1,
    "commission_type": "percent",
    "id": "awin-simple-project-99013",
@@ -1880,6 +1999,7 @@
   {
    "active": true,
    "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=108888&awinaffid=3161005&clickref={SID}",
+   "category": "Home & garden",
    "commission_rate": 0.13,
    "commission_type": "percent",
    "id": "awin-welax-108888",
@@ -1893,6 +2013,7 @@
   },
   {
    "approved_at": "2026-11-22",
+   "category": "Home & garden",
    "commission": "10%",
    "commission_rate": 0.1,
    "id": "cj-twopages-7835575",
@@ -1908,6 +2029,7 @@
   },
   {
    "approved_at": "2026-11-22",
+   "category": "Home & garden",
    "commission": "9%",
    "commission_rate": 0.09,
    "id": "cj-x-sense-7286313",
@@ -1933,6 +2055,7 @@
   {
    "active": true,
    "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=74424&awinaffid=3161005&clickref={SID}",
+   "category": "Beauty",
    "commission_rate": 0.02,
    "commission_type": "percent",
    "id": "awin-tymo-beauty-74424",
@@ -1957,6 +2080,7 @@
   {
    "active": true,
    "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=124822&awinaffid=3161005&clickref={SID}",
+   "category": "Adult",
    "commission_rate": 0.2,
    "commission_type": "percent",
    "id": "awin-voopoo-124822",
@@ -1971,6 +2095,7 @@
   {
    "active": true,
    "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=131199&awinaffid=3161005&clickref={SID}",
+   "category": "Jewelry",
    "commission_rate": 0.1,
    "commission_type": "percent",
    "id": "awin-dvik-jewels-131199",
@@ -1985,6 +2110,7 @@
   {
    "active": true,
    "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=92751&awinaffid=3161005&clickref={SID}",
+   "category": "Home & garden",
    "commission_rate": 0.08,
    "commission_type": "percent",
    "id": "awin-ciarra-92751",
@@ -1999,6 +2125,7 @@
   {
    "active": true,
    "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=105805&awinaffid=3161005&clickref={SID}",
+   "category": "Tech",
    "commission_rate": 0.06,
    "commission_type": "percent",
    "id": "awin-einstar-105805",
@@ -2056,6 +2183,7 @@
   {
    "active": true,
    "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=92427&awinaffid=3161005&clickref={SID}",
+   "category": "Tech",
    "commission_rate": 0.15,
    "commission_type": "percent",
    "id": "awin-eksa-92427",
@@ -2069,6 +2197,7 @@
   },
   {
    "approved_at": "2026-11-22",
+   "category": "Tech",
    "commission_rate": 0.08,
    "commission_type": "percent",
    "id": "cj-whokeys-7958531",
@@ -2112,6 +2241,7 @@
   {
    "active": true,
    "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=98411&awinaffid=3161005&clickref={SID}",
+   "category": "Beauty",
    "commission_rate": 0.0307,
    "commission_type": "percent",
    "id": "awin-asteria-hair-98411",
@@ -2126,6 +2256,7 @@
   {
    "active": true,
    "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=90241&awinaffid=3161005&clickref={SID}",
+   "category": "Tech",
    "commission_rate": 0.3,
    "commission_type": "percent",
    "id": "awin-flexclip-90241",
@@ -2141,6 +2272,7 @@
    "active": true,
    "affiliate_link_template": "https://www.anrdoezrs.net/click-101932824-15273661?sid={SID}",
    "approved_at": "2026-11-23",
+   "category": "Health",
    "commission_rate": 0.1,
    "commission_type": "percent",
    "id": "cj-wellbefore-6106470",
@@ -2157,6 +2289,7 @@
   {
    "active": true,
    "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=47153&awinaffid=3161005&clickref={SID}",
+   "category": "Home & garden",
    "commission_rate": 0.08,
    "commission_type": "percent",
    "id": "awin-sunjoy-47153",
@@ -2171,6 +2304,7 @@
   {
    "active": true,
    "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=121712&awinaffid=3161005&clickref={SID}",
+   "category": "Home & garden",
    "commission_rate": 0.04,
    "commission_type": "percent",
    "id": "awin-armadillo-tough-121712",
@@ -2185,6 +2319,7 @@
   {
    "active": true,
    "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=118283&awinaffid=3161005&clickref={SID}",
+   "category": "Beauty",
    "commission_rate": 0.25,
    "commission_type": "percent",
    "id": "awin-chance-of-sunny-118283",
@@ -2199,6 +2334,7 @@
   {
    "active": true,
    "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=117877&awinaffid=3161005&clickref={SID}",
+   "category": "Jewelry",
    "commission_rate": 0.1,
    "commission_type": "percent",
    "id": "awin-jorja-117877",
@@ -2213,6 +2349,7 @@
   {
    "active": true,
    "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=91891&awinaffid=3161005&clickref={SID}",
+   "category": "Tech",
    "commission_rate": 0.08,
    "commission_type": "percent",
    "id": "awin-lectron-91891",
@@ -2228,6 +2365,7 @@
    "active": true,
    "affiliate_link_template": "https://www.anrdoezrs.net/click-101932824-10754888?sid={SID}",
    "approved_at": "2026-11-23",
+   "category": "Services",
    "commission_rate": 15,
    "commission_type": "flat",
    "id": "cj-24-7pressrelease-2898768",
@@ -2247,6 +2385,7 @@
    "active": true,
    "affiliate_link_template": "https://www.anrdoezrs.net/click-101932824-15402815?sid={SID}",
    "approved_at": "2026-11-23",
+   "category": "Tech",
    "commission_rate": 0.5,
    "commission_type": "percent",
    "id": "cj-abelssoft-int-6260179",
@@ -2264,6 +2403,7 @@
    "active": true,
    "affiliate_link_template": "https://www.anrdoezrs.net/click-101932824-17347770?sid={SID}",
    "approved_at": "2026-11-23",
+   "category": "Services",
    "commission_rate": 0.5,
    "commission_type": "percent",
    "id": "cj-winpig-7950303",
@@ -2281,6 +2421,7 @@
    "active": true,
    "affiliate_link_template": "https://www.tkqlhce.com/click-101932824-15745181?sid={SID}",
    "approved_at": "2026-11-23",
+   "category": "Fashion",
    "commission_rate": 0.05,
    "commission_type": "percent",
    "id": "cj-snaps-clothing-inc-6865557",
@@ -2297,6 +2438,7 @@
    "active": true,
    "affiliate_link_template": "https://www.dpbolvw.net/click-101932824-17205347?sid={SID}",
    "approved_at": "2026-11-23",
+   "category": "Services",
    "commission_rate": 0.5,
    "commission_type": "percent",
    "id": "cj-magzter-5305397",
@@ -2326,6 +2468,7 @@
    "active": true,
    "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=87327&awinaffid=3161005&clickref={SID}",
    "approved_at": "2026-11-23",
+   "category": "Tech",
    "commission_rate": 0.1,
    "commission_type": "percent",
    "id": "awin-tesmart-87327",
@@ -2342,6 +2485,7 @@
    "active": true,
    "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=55811&awinaffid=3161005&clickref={SID}",
    "approved_at": "2026-11-23",
+   "category": "Health",
    "commission_rate": 0.05,
    "commission_type": "percent",
    "id": "awin-shock-vitalize-55811",
@@ -2358,6 +2502,7 @@
    "active": true,
    "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=65850&awinaffid=3161005&clickref={SID}",
    "approved_at": "2026-11-23",
+   "category": "Home & garden",
    "commission_rate": 0.1,
    "commission_type": "percent",
    "id": "awin-big-wall-decor-65850",
@@ -2374,6 +2519,7 @@
    "active": true,
    "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=71005&awinaffid=3161005&clickref={SID}",
    "approved_at": "2026-11-23",
+   "category": "Health",
    "commission_rate": 0.15,
    "commission_type": "percent",
    "id": "awin-dr-tom-cowan-71005",
@@ -2390,6 +2536,7 @@
    "active": true,
    "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=114846&awinaffid=3161005&clickref={SID}",
    "approved_at": "2026-11-23",
+   "category": "Fashion",
    "commission_rate": 0.055,
    "commission_type": "percent",
    "id": "awin-propper-114846",
@@ -2406,6 +2553,7 @@
    "active": true,
    "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=22999&awinaffid=3161005&clickref={SID}",
    "approved_at": "2026-11-23",
+   "category": "Beauty",
    "commission_rate": 0.1,
    "commission_type": "percent",
    "id": "awin-billion-dollar-beauty-22999",
@@ -2422,6 +2570,7 @@
    "active": true,
    "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=126211&awinaffid=3161005&clickref={SID}",
    "approved_at": "2026-11-24",
+   "category": "Health",
    "commission_rate": 0.1,
    "commission_type": "percent",
    "id": "awin-irwin-naturals-126211",
@@ -2438,6 +2587,7 @@
    "active": true,
    "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=82685&awinaffid=3161005&clickref={SID}",
    "approved_at": "2026-11-24",
+   "category": "Jewelry",
    "commission_rate": 0.2,
    "commission_type": "percent",
    "id": "awin-wjd-exclusives-82685",
@@ -2454,6 +2604,7 @@
    "active": true,
    "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=126207&awinaffid=3161005&clickref={SID}",
    "approved_at": "2026-11-24",
+   "category": "Health",
    "commission_rate": 0.1,
    "commission_type": "percent",
    "id": "awin-musclepharm-126207",
@@ -2470,6 +2621,7 @@
    "active": true,
    "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=109278&awinaffid=3161005&clickref={SID}",
    "approved_at": "2026-11-24",
+   "category": "Sports",
    "commission_rate": 0.08,
    "commission_type": "percent",
    "id": "awin-lacros-ebike-109278",
@@ -2486,6 +2638,7 @@
    "active": true,
    "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=124734&awinaffid=3161005&clickref={SID}",
    "approved_at": "2026-11-24",
+   "category": "Health",
    "commission_rate": 0.3,
    "commission_type": "percent",
    "id": "awin-arq8-124734",
@@ -2502,6 +2655,7 @@
    "active": true,
    "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=127043&awinaffid=3161005&clickref={SID}",
    "approved_at": "2026-11-23",
+   "category": "Tech",
    "commission_rate": 20,
    "commission_type": "flat",
    "id": "awin-wisephone-127043",
@@ -2518,6 +2672,7 @@
    "active": true,
    "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=124092&awinaffid=3161005&clickref={SID}",
    "approved_at": "2026-11-24",
+   "category": "General",
    "commission_rate": 0.05,
    "commission_type": "percent",
    "id": "awin-golden-maple-124092",
@@ -2534,6 +2689,7 @@
    "active": true,
    "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=98153&awinaffid=3161005&clickref={SID}",
    "approved_at": "2026-11-23",
+   "category": "Fashion",
    "commission_rate": 0.12,
    "commission_type": "percent",
    "id": "awin-orolay-98153",
@@ -2550,6 +2706,7 @@
    "active": true,
    "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=131575&awinaffid=3161005&clickref={SID}",
    "approved_at": "2026-11-24",
+   "category": "Jewelry",
    "commission_rate": 0.04,
    "commission_type": "percent",
    "id": "awin-bello-diamonds-131575",
@@ -2566,6 +2723,7 @@
    "active": true,
    "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=129885&awinaffid=3161005&clickref={SID}",
    "approved_at": "2026-11-22",
+   "category": "Food & drink",
    "commission_rate": 0.12,
    "commission_type": "percent",
    "id": "awin-salt-and-bone-129885",
@@ -2582,6 +2740,7 @@
    "active": true,
    "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=83139&awinaffid=3161005&clickref={SID}",
    "approved_at": "2026-11-23",
+   "category": "Home & garden",
    "commission_rate": 0.08,
    "commission_type": "percent",
    "id": "awin-buture-83139",
@@ -2599,6 +2758,7 @@
    "active": true,
    "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=130383&awinaffid=3161005&clickref={SID}",
    "approved_at": "2026-11-23",
+   "category": "Home & garden",
    "commission_rate": 0.08,
    "commission_type": "percent",
    "id": "awin-regal-estate-130383",
@@ -2615,6 +2775,7 @@
    "active": true,
    "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=130903&awinaffid=3161005&clickref={SID}",
    "approved_at": "2026-11-23",
+   "category": "Home & garden",
    "commission_rate": 0.15,
    "commission_type": "percent",
    "id": "awin-jjnsolar-130903",
@@ -2631,6 +2792,7 @@
    "active": true,
    "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=108374&awinaffid=3161005&clickref={SID}",
    "approved_at": "2026-11-23",
+   "category": "Sports",
    "commission_rate": 0.0417,
    "commission_type": "percent",
    "id": "awin-topoak-overland-108374",
@@ -2647,6 +2809,7 @@
    "active": true,
    "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=110478&awinaffid=3161005&clickref={SID}",
    "approved_at": "2026-11-23",
+   "category": "Jewelry",
    "commission_rate": 0.1,
    "commission_type": "percent",
    "id": "awin-epi-jewelry-110478",
@@ -2663,6 +2826,7 @@
    "active": true,
    "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=101109&awinaffid=3161005&clickref={SID}",
    "approved_at": "2026-11-23",
+   "category": "Jewelry",
    "commission_rate": 0.09,
    "commission_type": "percent",
    "id": "awin-lane-woods-101109",
@@ -2679,6 +2843,7 @@
    "active": true,
    "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=106313&awinaffid=3161005&clickref={SID}",
    "approved_at": "2026-11-23",
+   "category": "Sports",
    "commission_rate": 0.08,
    "commission_type": "percent",
    "id": "awin-deerrun-uk-106313",
@@ -2696,6 +2861,7 @@
    "active": true,
    "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=131085&awinaffid=3161005&clickref={SID}",
    "approved_at": "2026-11-23",
+   "category": "Pets",
    "commission_rate": 0.08,
    "commission_type": "percent",
    "id": "awin-just-try-131085",
@@ -2712,6 +2878,7 @@
    "active": true,
    "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=77156&awinaffid=3161005&clickref={SID}",
    "approved_at": "2026-11-23",
+   "category": "General",
    "commission_rate": 0.03,
    "commission_type": "percent",
    "id": "awin-gshopper-77156",
@@ -2751,6 +2918,7 @@
    "active": true,
    "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=48247&awinaffid=3161005&clickref={SID}",
    "approved_at": "2026-11-23",
+   "category": "Tech",
    "commission_rate": 0.1,
    "commission_type": "percent",
    "id": "awin-3dmakerpro-48247",
@@ -2767,6 +2935,7 @@
    "active": true,
    "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=123618&awinaffid=3161005&clickref={SID}",
    "approved_at": "2026-11-23",
+   "category": "Home & garden",
    "commission_rate": 0.12,
    "commission_type": "percent",
    "id": "awin-cozeware-123618",
@@ -2783,6 +2952,7 @@
    "active": true,
    "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=124972&awinaffid=3161005&clickref={SID}",
    "approved_at": "2026-11-23",
+   "category": "Home & garden",
    "commission_rate": 0.15,
    "commission_type": "percent",
    "id": "awin-hoshanho-124972",
@@ -2799,6 +2969,7 @@
    "active": true,
    "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=96109&awinaffid=3161005&clickref={SID}",
    "approved_at": "2026-11-23",
+   "category": "Health",
    "commission_rate": 10,
    "commission_type": "flat",
    "id": "awin-atlrx-96109",
@@ -2815,6 +2986,7 @@
    "active": true,
    "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=113722&awinaffid=3161005&clickref={SID}",
    "approved_at": "2026-11-24",
+   "category": "Beauty",
    "commission_rate": 10,
    "commission_type": "percent",
    "id": "awin-enable-accessible-haircare-113722",
@@ -2831,6 +3003,7 @@
    "active": true,
    "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=114104&awinaffid=3161005&clickref={SID}",
    "approved_at": "2026-11-24",
+   "category": "General",
    "commission_rate": 13.8,
    "commission_type": "percent",
    "id": "awin-lunzo-at-114104",
@@ -2847,6 +3020,7 @@
    "active": true,
    "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=114176&awinaffid=3161005&clickref={SID}",
    "approved_at": "2026-11-24",
+   "category": "Fashion",
    "commission_rate": 15,
    "commission_type": "percent",
    "id": "awin-verafied-114176",
@@ -2863,6 +3037,7 @@
    "active": true,
    "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=114442&awinaffid=3161005&clickref={SID}",
    "approved_at": "2026-11-24",
+   "category": "Kids & baby",
    "commission_rate": 10,
    "commission_type": "percent",
    "id": "awin-mimmti-114442",
@@ -2879,6 +3054,7 @@
    "active": true,
    "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=114444&awinaffid=3161005&clickref={SID}",
    "approved_at": "2026-11-24",
+   "category": "Tech",
    "commission_rate": 10,
    "commission_type": "percent",
    "id": "awin-earkings-nl-114444",
@@ -2918,6 +3094,7 @@
    "active": true,
    "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=114458&awinaffid=3161005&clickref={SID}",
    "approved_at": "2026-11-24",
+   "category": "Health",
    "commission_rate": 40,
    "commission_type": "percent",
    "id": "awin-the-orfy-114458",
@@ -2934,6 +3111,7 @@
    "active": true,
    "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=114504&awinaffid=3161005&clickref={SID}",
    "approved_at": "2026-11-24",
+   "category": "Jewelry",
    "commission_rate": 5,
    "commission_type": "percent",
    "id": "awin-sophelia-114504",
@@ -2950,6 +3128,7 @@
    "active": true,
    "affiliate_link_template": "https://www.anrdoezrs.net/click-101932824-11830319?sid={SID}",
    "approved_at": "2026-11-24",
+   "category": "Pets",
    "commission_rate": 0.1,
    "commission_type": "percent",
    "id": "cj-best-vet-care-4247934",
@@ -3058,6 +3237,7 @@
    "active": true,
    "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=114540&awinaffid=3161005&clickref={SID}",
    "approved_at": "2026-11-24",
+   "category": "Home & garden",
    "commission_rate": 2,
    "commission_type": "percent",
    "id": "awin-moderne-raamdecoratie-groep-114540",
@@ -3074,6 +3254,7 @@
    "active": true,
    "affiliate_link_template": "https://www.jdoqocy.com/click-101932824-17355561?sid={SID}",
    "approved_at": "2026-11-24",
+   "category": "Health",
    "commission_rate": 0.06,
    "commission_type": "percent",
    "id": "cj-arsynl-rx-8042071",
@@ -3091,6 +3272,7 @@
    "active": true,
    "affiliate_link_template": "https://www.dpbolvw.net/click-101932824-17240111?sid={SID}",
    "approved_at": "2026-11-24",
+   "category": "Beauty",
    "commission_rate": 0.1,
    "commission_type": "percent",
    "id": "cj-abc-wigs-7704026",
@@ -3109,6 +3291,7 @@
    "active": true,
    "affiliate_link_template": "https://www.anrdoezrs.net/click-101932824-17037905?sid={SID}",
    "approved_at": "2026-11-24",
+   "category": "Travel",
    "commission_rate": 25,
    "commission_type": "flat",
    "id": "cj-arangrant-7226122",
@@ -3134,6 +3317,7 @@
    "active": true,
    "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=114868&awinaffid=3161005&clickref={SID}",
    "approved_at": "2026-11-24",
+   "category": "General",
    "commission_rate": 10,
    "commission_type": "percent",
    "id": "awin-marco-cerullo-114868",
@@ -3179,6 +3363,7 @@
    "active": true,
    "affiliate_link_template": "https://www.jdoqocy.com/click-101932824-15734653?sid={SID}",
    "approved_at": "2026-11-24",
+   "category": "Pets",
    "commission_rate": 0.1,
    "commission_type": "percent",
    "id": "cj-budget-pet-care-4250177",
@@ -3196,6 +3381,7 @@
    "active": true,
    "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=115116&awinaffid=3161005&clickref={SID}",
    "approved_at": "2026-11-24",
+   "category": "Services",
    "commission_rate": 25,
    "commission_type": "percent",
    "id": "awin-fri-som-en-fagel-115116",
@@ -3212,6 +3398,7 @@
    "active": true,
    "affiliate_link_template": "https://www.kqzyfj.com/click-101932824-15734672?sid={SID}",
    "approved_at": "2026-11-24",
+   "category": "Pets",
    "commission_rate": 0.1,
    "commission_type": "percent",
    "id": "cj-canada-pet-care-4247933",
@@ -3228,6 +3415,7 @@
    "active": true,
    "affiliate_link_template": "https://www.tkqlhce.com/click-101932824-11075259?sid={SID}",
    "approved_at": "2026-11-24",
+   "category": "Adult",
    "commission_rate": 0.25,
    "commission_type": "percent",
    "id": "cj-edenfantasys-1880835",
@@ -3244,6 +3432,7 @@
    "active": true,
    "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=115393&awinaffid=3161005&clickref={SID}",
    "approved_at": "2026-11-24",
+   "category": "Fashion",
    "commission_rate": 15,
    "commission_type": "percent",
    "id": "awin-anita-zaha-115393",
@@ -3260,6 +3449,7 @@
    "active": true,
    "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=115577&awinaffid=3161005&clickref={SID}",
    "approved_at": "2026-11-24",
+   "category": "Home & garden",
    "commission_rate": 15,
    "commission_type": "percent",
    "id": "awin-balam-115577",
