@@ -161,3 +161,6 @@ No environment variables or API keys are required. The server speaks MCP over st
 ## License
 
 MIT
+
+[![M8ven Score](https://m8ven.ai/badge/mcp/jamesdamonstone-dark-money-mcp-a9hx7k?v=052c511024cc06186c7dec45687d6dcb)](https://m8ven.ai/mcp/jamesdamonstone-dark-money-mcp-a9hx7k?s=readme)
+
