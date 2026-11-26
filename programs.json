@@ -4496,6 +4496,29 @@
    ],
    "store_url": "https://getglobalwifi.com/",
    "you_get": "10.5%"
+  },
+  {
+   "advertiser_id": "5661292",
+   "cat": "Tech",
+   "commission": "6%",
+   "commission_amount": 6.0,
+   "commission_type": "percent",
+   "cookie_days": 60,
+   "currency": "USD",
+   "link_template": "https://www.dpbolvw.net/click-101932824-15735830?sid={SID}",
+   "name": "SwitchBot",
+   "network": "cj",
+   "regions": [
+    "US",
+    "GB",
+    "CA",
+    "DE",
+    "FR",
+    "JP",
+    "AU"
+   ],
+   "store_url": "https://www.switch-bot.com",
+   "you_get": "4.2%"
   }
  ],
  "registry_version": 113,
