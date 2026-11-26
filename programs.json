@@ -4519,6 +4519,23 @@
    ],
    "store_url": "https://www.switch-bot.com",
    "you_get": "4.2%"
+  },
+  {
+   "advertiser_id": "131403",
+   "cat": "Travel",
+   "commission": "$1",
+   "commission_amount": 1.0,
+   "commission_type": "flat",
+   "cookie_days": 180,
+   "currency": "USD",
+   "link_template": "https://www.awin1.com/cread.php?awinmid=131403&awinaffid=3161005&ued={SID}",
+   "name": "Plan B Rentals",
+   "network": "awin",
+   "regions": [
+    "US"
+   ],
+   "store_url": "https://www.planbrentals.com/",
+   "you_get": "$0.70"
   }
  ],
  "registry_version": 113,
