@@ -4349,9 +4349,29 @@
    ],
    "status": "approved",
    "store_url": "https://www.meedodesigns.com/"
+  },
+  {
+   "active": true,
+   "affiliate_link_template": "https://www.kqzyfj.com/click-101932824-11260306?sid={SID}",
+   "approved_at": "2026-11-26",
+   "batch": "C74",
+   "category": "Jewelry",
+   "commission": "15%",
+   "commission_rate": 15,
+   "commission_type": "percent",
+   "id": "cj-silverrushstyle",
+   "link_template": "https://www.kqzyfj.com/click-101932824-11260306?sid={SID}",
+   "name": "SilverRushStyle",
+   "network": "cj",
+   "notes": "CJ advertiser 3874186 (SilverRushStyle / silverrushstyle.com \u2014 handcrafted sterling silver jewelry with natural gemstones, family-run since 2005). AUTO-APPROVED on application in batch C74, Nov 26, 2026; Program Terms list Incentivized Traffic: Allowed. 15% sale, 60-day referral, serviceable worldwide (top conversions US, CA). Member share 70% of 15% = 10.5%.",
+   "regions": [
+    "GLOBAL"
+   ],
+   "status": "approved",
+   "store_url": "http://www.silverrushstyle.com/"
   }
  ],
- "registry_version": 112,
+ "registry_version": 113,
  "service": "dark-money-link-service",
  "updated_at": "2026-11-26"
 }
