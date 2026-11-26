@@ -4369,9 +4369,29 @@
    ],
    "status": "approved",
    "store_url": "http://www.silverrushstyle.com/"
+  },
+  {
+   "advertiser_id": "129409",
+   "cat": "Sports",
+   "commission": "15% on sales",
+   "commission_model": "percent",
+   "id": "awin-ella-skye-129409",
+   "link_template": "https://www.awin1.com/cread.php?awinmid=129409&awinaffid=3161005&clickref={SID}",
+   "member_note": "15% commission; members earn 70% = 10.5%",
+   "member_rate_pct": 10.5,
+   "name": "Ella Skye",
+   "network": "awin",
+   "notes": "Folded in Nov 26, 2026 from Awin batch 231: AUTO-APPROVED on application (joined Nov 26, 2026). CM Default 15% governs. Terms Allowed list includes Cashback and Loyalty; no cashback ban; no live Exposure Level shown. Store sells Pilates grip socks (75% organic cotton) and athleisure clothing (verified Nov 26, 2026 by reading the merchant site and the Awin programme description). 30-day cookie.",
+   "rate_pct": 15.0,
+   "regions": [
+    "US"
+   ],
+   "status": "live",
+   "store_url": "https://ellaskye.co/"
   }
  ],
  "registry_version": 113,
  "service": "dark-money-link-service",
- "updated_at": "2026-11-26"
+ "updated_at": "2026-11-26",
+ "version": 1
 }
