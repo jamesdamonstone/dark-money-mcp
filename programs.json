@@ -4479,6 +4479,23 @@
    ],
    "status": "approved",
    "store_url": "https://www.zupapa.us/"
+  },
+  {
+   "advertiser_id": "131329",
+   "cat": "Tech",
+   "commission": "15%",
+   "commission_amount": 15.0,
+   "commission_type": "percent",
+   "cookie_days": 30,
+   "currency": "USD",
+   "link_template": "https://www.awin1.com/cread.php?awinmid=131329&awinaffid=3161005&ued={SID}",
+   "name": "Global WiFi",
+   "network": "awin",
+   "regions": [
+    "US"
+   ],
+   "store_url": "https://getglobalwifi.com/",
+   "you_get": "10.5%"
   }
  ],
  "registry_version": 113,
