@@ -4655,9 +4655,26 @@
    ],
    "store_url": "https://ogstreetwear.com/",
    "you_get": "7%"
+  },
+  {
+   "advertiser_id": "131822",
+   "cat": "Beauty",
+   "commission": "7%",
+   "commission_amount": 7.0,
+   "commission_type": "percent",
+   "cookie_days": 30,
+   "currency": "USD",
+   "link_template": "https://www.awin1.com/cread.php?awinmid=131822&awinaffid=3161005&ued={SID}",
+   "name": "BRND COLLECTION",
+   "network": "awin",
+   "regions": [
+    "US"
+   ],
+   "store_url": "https://brndcollection.com/",
+   "you_get": "4.9%"
   }
  ],
- "registry_version": 113,
+ "registry_version": 124,
  "service": "dark-money-link-service",
  "updated_at": "2026-11-26",
  "version": 2
