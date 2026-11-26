@@ -4536,6 +4536,23 @@
    ],
    "store_url": "https://www.planbrentals.com/",
    "you_get": "$0.70"
+  },
+  {
+   "advertiser_id": "131556",
+   "cat": "Tech",
+   "commission": "15%",
+   "commission_amount": 15.0,
+   "commission_type": "percent",
+   "cookie_days": 30,
+   "currency": "USD",
+   "link_template": "https://www.awin1.com/cread.php?awinmid=131556&awinaffid=3161005&ued={SID}",
+   "name": "Turnaa eSIM",
+   "network": "awin",
+   "regions": [
+    "US"
+   ],
+   "store_url": "https://esim.turnaa.cloud/",
+   "you_get": "10.5%"
   }
  ],
  "registry_version": 113,
