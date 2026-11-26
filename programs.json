@@ -4587,6 +4587,74 @@
    ],
    "store_url": "https://www.elahring.com/",
    "you_get": "10.5%"
+  },
+  {
+   "advertiser_id": "131714",
+   "cat": "Food & drink",
+   "commission": "3%",
+   "commission_amount": 3.0,
+   "commission_type": "percent",
+   "cookie_days": 30,
+   "currency": "USD",
+   "link_template": "https://www.awin1.com/cread.php?awinmid=131714&awinaffid=3161005&ued={SID}",
+   "name": "The Candy Source",
+   "network": "awin",
+   "regions": [
+    "US"
+   ],
+   "store_url": "https://thecandysource.com/",
+   "you_get": "2.1%"
+  },
+  {
+   "advertiser_id": "131719",
+   "cat": "Sports",
+   "commission": "10%",
+   "commission_amount": 10.0,
+   "commission_type": "percent",
+   "cookie_days": 30,
+   "currency": "USD",
+   "link_template": "https://www.awin1.com/cread.php?awinmid=131719&awinaffid=3161005&ued={SID}",
+   "name": "gojersey",
+   "network": "awin",
+   "regions": [
+    "US"
+   ],
+   "store_url": "https://www.gojersey.co/",
+   "you_get": "7%"
+  },
+  {
+   "advertiser_id": "131722",
+   "cat": "Food & drink",
+   "commission": "10%",
+   "commission_amount": 10.0,
+   "commission_type": "percent",
+   "cookie_days": 30,
+   "currency": "USD",
+   "link_template": "https://www.awin1.com/cread.php?awinmid=131722&awinaffid=3161005&ued={SID}",
+   "name": "Lore Mighty Chocolate",
+   "network": "awin",
+   "regions": [
+    "US"
+   ],
+   "store_url": "https://loremightychocolate.com/",
+   "you_get": "7%"
+  },
+  {
+   "advertiser_id": "131731",
+   "cat": "Fashion",
+   "commission": "10%",
+   "commission_amount": 10.0,
+   "commission_type": "percent",
+   "cookie_days": 30,
+   "currency": "USD",
+   "link_template": "https://www.awin1.com/cread.php?awinmid=131731&awinaffid=3161005&ued={SID}",
+   "name": "OGStreetwear",
+   "network": "awin",
+   "regions": [
+    "US"
+   ],
+   "store_url": "https://ogstreetwear.com/",
+   "you_get": "7%"
   }
  ],
  "registry_version": 113,
