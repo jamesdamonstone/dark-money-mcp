@@ -11,22 +11,22 @@
    "website_id": "101932824"
   },
   "impact": {
-   "status": "publisher application DECLINED 2026-11-19 (account 8268070) — no programs",
+   "status": "publisher application DECLINED 2026-11-19 (account 8268070) \u2014 no programs",
    "subid_param": "subId1"
   }
  },
  "notes": [
   "Only programs with an APPROVED status in a network are listed here. Pending, declined, and terms-skipped programs are tracked in ~/memory/2026-11-19.md (CJ batch log), not here.",
   "link_template values were retrieved from the CJ account on 2026-11-19 (evergreen/generic text link per approved advertiser; publisher segment 101932824 is the Dark Money website ID, distinct from CID 8132017). {SID} is replaced with the pair member ID at generation time.",
-  "Temu is NOT listed: its CJ application is in and a written-approval request for cashback traffic was emailed to temu@cj.com on 2026-11-19, but no written approval has landed — do not promote Temu until it does.",
+  "Temu is NOT listed: its CJ application is in and a written-approval request for cashback traffic was emailed to temu@cj.com on 2026-11-19, but no written approval has landed \u2014 do not promote Temu until it does.",
   "Zales is NOT listed and must never be promoted: it was applied to before its terms were checked and its terms bar incentivized traffic (expected decline, no withdraw option in CJ).",
-  "2026-11-19 evening: 3 more CJ approvals wired in (Nick's Handmade Boots, Phone.com, Dream Pairs/Bruno Marc) plus the first Awin program (Gate Operators Direct). Awin templates carry the member ID in clickref. Gate Operators Direct payment status is amber (Exposure Level 1 — advertiser over its credit limit but pays Awin by Direct Debit; average payment time 52 days) — expect slow commission payment from this one.",
+  "2026-11-19 evening: 3 more CJ approvals wired in (Nick's Handmade Boots, Phone.com, Dream Pairs/Bruno Marc) plus the first Awin program (Gate Operators Direct). Awin templates carry the member ID in clickref. Gate Operators Direct payment status is amber (Exposure Level 1 \u2014 advertiser over its credit limit but pays Awin by Direct Debit; average payment time 52 days) \u2014 expect slow commission payment from this one.",
   "2026-11-20: Ovago approved on CJ and wired in (15th live program). Awin batch 2 also ran Nov 20: 22 more programmes applied, all pending advertiser decisions - none live yet.",
   "2026-11-20: CJ batch 19 added 2 instant approvals (XPLORA UK 5%, Xplora 10%) - wired in as programs 16-17 (registry v6).",
   "2026-11-20: Awin batch 3 added ALZOO (15%, pet products) as an instant acceptance - wired in as program 18 (registry v7). Awin totals after batch 3: 63 applied, 61 pending, 2 live.",
   "2026-11-20: Awin batch 4 added 2 instant acceptances (Your Phone here $15 flat, Buena Cura US 20%) - wired in as programs 19-20 (registry v8). Awin totals after batch 4: 80 applied, 76 pending, 4 live.",
-  "2026-11-20: Location-specific model (James's call) — every program carries regions[]: the countries where a member can actually use it. The US-first listing gate is retired; regional programs are listed for their own regions, and GLOBAL programs (digital/travel by nature) serve every country. The programs command and the MCP list_programs tool accept a country filter.",
-  "2026-11-20: Site update #14 — Veronika Vilim (US, 15%), Lunzo RO (10% per Commission Manager; page advertises 13.8%, flagged) and Lunzo SK (13.8%) folded in as programs 37–39 — the first regional-shelf listings under the location-specific model."
+  "2026-11-20: Location-specific model (James's call) \u2014 every program carries regions[]: the countries where a member can actually use it. The US-first listing gate is retired; regional programs are listed for their own regions, and GLOBAL programs (digital/travel by nature) serve every country. The programs command and the MCP list_programs tool accept a country filter.",
+  "2026-11-20: Site update #14 \u2014 Veronika Vilim (US, 15%), Lunzo RO (10% per Commission Manager; page advertises 13.8%, flagged) and Lunzo SK (13.8%) folded in as programs 37\u201339 \u2014 the first regional-shelf listings under the location-specific model."
  ],
  "programs": [
   {
@@ -354,7 +354,7 @@
    "link_template": "https://www.awin1.com/cread.php?awinmid=125186&awinaffid=3161005&clickref={SID}",
    "name": "Shed Supplements",
    "network": "awin",
-   "note": "merchant ID 125186; approved 2026-11-20 (Awin batch 2 application); appended Intelsio MSA conflict resolved by George Yuhba's written assurance 2026-11-20 (lead-gen legacy contract; retail aspects may not apply; 'We won't let you into any program that wouldn't allow you') — James's call to treat as confirmation, evidence saved in cashback goal hidden_files/evidence/; avg payment 48 days",
+   "note": "merchant ID 125186; approved 2026-11-20 (Awin batch 2 application); appended Intelsio MSA conflict resolved by George Yuhba's written assurance 2026-11-20 (lead-gen legacy contract; retail aspects may not apply; 'We won't let you into any program that wouldn't allow you') \u2014 James's call to treat as confirmation, evidence saved in cashback goal hidden_files/evidence/; avg payment 48 days",
    "regions": [
     "US"
    ],
@@ -386,7 +386,7 @@
    "link_template": "https://www.awin1.com/cread.php?awinmid=121696&awinaffid=3161005&clickref={SID}",
    "name": "Coziwow",
    "network": "awin",
-   "note": "merchant ID 121696; instant acceptance in Awin batch 5 (joined 2026-11-20); profile stated no rate ('competitive commissions') — Commission Manager confirms Default 10.00%, no tiers (checked 2026-11-20); Loyalty/Virtual incentives in preferred types, no ban in terms",
+   "note": "merchant ID 121696; instant acceptance in Awin batch 5 (joined 2026-11-20); profile stated no rate ('competitive commissions') \u2014 Commission Manager confirms Default 10.00%, no tiers (checked 2026-11-20); Loyalty/Virtual incentives in preferred types, no ban in terms",
    "regions": [
     "US"
    ],
@@ -466,7 +466,7 @@
    "link_template": "https://www.awin1.com/cread.php?awinmid=121970&awinaffid=3161005&clickref={SID}",
    "name": "Curex",
    "network": "awin",
-   "note": "merchant ID 121970; Intelsio invitation accepted 2026-11-20; CM Default USD 45.00 (profile showed $20 — CM governs)",
+   "note": "merchant ID 121970; Intelsio invitation accepted 2026-11-20; CM Default USD 45.00 (profile showed $20 \u2014 CM governs)",
    "regions": [
     "US"
    ],
@@ -626,7 +626,7 @@
    "link_template": "https://www.awin1.com/cread.php?awinmid=40456&awinaffid=3161005&clickref={SID}",
    "name": "Lunzo RO",
    "network": "awin",
-   "note": "Joined via invitation Nov 20 (advertiser 40456). Rate 10% per Commission Manager; the program page description advertises 13.8% — CM figure governs, discrepancy flagged. Member earns 7%. Romania only.",
+   "note": "Joined via invitation Nov 20 (advertiser 40456). Rate 10% per Commission Manager; the program page description advertises 13.8% \u2014 CM figure governs, discrepancy flagged. Member earns 7%. Romania only.",
    "regions": [
     "RO"
    ],
@@ -690,7 +690,7 @@
    "link_template": "https://www.awin1.com/cread.php?awinmid=129075&awinaffid=3161005&clickref={SID}",
    "name": "Kurtens",
    "network": "awin",
-   "note": "Auto-accepted in Awin batch 13 (advertiser 129075). Curtains/blinds. Terms price cashback at 5-15%; Commission Manager shows Dark Money on the Default group at 5% (the 10% PROGRAMME10 group is content/social/video) — 5% governs for cashback. Exposure Level 1, link Online. Member earns 3.5%.",
+   "note": "Auto-accepted in Awin batch 13 (advertiser 129075). Curtains/blinds. Terms price cashback at 5-15%; Commission Manager shows Dark Money on the Default group at 5% (the 10% PROGRAMME10 group is content/social/video) \u2014 5% governs for cashback. Exposure Level 1, link Online. Member earns 3.5%.",
    "regions": [
     "FR",
     "DE",
@@ -773,7 +773,7 @@
    "link_template": "https://www.awin1.com/cread.php?awinmid=78056&awinaffid=3161005&clickref={SID}",
    "name": "EAST x EAST",
    "network": "awin",
-   "note": "Auto-accepted in Awin batch 17 (advertiser 78056). Rate 16% confirmed in Commission Manager (Default) — the advertiser welcome email said 20%; Commission Manager governs. Exposure Level 1, link Online, 36-day average payment. Member earns 11.2%.",
+   "note": "Auto-accepted in Awin batch 17 (advertiser 78056). Rate 16% confirmed in Commission Manager (Default) \u2014 the advertiser welcome email said 20%; Commission Manager governs. Exposure Level 1, link Online, 36-day average payment. Member earns 11.2%.",
    "regions": [
     "US"
    ],
@@ -821,7 +821,7 @@
    "link_template": "https://www.awin1.com/cread.php?awinmid=104549&awinaffid=3161005&clickref={SID}",
    "name": "Alorair",
    "network": "awin",
-   "note": "Program name AlorairCrawlspace (advertiser 104549) — professional dehumidifiers / air scrubbers, US only. Joined before the fold-in discipline existed; verified Nov 20 22:42: Commission Manager Default 13% (Terms PDF's '13-15%' has no 15% group in CM; CM governs), link Online, payment green/accelerated, 21-day avg payment, 90-day cookie, no Exposure Level shown on profile. Terms explicitly allow Cashback + Loyalty, no incentivized-traffic ban. Member earns 9.1%.",
+   "note": "Program name AlorairCrawlspace (advertiser 104549) \u2014 professional dehumidifiers / air scrubbers, US only. Joined before the fold-in discipline existed; verified Nov 20 22:42: Commission Manager Default 13% (Terms PDF's '13-15%' has no 15% group in CM; CM governs), link Online, payment green/accelerated, 21-day avg payment, 90-day cookie, no Exposure Level shown on profile. Terms explicitly allow Cashback + Loyalty, no incentivized-traffic ban. Member earns 9.1%.",
    "regions": [
     "US"
    ],
@@ -901,7 +901,7 @@
    "link_template": "https://www.awin1.com/cread.php?awinmid=126513&awinaffid=3161005&clickref={SID}",
    "name": "Argendon",
    "network": "awin",
-   "note": "Approved Nov 21 (advertiser 126513). Commercial crawlspace/basement dehumidifiers, ~$600 AOV. Commission Manager single Default 6%. Exposure Level 1, link Online, 15-day avg payment, 30-day cookie, US. Member earns 4.2%. Batch 24 terms check: Terms' Allowed types omit Cashback, but the profile's WHO WE WANT explicitly lists Cashback sites and there is no ban or pre-approval clause — listed on the affirmative welcome; conflict recorded.",
+   "note": "Approved Nov 21 (advertiser 126513). Commercial crawlspace/basement dehumidifiers, ~$600 AOV. Commission Manager single Default 6%. Exposure Level 1, link Online, 15-day avg payment, 30-day cookie, US. Member earns 4.2%. Batch 24 terms check: Terms' Allowed types omit Cashback, but the profile's WHO WE WANT explicitly lists Cashback sites and there is no ban or pre-approval clause \u2014 listed on the affirmative welcome; conflict recorded.",
    "regions": [
     "US"
    ],
@@ -949,7 +949,7 @@
    "link_template": "https://www.awin1.com/cread.php?awinmid=116359&awinaffid=3161005&clickref={SID}",
    "name": "Santean Bracelets",
    "network": "awin",
-   "note": "Auto-accepted in Awin batch 28 (advertiser 116359). Luxury crystal bracelets — handcrafted, ethically sourced crystals (amethyst, rose quartz, citrine). Single 15% Default rate in Commission Manager (profile notes mention a Black Friday 25% for Nov 20-30, but the CM timeline shows a flat 15% — CM governs). Exposure Level 1, link Online. Terms allow cashback (batch 28 check). Member earns 10.5%.",
+   "note": "Auto-accepted in Awin batch 28 (advertiser 116359). Luxury crystal bracelets \u2014 handcrafted, ethically sourced crystals (amethyst, rose quartz, citrine). Single 15% Default rate in Commission Manager (profile notes mention a Black Friday 25% for Nov 20-30, but the CM timeline shows a flat 15% \u2014 CM governs). Exposure Level 1, link Online. Terms allow cashback (batch 28 check). Member earns 10.5%.",
    "regions": [
     "US"
    ],
@@ -965,7 +965,7 @@
    "link_template": "https://www.awin1.com/cread.php?awinmid=131333&awinaffid=3161005&clickref={SID}",
    "name": "Pete's Pasta",
    "network": "awin",
-   "note": "Auto-accepted in Awin batch 29 (advertiser 131333). High-protein, low-carb pasta made in Italy (spaghetti, linguine, fettuccine, penne, rotini, gnocchi) — keto / macro-tracking niche. Terms rate cashback explicitly: 'Discount / coupon and cashback sites — New customer 10%, Returning customer 5%'. Commission Manager groups are Discount/Coupon 10%, Editorial/Publishers 15%, Default 20% — no cashback group exists and Dark Money's group assignment isn't visible in the UI, so listed at 10% as the claim-accurate cashback rate. Exposure Level 1, link Online. Terms allow cashback (batch 29 check). Member earns 7%.",
+   "note": "Auto-accepted in Awin batch 29 (advertiser 131333). High-protein, low-carb pasta made in Italy (spaghetti, linguine, fettuccine, penne, rotini, gnocchi) \u2014 keto / macro-tracking niche. Terms rate cashback explicitly: 'Discount / coupon and cashback sites \u2014 New customer 10%, Returning customer 5%'. Commission Manager groups are Discount/Coupon 10%, Editorial/Publishers 15%, Default 20% \u2014 no cashback group exists and Dark Money's group assignment isn't visible in the UI, so listed at 10% as the claim-accurate cashback rate. Exposure Level 1, link Online. Terms allow cashback (batch 29 check). Member earns 7%.",
    "regions": [
     "US"
    ],
@@ -1061,7 +1061,7 @@
    "link_template": "https://www.awin1.com/cread.php?awinmid=72697&awinaffid=3161005&clickref={SID}",
    "name": "Daybreak",
    "network": "awin",
-   "note": "merchant ID 72697; Intelsio invitation accepted 2026-11-21 on George Yuhba's written assurance that Daybreak allows cashback (its addendum on paper bans financial incentives; George's caveat: they can expire Dark Money at any time — James ruled Nov 21 to accept on George's word). At-home sleep apnea testing and treatment (thedaybreak.com). CM Default USD 50.00 flat; Link Online; Payment Status green (avg payment 72 days). Member share $35 per sale.",
+   "note": "merchant ID 72697; Intelsio invitation accepted 2026-11-21 on George Yuhba's written assurance that Daybreak allows cashback (its addendum on paper bans financial incentives; George's caveat: they can expire Dark Money at any time \u2014 James ruled Nov 21 to accept on George's word). At-home sleep apnea testing and treatment (thedaybreak.com). CM Default USD 50.00 flat; Link Online; Payment Status green (avg payment 72 days). Member share $35 per sale.",
    "regions": [
     "US"
    ],
@@ -1077,7 +1077,7 @@
    "link_template": "https://www.awin1.com/cread.php?awinmid=115825&awinaffid=3161005&clickref={SID}",
    "name": "Doctor Derm (US)",
    "network": "awin",
-   "note": "merchant ID 115825; Intelsio invitation accepted 2026-11-21 on George Yuhba's written assurance that Doctor Derm allows cashback (its paper allowed-types omit Cashback; George's caveat: they can expire Dark Money at any time — James ruled Nov 21 to accept on George's word). Dermatologist-formulated prescription skincare (doctorderm.com). CM Default USD 10.00 flat; Link Online; Payment Status green (avg payment 82 days). Member share $7 per sale.",
+   "note": "merchant ID 115825; Intelsio invitation accepted 2026-11-21 on George Yuhba's written assurance that Doctor Derm allows cashback (its paper allowed-types omit Cashback; George's caveat: they can expire Dark Money at any time \u2014 James ruled Nov 21 to accept on George's word). Dermatologist-formulated prescription skincare (doctorderm.com). CM Default USD 10.00 flat; Link Online; Payment Status green (avg payment 82 days). Member share $7 per sale.",
    "regions": [
     "US"
    ],
@@ -1139,7 +1139,7 @@
    "link_template": "https://www.awin1.com/cread.php?awinmid=128659&awinaffid=3161005&clickref={SID}",
    "name": "Some Slight Clothing",
    "network": "awin",
-   "notes": "Awin 128659. Joined 2026-11-21 (batch 77, auto-accepted). Anime-inspired streetwear and gym wear — mesh shorts, jerseys, tees, hoodies. Link Online. Payment Status amber, Exposure Level 1 (over credit limit, pays via Direct Debit, avg pay 51 days) — listed per the EL1 precedent.",
+   "notes": "Awin 128659. Joined 2026-11-21 (batch 77, auto-accepted). Anime-inspired streetwear and gym wear \u2014 mesh shorts, jerseys, tees, hoodies. Link Online. Payment Status amber, Exposure Level 1 (over credit limit, pays via Direct Debit, avg pay 51 days) \u2014 listed per the EL1 precedent.",
    "regions": [
     "US"
    ],
@@ -1154,7 +1154,7 @@
    "link_template": "https://www.awin1.com/cread.php?awinmid=88629&awinaffid=3161005&clickref={SID}",
    "name": "Friendly Songs",
    "network": "awin",
-   "notes": "Awin 88629. Joined 2026-11-21 (batch 78, auto-accepted). Personalized songs and music gifts — birthday songs, lullabies, singing stuffed animals. Link Online. Payment Status GREEN (avg pay 38 days); no Exposure Level applies.",
+   "notes": "Awin 88629. Joined 2026-11-21 (batch 78, auto-accepted). Personalized songs and music gifts \u2014 birthday songs, lullabies, singing stuffed animals. Link Online. Payment Status GREEN (avg pay 38 days); no Exposure Level applies.",
    "regions": [
     "US"
    ],
@@ -1169,7 +1169,7 @@
    "link_template": "https://www.awin1.com/cread.php?awinmid=129969&awinaffid=3161005&clickref={SID}",
    "name": "ScarletDarkness (US)",
    "network": "awin",
-   "notes": "Awin 129969. Joined 2026-11-21 (batch 80, auto-accepted). Renaissance, Victorian, goth and punk women's clothing and corsets. Link Online. Payment Status amber, Exposure Level 1 (over credit limit, pays via Direct Debit, avg pay 41 days) — listed per the EL1 precedent.",
+   "notes": "Awin 129969. Joined 2026-11-21 (batch 80, auto-accepted). Renaissance, Victorian, goth and punk women's clothing and corsets. Link Online. Payment Status amber, Exposure Level 1 (over credit limit, pays via Direct Debit, avg pay 41 days) \u2014 listed per the EL1 precedent.",
    "regions": [
     "US"
    ],
@@ -1199,7 +1199,7 @@
    "link_template": "https://www.awin1.com/cread.php?awinmid=117883&awinaffid=3161005&clickref={SID}",
    "name": "Max Recovery Clothing",
    "network": "awin",
-   "notes": "Awin 117883. Joined 2026-11-21 (batch 82, auto-accepted). Therapeutic recovery pants for athletes (myofascial release / muscle recovery). Link Online. Payment Status amber, Exposure Level 1 (over credit limit, pays via Direct Debit) — listed per the EL1 precedent.",
+   "notes": "Awin 117883. Joined 2026-11-21 (batch 82, auto-accepted). Therapeutic recovery pants for athletes (myofascial release / muscle recovery). Link Online. Payment Status amber, Exposure Level 1 (over credit limit, pays via Direct Debit) \u2014 listed per the EL1 precedent.",
    "regions": [
     "US"
    ],
@@ -1214,7 +1214,7 @@
    "link_template": "https://www.awin1.com/cread.php?awinmid=117825&awinaffid=3161005&clickref={SID}",
    "name": "Kitty Kick Stix - Catnip Toys",
    "network": "awin",
-   "notes": "Awin 117825. Joined 2026-11-21 (batch 83, auto-accepted). USA-made handcrafted plush catnip kicker toys for cats. Link Online. Payment Status amber, Exposure Level 1 (avg pay ~26 days) — listed per the EL1 precedent.",
+   "notes": "Awin 117825. Joined 2026-11-21 (batch 83, auto-accepted). USA-made handcrafted plush catnip kicker toys for cats. Link Online. Payment Status amber, Exposure Level 1 (avg pay ~26 days) \u2014 listed per the EL1 precedent.",
    "regions": [
     "US"
    ],
@@ -1223,13 +1223,13 @@
   },
   {
    "category": "Tech",
-   "commission_note": "5% flat (Commission Manager Default, verified 2026-11-21; profile advertises 5-10% — CM governs)",
+   "commission_note": "5% flat (Commission Manager Default, verified 2026-11-21; profile advertises 5-10% \u2014 CM governs)",
    "commission_rate": 0.05,
    "id": "awin-reudyn-131985",
    "link_template": "https://www.awin1.com/cread.php?awinmid=131985&awinaffid=3161005&clickref={SID}",
    "name": "REUDYN",
    "network": "awin",
-   "notes": "Awin 131985. Joined 2026-11-21 (batch 83, auto-accepted). Intelligent wearable robotics — hip-assist exoskeletons (Hip X26). Link Online. Payment Status amber, Exposure Level 2.",
+   "notes": "Awin 131985. Joined 2026-11-21 (batch 83, auto-accepted). Intelligent wearable robotics \u2014 hip-assist exoskeletons (Hip X26). Link Online. Payment Status amber, Exposure Level 2.",
    "regions": [
     "US"
    ],
@@ -1238,7 +1238,7 @@
   },
   {
    "category": "Beauty",
-   "commission_note": "10% flat (Commission Manager, verified 2026-11-21; profile marketing says 15%/20% — CM governs)",
+   "commission_note": "10% flat (Commission Manager, verified 2026-11-21; profile marketing says 15%/20% \u2014 CM governs)",
    "commission_rate": 0.1,
    "id": "awin-wau-124878",
    "link_template": "https://www.awin1.com/cread.php?awinmid=124878&awinaffid=3161005&clickref={SID}",
@@ -1259,7 +1259,7 @@
    "link_template": "https://www.awin1.com/cread.php?awinmid=124250&awinaffid=3161005&clickref={SID}",
    "name": "Brookwood Med",
    "network": "awin",
-   "notes": "Awin 124250. Joined 2026-11-21 (batch 85, auto-accepted). Certified face masks (KN95, KF94, kids and sports) and PPE. Link Online. Payment Status amber, Exposure Level 1 (avg pay ~48-55 days) — listed per the EL1 precedent.",
+   "notes": "Awin 124250. Joined 2026-11-21 (batch 85, auto-accepted). Certified face masks (KN95, KF94, kids and sports) and PPE. Link Online. Payment Status amber, Exposure Level 1 (avg pay ~48-55 days) \u2014 listed per the EL1 precedent.",
    "regions": [
     "US"
    ],
@@ -1274,7 +1274,7 @@
    "link_template": "https://www.awin1.com/cread.php?awinmid=124816&awinaffid=3161005&clickref={SID}",
    "name": "Traverseon",
    "network": "awin",
-   "notes": "Awin 124816. Joined 2026-11-21 (batch 95, auto-accepted). Premium compact outdoor gear — tents, sleeping bags, camping chairs. Link Online. Payment Status amber, Exposure Level 1 (pays via Direct Debit; avg pay ~55 days) — listed per the EL1 precedent.",
+   "notes": "Awin 124816. Joined 2026-11-21 (batch 95, auto-accepted). Premium compact outdoor gear \u2014 tents, sleeping bags, camping chairs. Link Online. Payment Status amber, Exposure Level 1 (pays via Direct Debit; avg pay ~55 days) \u2014 listed per the EL1 precedent.",
    "regions": [
     "US"
    ],
@@ -1289,7 +1289,7 @@
    "link_template": "https://www.awin1.com/cread.php?awinmid=117317&awinaffid=3161005&clickref={SID}",
    "name": "NeuroScent",
    "network": "awin",
-   "notes": "Awin 117317. Joined 2026-11-21 (batch 95, auto-accepted). British wellbeing brand — botanical essential-oil blends, diffusers, wellbeing kits. Link Online. Payment Status amber, Exposure Level 1 (pays via Direct Debit; avg pay ~17 days) — listed per the EL1 precedent.",
+   "notes": "Awin 117317. Joined 2026-11-21 (batch 95, auto-accepted). British wellbeing brand \u2014 botanical essential-oil blends, diffusers, wellbeing kits. Link Online. Payment Status amber, Exposure Level 1 (pays via Direct Debit; avg pay ~17 days) \u2014 listed per the EL1 precedent.",
    "regions": [
     "AT",
     "BE",
@@ -1311,7 +1311,7 @@
   },
   {
    "category": "Gifts",
-   "commission_note": "10%-21% (Commission Manager: Default 21%, New Customer 21%, Returning Customer 10% — verified 2026-11-21)",
+   "commission_note": "10%-21% (Commission Manager: Default 21%, New Customer 21%, Returning Customer 10% \u2014 verified 2026-11-21)",
    "commission_rate": null,
    "id": "awin-secretknit-131165",
    "link_template": "https://www.awin1.com/cread.php?awinmid=131165&awinaffid=3161005&clickref={SID}",
@@ -1332,7 +1332,7 @@
    "link_template": "https://www.awin1.com/cread.php?awinmid=26560&awinaffid=3161005&clickref={SID}",
    "name": "Nature's Skin And Body Food (US)",
    "network": "awin",
-   "notes": "Awin 26560. Joined 2026-11-22 (batch 101, auto-accepted). Clean beauty — non-toxic skincare, hair care and body care. Link Online. Payment Status amber, Exposure Level 1 (pays via Direct Debit; avg pay ~53 days) — listed per the EL1 precedent.",
+   "notes": "Awin 26560. Joined 2026-11-22 (batch 101, auto-accepted). Clean beauty \u2014 non-toxic skincare, hair care and body care. Link Online. Payment Status amber, Exposure Level 1 (pays via Direct Debit; avg pay ~53 days) \u2014 listed per the EL1 precedent.",
    "regions": [
     "US"
    ],
@@ -1348,7 +1348,7 @@
    "id": "awin-abbe-glasses-91117",
    "name": "ABBE Glasses",
    "network": "awin",
-   "notes": "ABBE Glasses Co. Ltd. (Awin 91117). CM Default 10% verified (also Voucher Rate 12%, Default Lead $1 — listed at Default). abbeglasses.com — prescription glasses and eyewear. Link Online, Payment Status green (accelerated), no Exposure Level displayed. US. Member share 7%. Joined Nov 22, 2026 (batch 105).",
+   "notes": "ABBE Glasses Co. Ltd. (Awin 91117). CM Default 10% verified (also Voucher Rate 12%, Default Lead $1 \u2014 listed at Default). abbeglasses.com \u2014 prescription glasses and eyewear. Link Online, Payment Status green (accelerated), no Exposure Level displayed. US. Member share 7%. Joined Nov 22, 2026 (batch 105).",
    "regions": [
     "US"
    ],
@@ -1363,7 +1363,7 @@
    "id": "awin-neje-92915",
    "name": "NEJE",
    "network": "awin",
-   "notes": "Shenzhen Zhixinjie Technology Co., Ltd. (Awin 92915), listed under its store brand NEJE. CM Default 8% flat verified (no other groups). neje.shop — diode laser engravers/machines, laser modules and accessories. Link Online, Payment Status green (avg pay ~70 days), no Exposure Level displayed. US. Member share 5.6%. Joined Nov 22, 2026 (batch 128).",
+   "notes": "Shenzhen Zhixinjie Technology Co., Ltd. (Awin 92915), listed under its store brand NEJE. CM Default 8% flat verified (no other groups). neje.shop \u2014 diode laser engravers/machines, laser modules and accessories. Link Online, Payment Status green (avg pay ~70 days), no Exposure Level displayed. US. Member share 5.6%. Joined Nov 22, 2026 (batch 128).",
    "regions": [
     "US"
    ],
@@ -1378,7 +1378,7 @@
    "id": "awin-loveisarose-96879",
    "name": "LoveIsARose.com",
    "network": "awin",
-   "notes": "LoveIsARose.com (Awin 96879). CM Default 10% flat verified (no other groups). loveisarose.com — gold, platinum and silver roses and anniversary gifts, incl. Personalized Family Trees. Link Online, Payment Status green (avg pay ~20 days), no Exposure Level displayed. US. Member share 7%. Applied batch 89 (pending), approved and joined Nov 22, 2026.",
+   "notes": "LoveIsARose.com (Awin 96879). CM Default 10% flat verified (no other groups). loveisarose.com \u2014 gold, platinum and silver roses and anniversary gifts, incl. Personalized Family Trees. Link Online, Payment Status green (avg pay ~20 days), no Exposure Level displayed. US. Member share 7%. Applied batch 89 (pending), approved and joined Nov 22, 2026.",
    "regions": [
     "US"
    ],
@@ -1393,7 +1393,7 @@
    "id": "awin-mimi-panda-84797",
    "name": "Mimi Panda",
    "network": "awin",
-   "notes": "Mimi Panda (Awin 84797). CM Default 35% verified (groups range 5%-35%: Commercial Plan 25%; coupon use reduces commission by the coupon %). mimi-panda.com — turns photos into coloring pages and paint-by-number artworks, digital delivery. Link Online, Payment Status green (avg pay 68 days), no Exposure Level displayed. US. 90-day cookie. Member share 24.5%. Applied batch 139 (pending), approved and joined Nov 22, 2026.",
+   "notes": "Mimi Panda (Awin 84797). CM Default 35% verified (groups range 5%-35%: Commercial Plan 25%; coupon use reduces commission by the coupon %). mimi-panda.com \u2014 turns photos into coloring pages and paint-by-number artworks, digital delivery. Link Online, Payment Status green (avg pay 68 days), no Exposure Level displayed. US. 90-day cookie. Member share 24.5%. Applied batch 139 (pending), approved and joined Nov 22, 2026.",
    "regions": [
     "US"
    ],
@@ -1408,7 +1408,7 @@
    "id": "awin-upper-brand-97753",
    "name": "UPPER Brand",
    "network": "awin",
-   "notes": "UPPER Brand | Best Diaper Bag (Awin 97753). CM Default 20% verified (only group). upperbags.com — premium leather diaper bags and baby accessories, designed in NYC. Link Online, Payment Status green, no Exposure Level displayed. Regions: US only per the profile Regions section (program text claims global shipping, but the Regions section governs). 30-day cookie. Member share 14%. Applied batch 145, auto-accepted and joined Nov 22, 2026.",
+   "notes": "UPPER Brand | Best Diaper Bag (Awin 97753). CM Default 20% verified (only group). upperbags.com \u2014 premium leather diaper bags and baby accessories, designed in NYC. Link Online, Payment Status green, no Exposure Level displayed. Regions: US only per the profile Regions section (program text claims global shipping, but the Regions section governs). 30-day cookie. Member share 14%. Applied batch 145, auto-accepted and joined Nov 22, 2026.",
    "regions": [
     "US"
    ],
@@ -1423,7 +1423,7 @@
    "id": "awin-flags-connections-88425",
    "name": "Flags Connections",
    "network": "awin",
-   "notes": "Flags Connections (Awin 88425). CM Default 12% flat verified (only rate; matches headline). flagsconnections.com — flags and flag accessories, avg order $200. Link Online, Payment Status GREEN (accelerated; avg pay 73d), no Exposure Level displayed. US only. 60-day attribution. Member share 8.4%. Joined Nov 22, 2026 (approval email); verified and listed Nov 22, 2026.",
+   "notes": "Flags Connections (Awin 88425). CM Default 12% flat verified (only rate; matches headline). flagsconnections.com \u2014 flags and flag accessories, avg order $200. Link Online, Payment Status GREEN (accelerated; avg pay 73d), no Exposure Level displayed. US only. 60-day attribution. Member share 8.4%. Joined Nov 22, 2026 (approval email); verified and listed Nov 22, 2026.",
    "regions": [
     "US"
    ],
@@ -1438,7 +1438,7 @@
    "id": "awin-sailo-92667",
    "name": "SAILO",
    "network": "awin",
-   "notes": "SAILO (Awin 92667). CM Default is a RANGE 2%-10% with no exposed group breakdown; profile headline says 'up to 5% per sale' (AOV $1,600). sailo.com — boat and yacht rentals. Listed as 2%-10%, member 1.4%-7%; registry scalar 0.05 reflects the advertised per-sale headline, see range. Link Online, Payment Status GREEN (accelerated; avg pay 46d), no Exposure Level displayed. Regions: US only per the profile Regions field (boats in 50+ countries, but Regions governs). 60-day cookie. Joined Nov 22, 2026; verified and listed Nov 22, 2026.",
+   "notes": "SAILO (Awin 92667). CM Default is a RANGE 2%-10% with no exposed group breakdown; profile headline says 'up to 5% per sale' (AOV $1,600). sailo.com \u2014 boat and yacht rentals. Listed as 2%-10%, member 1.4%-7%; registry scalar 0.05 reflects the advertised per-sale headline, see range. Link Online, Payment Status GREEN (accelerated; avg pay 46d), no Exposure Level displayed. Regions: US only per the profile Regions field (boats in 50+ countries, but Regions governs). 60-day cookie. Joined Nov 22, 2026; verified and listed Nov 22, 2026.",
    "regions": [
     "US"
    ],
@@ -1573,7 +1573,7 @@
    "id": "awin-xlaserlab-118933",
    "name": "Xlaserlab",
    "network": "awin",
-   "notes": "Xlaserlab (Awin 118933). CM Default 3% verified (only rate group; cut from 5% on Nov 22, 2026 — CM governs over the profile's stale '5% Commission' text and the approval email figure). xlaserlab.com. Link Online, Exposure Level 2, Payment Status AMBER (avg pay 75d). US only. 90-day cookie. Member share 2.1%. Joined Nov 22, 2026; verified and listed Nov 22, 2026.",
+   "notes": "Xlaserlab (Awin 118933). CM Default 3% verified (only rate group; cut from 5% on Nov 22, 2026 \u2014 CM governs over the profile's stale '5% Commission' text and the approval email figure). xlaserlab.com. Link Online, Exposure Level 2, Payment Status AMBER (avg pay 75d). US only. 90-day cookie. Member share 2.1%. Joined Nov 22, 2026; verified and listed Nov 22, 2026.",
    "regions": [
     "US"
    ],
@@ -1588,7 +1588,7 @@
    "id": "awin-bonne-et-filou-59397",
    "name": "Bonne et Filou",
    "network": "awin",
-   "notes": "Bonne et Filou (Awin 59397). CM Default 20% verified (only rate group). bonneetfilou.com. Link Online, Payment Status GREEN (accelerated; avg pay 25d), no Exposure Level displayed. US only. 30-day cookie. Member share 14%. Joined Nov 22, 2026 (profile shows Joined; My Programs directory still listed it Pending at check time — directory lag, profile governs); verified and listed Nov 22, 2026.",
+   "notes": "Bonne et Filou (Awin 59397). CM Default 20% verified (only rate group). bonneetfilou.com. Link Online, Payment Status GREEN (accelerated; avg pay 25d), no Exposure Level displayed. US only. 30-day cookie. Member share 14%. Joined Nov 22, 2026 (profile shows Joined; My Programs directory still listed it Pending at check time \u2014 directory lag, profile governs); verified and listed Nov 22, 2026.",
    "regions": [
     "US"
    ],
@@ -1618,7 +1618,7 @@
    "id": "awin-rowabi-46127",
    "name": "Rowabi",
    "network": "awin",
-   "notes": "Rowabi (Awin 46127). CM Default 10% verified (Commission Manager Default group; profile text mentions 'up to 10%' / 'up to 8%' — CM governs). rowabi.com. Link Online, Payment Status GREEN (accelerated), no Exposure Level displayed. US only. Member share 7%. Auto-accepted on application; joined Nov 22, 2026; verified and listed Nov 22, 2026.",
+   "notes": "Rowabi (Awin 46127). CM Default 10% verified (Commission Manager Default group; profile text mentions 'up to 10%' / 'up to 8%' \u2014 CM governs). rowabi.com. Link Online, Payment Status GREEN (accelerated), no Exposure Level displayed. US only. Member share 7%. Auto-accepted on application; joined Nov 22, 2026; verified and listed Nov 22, 2026.",
    "regions": [
     "US"
    ],
@@ -1633,7 +1633,7 @@
    "id": "awin-teethnightguard-88527",
    "name": "TeethNightGuard.com",
    "network": "awin",
-   "notes": "TeethNightGuard.com (Awin 88527). CM Default 6% verified (timeline range runs to 20% and profile text mentions 12%/up to 20% — CM Default governs). teethnightguard.com. Link Online, Payment Status GREEN (avg pay 71d), no Exposure Level displayed. US only. Member share 4.2%. Joined Nov 22, 2026; verified and listed Nov 22, 2026.",
+   "notes": "TeethNightGuard.com (Awin 88527). CM Default 6% verified (timeline range runs to 20% and profile text mentions 12%/up to 20% \u2014 CM Default governs). teethnightguard.com. Link Online, Payment Status GREEN (avg pay 71d), no Exposure Level displayed. US only. Member share 4.2%. Joined Nov 22, 2026; verified and listed Nov 22, 2026.",
    "regions": [
     "US"
    ],
@@ -1663,7 +1663,7 @@
    "id": "awin-house-of-twist-120193",
    "name": "House of Twist",
    "network": "awin",
-   "notes": "House of Twist (Awin 120193) — the store is Twist Perfumes (twistperfumes.com); the 'Twist Perfumes' welcome email Nov 22 is this same program. CM Default 10% verified (a 'Coupon/Cashback' group at 2% exists — CM Default governs). EL1, Payment Status Amber (avg pay 62d), Link Online. US only. Member share 7%. Auto-accepted in batch 156; verified and listed Nov 22, 2026.",
+   "notes": "House of Twist (Awin 120193) \u2014 the store is Twist Perfumes (twistperfumes.com); the 'Twist Perfumes' welcome email Nov 22 is this same program. CM Default 10% verified (a 'Coupon/Cashback' group at 2% exists \u2014 CM Default governs). EL1, Payment Status Amber (avg pay 62d), Link Online. US only. Member share 7%. Auto-accepted in batch 156; verified and listed Nov 22, 2026.",
    "regions": [
     "US"
    ],
@@ -1723,7 +1723,7 @@
    "id": "awin-primeful-130555",
    "name": "Primeful",
    "network": "awin",
-   "notes": "Primeful (Awin 130555); the store is Hero of My Book (heroofmybook.com). CM Default 16% verified (profile text says 15% base; CM governs). EL1, Payment Status Amber, Link Online. US only. Member share 11.2%. Terms: incentivized purchases only outside an approved cashback/loyalty partnership are barred — Dark Money's Awin approval is that partnership. Auto-accepted in batch 159; verified and listed Nov 22, 2026.",
+   "notes": "Primeful (Awin 130555); the store is Hero of My Book (heroofmybook.com). CM Default 16% verified (profile text says 15% base; CM governs). EL1, Payment Status Amber, Link Online. US only. Member share 11.2%. Terms: incentivized purchases only outside an approved cashback/loyalty partnership are barred \u2014 Dark Money's Awin approval is that partnership. Auto-accepted in batch 159; verified and listed Nov 22, 2026.",
    "regions": [
     "US"
    ],
@@ -1768,7 +1768,7 @@
    "id": "awin-illadelph-spirits-119371",
    "name": "Illadelph Spirits",
    "network": "awin",
-   "notes": "Awin advertiser 119371 (Illadelph Spirits). Commission Manager Default 5% verified at fold-in (Nov 22, 2026; only commission group). Exposure Level 1, Amber payment status (avg pay 19d), Link Online. US. Alcohol (craft vodka) — listed per James's explicit approval Nov 22, 2026. Member share 70% = 3.5%.",
+   "notes": "Awin advertiser 119371 (Illadelph Spirits). Commission Manager Default 5% verified at fold-in (Nov 22, 2026; only commission group). Exposure Level 1, Amber payment status (avg pay 19d), Link Online. US. Alcohol (craft vodka) \u2014 listed per James's explicit approval Nov 22, 2026. Member share 70% = 3.5%.",
    "regions": [
     "US"
    ],
@@ -1783,7 +1783,7 @@
    "id": "awin-enjox-toys-111786",
    "name": "Enjox Toys",
    "network": "awin",
-   "notes": "Awin advertiser 111786 (Enjox Toys). Commission Manager Default 20% verified at fold-in (Nov 22, 2026; only commission group; a +5% new-affiliate bonus is mentioned in program text but has no CM group, not counted). Exposure Level not shown on profile; Payment Status Green (accelerated, avg pay 54d), Link Online. US. Adult toys — listed under James's Nov 22, 2026 legal-products rule. Member share 70% = 14%.",
+   "notes": "Awin advertiser 111786 (Enjox Toys). Commission Manager Default 20% verified at fold-in (Nov 22, 2026; only commission group; a +5% new-affiliate bonus is mentioned in program text but has no CM group, not counted). Exposure Level not shown on profile; Payment Status Green (accelerated, avg pay 54d), Link Online. US. Adult toys \u2014 listed under James's Nov 22, 2026 legal-products rule. Member share 70% = 14%.",
    "regions": [
     "US"
    ],
@@ -2400,7 +2400,7 @@
    "link_template": "https://www.anrdoezrs.net/click-101932824-10754888?sid={SID}",
    "name": "24-7PressRelease",
    "network": "cj",
-   "notes": "CJ advertiser 2898768 (24-7PressRelease.com — press release distribution). Auto-approved / joined instantly Nov 23, 2026 (CJ batch C1). Commission $15.00 flat per sale verified at fold-in (Nov 23, 2026). Terms: no cashback/incentivized-traffic ban; SEM keyword rules only. Serviceable area CA, GB, US. Member share 70% of $15 = $10.50.",
+   "notes": "CJ advertiser 2898768 (24-7PressRelease.com \u2014 press release distribution). Auto-approved / joined instantly Nov 23, 2026 (CJ batch C1). Commission $15.00 flat per sale verified at fold-in (Nov 23, 2026). Terms: no cashback/incentivized-traffic ban; SEM keyword rules only. Serviceable area CA, GB, US. Member share 70% of $15 = $10.50.",
    "regions": [
     "CA",
     "GB",
@@ -2420,7 +2420,7 @@
    "link_template": "https://www.anrdoezrs.net/click-101932824-15402815?sid={SID}",
    "name": "Abelssoft Int",
    "network": "cj",
-   "notes": "CJ advertiser 6260179 (Abelssoft — Windows optimization, security and multimedia software). Auto-approved / joined instantly Nov 23, 2026 (CJ batch C3). Default sale action commission 50.00% verified at fold-in (Nov 23, 2026) from the Active Partner Conditions; item list runs 40%/50%/60%/70% by product, 0% on 3rd-party products. Terms: no cashback/incentivized-traffic ban. Serviceable area worldwide. Member share 70% of 50% = 35%.",
+   "notes": "CJ advertiser 6260179 (Abelssoft \u2014 Windows optimization, security and multimedia software). Auto-approved / joined instantly Nov 23, 2026 (CJ batch C3). Default sale action commission 50.00% verified at fold-in (Nov 23, 2026) from the Active Partner Conditions; item list runs 40%/50%/60%/70% by product, 0% on 3rd-party products. Terms: no cashback/incentivized-traffic ban. Serviceable area worldwide. Member share 70% of 50% = 35%.",
    "regions": [
     "GLOBAL"
    ],
@@ -2438,7 +2438,7 @@
    "link_template": "https://www.anrdoezrs.net/click-101932824-17347770?sid={SID}",
    "name": "Winpig",
    "network": "cj",
-   "notes": "CJ advertiser 7950303 (Winpig T/A Searlco LTD — online prize competitions). Program Terms: 50.00% Website Purchase, 45-day referral; Incentivized Traffic explicitly Allowed. Verified at fold-in Nov 24, 2026. Member share 70% of 50% = 35%.",
+   "notes": "CJ advertiser 7950303 (Winpig T/A Searlco LTD \u2014 online prize competitions). Program Terms: 50.00% Website Purchase, 45-day referral; Incentivized Traffic explicitly Allowed. Verified at fold-in Nov 24, 2026. Member share 70% of 50% = 35%.",
    "regions": [
     "GB",
     "US"
@@ -2456,7 +2456,7 @@
    "link_template": "https://www.tkqlhce.com/click-101932824-15745181?sid={SID}",
    "name": "Snaps Clothing Inc",
    "network": "cj",
-   "notes": "CJ advertiser 6865557 (Snaps Clothing Inc — apparel). Program Terms: 5.00% Website Purchase, 45-day referral; Incentivized Traffic explicitly Allowed. Verified at fold-in Nov 24, 2026. Member share 70% of 5% = 3.5%.",
+   "notes": "CJ advertiser 6865557 (Snaps Clothing Inc \u2014 apparel). Program Terms: 5.00% Website Purchase, 45-day referral; Incentivized Traffic explicitly Allowed. Verified at fold-in Nov 24, 2026. Member share 70% of 5% = 3.5%.",
    "regions": [
     "US"
    ],
@@ -2473,7 +2473,7 @@
    "link_template": "https://www.dpbolvw.net/click-101932824-17205347?sid={SID}",
    "name": "Magzter",
    "network": "cj",
-   "notes": "CJ advertiser 5305397 (Magzter — digital magazine subscription service). Program Terms: 50.00% on Magzter GOLD / Free Trial Renewal (plus USD 5.00 per item on the Free Trial Renewal item list), 30.00% on other Magzter purchases, 30-day referral; Incentivized Traffic explicitly Allowed. Listed at the 50% tier. Verified at fold-in Nov 24, 2026. Member share 70% of 50% = 35%.",
+   "notes": "CJ advertiser 5305397 (Magzter \u2014 digital magazine subscription service). Program Terms: 50.00% on Magzter GOLD / Free Trial Renewal (plus USD 5.00 per item on the Free Trial Renewal item list), 30.00% on other Magzter purchases, 30-day referral; Incentivized Traffic explicitly Allowed. Listed at the 50% tier. Verified at fold-in Nov 24, 2026. Member share 70% of 50% = 35%.",
    "regions": [
     "AU",
     "CA",
@@ -2503,7 +2503,7 @@
    "link_template": "https://www.awin1.com/cread.php?awinmid=87327&awinaffid=3161005&clickref={SID}",
    "name": "TESmart",
    "network": "awin",
-   "notes": "Awin advertiser 87327 (TESmart — KVM switches / docking stations). Joined Nov 23, 2026; CM Default 10.00% verified Nov 24, 2026; Green, Link Online, US. Terms: Cashback and Loyalty Allowed. Member share 70% of 10% = 7%.",
+   "notes": "Awin advertiser 87327 (TESmart \u2014 KVM switches / docking stations). Joined Nov 23, 2026; CM Default 10.00% verified Nov 24, 2026; Green, Link Online, US. Terms: Cashback and Loyalty Allowed. Member share 70% of 10% = 7%.",
    "regions": [
     "US"
    ],
@@ -2537,7 +2537,7 @@
    "link_template": "https://www.awin1.com/cread.php?awinmid=65850&awinaffid=3161005&clickref={SID}",
    "name": "BIG Wall Decor",
    "network": "awin",
-   "notes": "Awin advertiser 65850 (Big Wall Decor (US) — wall art). Joined Nov 23, 2026; CM Default 10.00% verified Nov 24, 2026; Exposure Level 1, Link Online, US. Terms: Cashback and Loyalty Allowed. Member share 70% of 10% = 7%.",
+   "notes": "Awin advertiser 65850 (Big Wall Decor (US) \u2014 wall art). Joined Nov 23, 2026; CM Default 10.00% verified Nov 24, 2026; Exposure Level 1, Link Online, US. Terms: Cashback and Loyalty Allowed. Member share 70% of 10% = 7%.",
    "regions": [
     "US"
    ],
@@ -2554,7 +2554,7 @@
    "link_template": "https://www.awin1.com/cread.php?awinmid=71005&awinaffid=3161005&clickref={SID}",
    "name": "Dr. Tom Cowan",
    "network": "awin",
-   "notes": "Awin advertiser 71005 (Dr. Tom Cowan — wellness foods/supplements). Joined Nov 23, 2026; CM Default 15.00% verified Nov 24, 2026 (range 10-20%); Green, Link Online, US. Terms: Cashback and Loyalty Allowed. Member share 70% of 15% = 10.5%.",
+   "notes": "Awin advertiser 71005 (Dr. Tom Cowan \u2014 wellness foods/supplements). Joined Nov 23, 2026; CM Default 15.00% verified Nov 24, 2026 (range 10-20%); Green, Link Online, US. Terms: Cashback and Loyalty Allowed. Member share 70% of 15% = 10.5%.",
    "regions": [
     "US"
    ],
@@ -2571,7 +2571,7 @@
    "link_template": "https://www.awin1.com/cread.php?awinmid=114846&awinaffid=3161005&clickref={SID}",
    "name": "Propper",
    "network": "awin",
-   "notes": "Awin advertiser 114846 (Propper (US) — tactical apparel). Joined Nov 23, 2026; CM Default 5.50% verified Nov 24, 2026 (profile headline 13.5% is not the Default); Exposure Level 2, Link Online, US. Terms: Cashback and Loyalty Allowed. Member share 70% of 5.5% = 3.85%.",
+   "notes": "Awin advertiser 114846 (Propper (US) \u2014 tactical apparel). Joined Nov 23, 2026; CM Default 5.50% verified Nov 24, 2026 (profile headline 13.5% is not the Default); Exposure Level 2, Link Online, US. Terms: Cashback and Loyalty Allowed. Member share 70% of 5.5% = 3.85%.",
    "regions": [
     "US"
    ],
@@ -2588,7 +2588,7 @@
    "link_template": "https://www.awin1.com/cread.php?awinmid=22999&awinaffid=3161005&clickref={SID}",
    "name": "Billion Dollar Beauty",
    "network": "awin",
-   "notes": "Awin advertiser 22999 (Billion Dollar Beauty (US) — cosmetics). Joined Nov 23, 2026; CM Default 10.00% verified Nov 24, 2026; Exposure Level 1, Link Online, US. Terms: Cashback and Loyalty Allowed. Member share 70% of 10% = 7%.",
+   "notes": "Awin advertiser 22999 (Billion Dollar Beauty (US) \u2014 cosmetics). Joined Nov 23, 2026; CM Default 10.00% verified Nov 24, 2026; Exposure Level 1, Link Online, US. Terms: Cashback and Loyalty Allowed. Member share 70% of 10% = 7%.",
    "regions": [
     "US"
    ],
@@ -2605,7 +2605,7 @@
    "link_template": "https://www.awin1.com/cread.php?awinmid=126211&awinaffid=3161005&clickref={SID}",
    "name": "Irwin Naturals",
    "network": "awin",
-   "notes": "Awin advertiser 126211 (Irwin Naturals — supplements). Joined Nov 24, 2026; CM Default 10.00% verified Nov 24, 2026; Exposure Level 2, Link Online, US. Terms: Cashback and Loyalty Allowed. Member share 70% of 10% = 7%.",
+   "notes": "Awin advertiser 126211 (Irwin Naturals \u2014 supplements). Joined Nov 24, 2026; CM Default 10.00% verified Nov 24, 2026; Exposure Level 2, Link Online, US. Terms: Cashback and Loyalty Allowed. Member share 70% of 10% = 7%.",
    "regions": [
     "US"
    ],
@@ -2639,7 +2639,7 @@
    "link_template": "https://www.awin1.com/cread.php?awinmid=126207&awinaffid=3161005&clickref={SID}",
    "name": "MusclePharm",
    "network": "awin",
-   "notes": "Awin advertiser 126207 (MusclePharm — sports nutrition). Joined Nov 24, 2026; CM Default 10.00% verified Nov 24, 2026; Exposure Level 2, Link Online, US. Terms: Cashback and Loyalty Allowed. Member share 70% of 10% = 7%.",
+   "notes": "Awin advertiser 126207 (MusclePharm \u2014 sports nutrition). Joined Nov 24, 2026; CM Default 10.00% verified Nov 24, 2026; Exposure Level 2, Link Online, US. Terms: Cashback and Loyalty Allowed. Member share 70% of 10% = 7%.",
    "regions": [
     "US"
    ],
@@ -2656,7 +2656,7 @@
    "link_template": "https://www.awin1.com/cread.php?awinmid=109278&awinaffid=3161005&clickref={SID}",
    "name": "Lacros ebike",
    "network": "awin",
-   "notes": "Awin advertiser 109278 (Lacros ebike — folding e-bikes). Joined Nov 24, 2026; CM Default 8.00% verified Nov 24, 2026 (cut from 10% on Nov 23 per Awin rate-change notice); Green, Link Online, US. Terms: Cashback and Loyalty Allowed. Member share 70% of 8% = 5.6%.",
+   "notes": "Awin advertiser 109278 (Lacros ebike \u2014 folding e-bikes). Joined Nov 24, 2026; CM Default 8.00% verified Nov 24, 2026 (cut from 10% on Nov 23 per Awin rate-change notice); Green, Link Online, US. Terms: Cashback and Loyalty Allowed. Member share 70% of 8% = 5.6%.",
    "regions": [
     "US"
    ],
@@ -2690,7 +2690,7 @@
    "link_template": "https://www.awin1.com/cread.php?awinmid=127043&awinaffid=3161005&clickref={SID}",
    "name": "Wisephone",
    "network": "awin",
-   "notes": "Awin advertiser 127043 (Wisephone — minimalist phones). Joined Nov 23, 2026; CM Default USD 20.00 flat per sale verified Nov 24, 2026 (current segment Nov 23, 2026 to Jan 9, 2027; profile $40 figure is outdated); Exposure Level 2, Link Online, US. Terms: Cashback and Loyalty Allowed. Member share 70% of $20 = $14 flat.",
+   "notes": "Awin advertiser 127043 (Wisephone \u2014 minimalist phones). Joined Nov 23, 2026; CM Default USD 20.00 flat per sale verified Nov 24, 2026 (current segment Nov 23, 2026 to Jan 9, 2027; profile $40 figure is outdated); Exposure Level 2, Link Online, US. Terms: Cashback and Loyalty Allowed. Member share 70% of $20 = $14 flat.",
    "regions": [
     "US"
    ],
@@ -2707,7 +2707,7 @@
    "link_template": "https://www.awin1.com/cread.php?awinmid=124092&awinaffid=3161005&clickref={SID}",
    "name": "Golden Maple",
    "network": "awin",
-   "notes": "Awin advertiser 124092 (Golden Maple). Joined Nov 24, 2026; CM Default verified Nov 24, 2026: 10.00% promo Nov 24-30, 2026, then 5.00% from Dec 1, 2026 — listed at the durable 5.00%; Exposure Level 2, Link Online, US. Terms: Cashback and Loyalty Allowed. Member share 70% of 5% = 3.5%.",
+   "notes": "Awin advertiser 124092 (Golden Maple). Joined Nov 24, 2026; CM Default verified Nov 24, 2026: 10.00% promo Nov 24-30, 2026, then 5.00% from Dec 1, 2026 \u2014 listed at the durable 5.00%; Exposure Level 2, Link Online, US. Terms: Cashback and Loyalty Allowed. Member share 70% of 5% = 3.5%.",
    "regions": [
     "US"
    ],
@@ -2724,7 +2724,7 @@
    "link_template": "https://www.awin1.com/cread.php?awinmid=98153&awinaffid=3161005&clickref={SID}",
    "name": "Orolay",
    "network": "awin",
-   "notes": "Awin advertiser 98153 (Orolay — outerwear). Joined Nov 23, 2026; CM Default 12.00% verified Nov 24, 2026; Green, Link Online, US. Terms: the generic Allowed list omits Cashback/Loyalty, but the Additional Terms expressly state incentivised traffic is allowed only via cashback and loyalty/reward affiliates — the specific provision governs and allows Dark Money's model. Member share 70% of 12% = 8.4%.",
+   "notes": "Awin advertiser 98153 (Orolay \u2014 outerwear). Joined Nov 23, 2026; CM Default 12.00% verified Nov 24, 2026; Green, Link Online, US. Terms: the generic Allowed list omits Cashback/Loyalty, but the Additional Terms expressly state incentivised traffic is allowed only via cashback and loyalty/reward affiliates \u2014 the specific provision governs and allows Dark Money's model. Member share 70% of 12% = 8.4%.",
    "regions": [
     "US"
    ],
@@ -2741,7 +2741,7 @@
    "link_template": "https://www.awin1.com/cread.php?awinmid=131575&awinaffid=3161005&clickref={SID}",
    "name": "Bello Diamonds",
    "network": "awin",
-   "notes": "Awin advertiser 131575 (Bello Diamonds — jewelry). Joined Nov 24, 2026; CM Default 4.00% verified Nov 24, 2026 (VIP tiers up to 10% are not the Default); Green, Link Online, US. Terms: Cashback and Loyalty Allowed; profile names cashback and loyalty partners as ideal partners. Member share 70% of 4% = 2.8%.",
+   "notes": "Awin advertiser 131575 (Bello Diamonds \u2014 jewelry). Joined Nov 24, 2026; CM Default 4.00% verified Nov 24, 2026 (VIP tiers up to 10% are not the Default); Green, Link Online, US. Terms: Cashback and Loyalty Allowed; profile names cashback and loyalty partners as ideal partners. Member share 70% of 4% = 2.8%.",
    "regions": [
     "US"
    ],
@@ -2775,7 +2775,7 @@
    "link_template": "https://www.awin1.com/cread.php?awinmid=83139&awinaffid=3161005&clickref={SID}",
    "name": "Buture",
    "network": "awin",
-   "notes": "Awin advertiser 83139 (Buture — vacuums/home appliances). Joined both views; CM Default 8.00% verified Nov 24, 2026 (the row named Default governs over the 10% Default Commission Group); Green, Link Online, GB/US. Terms: Cashback and Loyalty Allowed. Member share 70% of 8% = 5.6%.",
+   "notes": "Awin advertiser 83139 (Buture \u2014 vacuums/home appliances). Joined both views; CM Default 8.00% verified Nov 24, 2026 (the row named Default governs over the 10% Default Commission Group); Green, Link Online, GB/US. Terms: Cashback and Loyalty Allowed. Member share 70% of 8% = 5.6%.",
    "regions": [
     "GB",
     "US"
@@ -2810,7 +2810,7 @@
    "link_template": "https://www.awin1.com/cread.php?awinmid=130903&awinaffid=3161005&clickref={SID}",
    "name": "JJNSOLAR",
    "network": "awin",
-   "notes": "Awin advertiser 130903 (JJNSOLAR — solar products). Joined both views; CM Default 15.00% verified Nov 24, 2026; Exposure Level 1, Link Online, US. Terms: Cashback and Loyalty Allowed. Member share 70% of 15% = 10.5%.",
+   "notes": "Awin advertiser 130903 (JJNSOLAR \u2014 solar products). Joined both views; CM Default 15.00% verified Nov 24, 2026; Exposure Level 1, Link Online, US. Terms: Cashback and Loyalty Allowed. Member share 70% of 15% = 10.5%.",
    "regions": [
     "US"
    ],
@@ -2827,7 +2827,7 @@
    "link_template": "https://www.awin1.com/cread.php?awinmid=108374&awinaffid=3161005&clickref={SID}",
    "name": "TopOak Overland",
    "network": "awin",
-   "notes": "Awin advertiser 108374 (TopOak Overland — rooftop tents/overland gear). Joined both views; CM Default 4.17% verified Nov 24, 2026; Green, Link Online, US. Terms: Cashback and Loyalty Allowed. Member share 70% of 4.17% = 2.9%.",
+   "notes": "Awin advertiser 108374 (TopOak Overland \u2014 rooftop tents/overland gear). Joined both views; CM Default 4.17% verified Nov 24, 2026; Green, Link Online, US. Terms: Cashback and Loyalty Allowed. Member share 70% of 4.17% = 2.9%.",
    "regions": [
     "US"
    ],
@@ -2878,7 +2878,7 @@
    "link_template": "https://www.awin1.com/cread.php?awinmid=106313&awinaffid=3161005&clickref={SID}",
    "name": "DeerRun UK",
    "network": "awin",
-   "notes": "Awin advertiser 106313 (DeerRun UK — treadmills). Joined both views; CM Default 8.00% verified Nov 24, 2026; Green, Link Online, GB/US. Terms: Cashback and Loyalty Allowed. Member share 70% of 8% = 5.6%.",
+   "notes": "Awin advertiser 106313 (DeerRun UK \u2014 treadmills). Joined both views; CM Default 8.00% verified Nov 24, 2026; Green, Link Online, GB/US. Terms: Cashback and Loyalty Allowed. Member share 70% of 8% = 5.6%.",
    "regions": [
     "GB",
     "US"
@@ -2913,7 +2913,7 @@
    "link_template": "https://www.awin1.com/cread.php?awinmid=77156&awinaffid=3161005&clickref={SID}",
    "name": "Gshopper",
    "network": "awin",
-   "notes": "Awin advertiser 77156 (Gshopper — cross-border marketplace). Joined both views; CM Default 3.00% verified Nov 24, 2026 (cut from 4% confirmed); Green, Link Online, 24 regions. Terms: Cashback and Loyalty Allowed. Member share 70% of 3% = 2.1%.",
+   "notes": "Awin advertiser 77156 (Gshopper \u2014 cross-border marketplace). Joined both views; CM Default 3.00% verified Nov 24, 2026 (cut from 4% confirmed); Green, Link Online, 24 regions. Terms: Cashback and Loyalty Allowed. Member share 70% of 3% = 2.1%.",
    "regions": [
     "BE",
     "BG",
@@ -2953,7 +2953,7 @@
    "link_template": "https://www.awin1.com/cread.php?awinmid=48247&awinaffid=3161005&clickref={SID}",
    "name": "3DMakerpro",
    "network": "awin",
-   "notes": "Awin advertiser 48247 (3DMakerpro (Global) — 3D scanners). Joined both views; CM Default 10.00% verified Nov 24, 2026; Green, Link Online; programme profile serviceable area US. Terms: Cashback and Loyalty Allowed. Member share 70% of 10% = 7%.",
+   "notes": "Awin advertiser 48247 (3DMakerpro (Global) \u2014 3D scanners). Joined both views; CM Default 10.00% verified Nov 24, 2026; Green, Link Online; programme profile serviceable area US. Terms: Cashback and Loyalty Allowed. Member share 70% of 10% = 7%.",
    "regions": [
     "US"
    ],
@@ -2987,7 +2987,7 @@
    "link_template": "https://www.awin1.com/cread.php?awinmid=124972&awinaffid=3161005&clickref={SID}",
    "name": "Hoshanho",
    "network": "awin",
-   "notes": "Awin advertiser 124972 (Hoshanho — knives). Joined both views; CM Default 15.00% verified Nov 24, 2026; Exposure Level 2, Link Online, US. Terms: Cashback Allowed (Loyalty not in the Allowed list — Cashback in the list satisfies the listing rule for Dark Money's cashback model). Member share 70% of 15% = 10.5%.",
+   "notes": "Awin advertiser 124972 (Hoshanho \u2014 knives). Joined both views; CM Default 15.00% verified Nov 24, 2026; Exposure Level 2, Link Online, US. Terms: Cashback Allowed (Loyalty not in the Allowed list \u2014 Cashback in the list satisfies the listing rule for Dark Money's cashback model). Member share 70% of 15% = 10.5%.",
    "regions": [
     "US"
    ],
@@ -3163,7 +3163,7 @@
    "link_template": "https://www.anrdoezrs.net/click-101932824-11830319?sid={SID}",
    "name": "Best Vet Care",
    "network": "cj",
-   "notes": "CJ advertiser 4247934 (Best Vet Care — pet supplies and pet care treatments, Dynasty Global Ltd). Status Active (auto-approved Nov 24, 2026). Program Terms list Incentivized Traffic: Allowed — verified at fold-in Nov 24, 2026. Commission 10% per sale. Serviceable area per the CJ advertiser detail (92 countries; Antarctica and the Asia/Pacific Region pseudo-entries excluded). Member share 70% of 10% = 7%.",
+   "notes": "CJ advertiser 4247934 (Best Vet Care \u2014 pet supplies and pet care treatments, Dynasty Global Ltd). Status Active (auto-approved Nov 24, 2026). Program Terms list Incentivized Traffic: Allowed \u2014 verified at fold-in Nov 24, 2026. Commission 10% per sale. Serviceable area per the CJ advertiser detail (92 countries; Antarctica and the Asia/Pacific Region pseudo-entries excluded). Member share 70% of 10% = 7%.",
    "regions": [
     "AF",
     "DZ",
@@ -3289,7 +3289,7 @@
    "link_template": "https://www.jdoqocy.com/click-101932824-17355561?sid={SID}",
    "name": "Arsynl RX",
    "network": "cj",
-   "notes": "CJ advertiser 8042071 (Arsynl RX). Status Active (accepted Nov 24, 2026). Program Terms list Incentivized Traffic: Allowed — verified at fold-in Nov 24, 2026. Commission 6% per purchase (performance tiers: 7% at $5,000 total sales, 8% at $10,000). US only per terms. Member share 70% of 6% = 4.2%.",
+   "notes": "CJ advertiser 8042071 (Arsynl RX). Status Active (accepted Nov 24, 2026). Program Terms list Incentivized Traffic: Allowed \u2014 verified at fold-in Nov 24, 2026. Commission 6% per purchase (performance tiers: 7% at $5,000 total sales, 8% at $10,000). US only per terms. Member share 70% of 6% = 4.2%.",
    "regions": [
     "US"
    ],
@@ -3307,7 +3307,7 @@
    "link_template": "https://www.dpbolvw.net/click-101932824-17240111?sid={SID}",
    "name": "ABC Wigs",
    "network": "cj",
-   "notes": "CJ advertiser 7704026 (ABC Wigs — Kanuco, Inc.). Status Active (accepted Nov 24, 2026). Program Terms list Incentivized Traffic: Allowed — verified at fold-in Nov 24, 2026. Commission 10% per website purchase. Serviceable area Canada and United States. Member share 70% of 10% = 7%.",
+   "notes": "CJ advertiser 7704026 (ABC Wigs \u2014 Kanuco, Inc.). Status Active (accepted Nov 24, 2026). Program Terms list Incentivized Traffic: Allowed \u2014 verified at fold-in Nov 24, 2026. Commission 10% per website purchase. Serviceable area Canada and United States. Member share 70% of 10% = 7%.",
    "regions": [
     "CA",
     "US"
@@ -3326,7 +3326,7 @@
    "link_template": "https://www.anrdoezrs.net/click-101932824-17037905?sid={SID}",
    "name": "Arangrant",
    "network": "cj",
-   "notes": "CJ advertiser 7226122 (Arangrant — TripRobotics Inc, flight booking). Status Active (accepted Nov 24, 2026). Program Terms list Incentivized Traffic: Allowed — verified at fold-in Nov 24, 2026. Commission $25 per air booking lead (tiers: $30 at 50+ actions, $35 at 100+, $40 at 150+). Member share 70% of $25 = $17.50.",
+   "notes": "CJ advertiser 7226122 (Arangrant \u2014 TripRobotics Inc, flight booking). Status Active (accepted Nov 24, 2026). Program Terms list Incentivized Traffic: Allowed \u2014 verified at fold-in Nov 24, 2026. Commission $25 per air booking lead (tiers: $30 at 50+ actions, $35 at 100+, $40 at 150+). Member share 70% of $25 = $17.50.",
    "regions": [
     "AU",
     "CA",
@@ -3398,7 +3398,7 @@
    "link_template": "https://www.jdoqocy.com/click-101932824-15734653?sid={SID}",
    "name": "Budget Pet Care",
    "network": "cj",
-   "notes": "CJ advertiser 4250177 (Budget Pet Care — pet medications and supplies). Status Active (auto-approved Nov 24, 2026, batch C37). Program Terms list Incentivized Traffic: Allowed — verified at fold-in Nov 24, 2026. Commission 10% on new and existing customer purchases, 30-day referral (Program Terms govern; the description's 'up to 13%' and 60-day cookie do not). Evergreen Link ID 15734653. Serviceable worldwide per CJ (conversions ~99% US). Member share 70% of 10% = 7%.",
+   "notes": "CJ advertiser 4250177 (Budget Pet Care \u2014 pet medications and supplies). Status Active (auto-approved Nov 24, 2026, batch C37). Program Terms list Incentivized Traffic: Allowed \u2014 verified at fold-in Nov 24, 2026. Commission 10% on new and existing customer purchases, 30-day referral (Program Terms govern; the description's 'up to 13%' and 60-day cookie do not). Evergreen Link ID 15734653. Serviceable worldwide per CJ (conversions ~99% US). Member share 70% of 10% = 7%.",
    "regions": [
     "GLOBAL"
    ],
@@ -3414,9 +3414,9 @@
    "commission_type": "percent",
    "id": "awin-fri-som-en-fagel-115116",
    "link_template": "https://www.awin1.com/cread.php?awinmid=115116&awinaffid=3161005&clickref={SID}",
-   "name": "Fri som en fågel",
+   "name": "Fri som en f\u00e5gel",
    "network": "awin",
-   "notes": "Awin advertiser 115116 (Fri som en fågel — Swedish digital budgeting tools, flagship The Budget Planner). Joined immediately Nov 24, 2026 (batch 203). Terms: Cashback and Loyalty in Allowed partner types, no cashback ban or gate; CM Default 25% governs — the Overview's 50% promotional rate through Nov 30, 2026 is NOT in Commission Manager and must never be listed or promised; digital products available globally, physical (Swedish) products ship within Sweden only; only Awin-listed active voucher codes may be used; Exposure Level 2. Member share 70% of 25% = 17.5%.",
+   "notes": "Awin advertiser 115116 (Fri som en f\u00e5gel \u2014 Swedish digital budgeting tools, flagship The Budget Planner). Joined immediately Nov 24, 2026 (batch 203). Terms: Cashback and Loyalty in Allowed partner types, no cashback ban or gate; CM Default 25% governs \u2014 the Overview's 50% promotional rate through Nov 30, 2026 is NOT in Commission Manager and must never be listed or promised; digital products available globally, physical (Swedish) products ship within Sweden only; only Awin-listed active voucher codes may be used; Exposure Level 2. Member share 70% of 25% = 17.5%.",
    "regions": [
     "GLOBAL"
    ],
@@ -3433,7 +3433,7 @@
    "link_template": "https://www.kqzyfj.com/click-101932824-15734672?sid={SID}",
    "name": "Canada Pet Care",
    "network": "cj",
-   "notes": "CJ advertiser 4247933 (Canada Pet Care — pet medications and supplies). Status Active (auto-approved Nov 24, 2026, batch C39). Program Terms list Incentivized Traffic: Allowed — verified at fold-in Nov 24, 2026. Commission: 10% base on new and existing customer purchases per Program Terms (description's 'up to 15%, 60-day cookie' does not govern; 15% is the top performance-incentive tier at $25,000 total sales; tiers 12% at $10,000, 13% at $15,000); 45-day referral. Serviceable worldwide (top converting US 99.58%). Member share 70% of 10% = 7%.",
+   "notes": "CJ advertiser 4247933 (Canada Pet Care \u2014 pet medications and supplies). Status Active (auto-approved Nov 24, 2026, batch C39). Program Terms list Incentivized Traffic: Allowed \u2014 verified at fold-in Nov 24, 2026. Commission: 10% base on new and existing customer purchases per Program Terms (description's 'up to 15%, 60-day cookie' does not govern; 15% is the top performance-incentive tier at $25,000 total sales; tiers 12% at $10,000, 13% at $15,000); 45-day referral. Serviceable worldwide (top converting US 99.58%). Member share 70% of 10% = 7%.",
    "regions": [
     "GLOBAL"
    ],
@@ -3467,7 +3467,7 @@
    "link_template": "https://www.awin1.com/cread.php?awinmid=115393&awinaffid=3161005&clickref={SID}",
    "name": "ANITA & ZAHA",
    "network": "awin",
-   "notes": "Awin advertiser 115393 (ANITA & ZAHA — French fashion label). Joined immediately Nov 24, 2026 (batch 209). Terms: Loyalty in Allowed partner types (Cashback not listed; no cashback ban or gate); the application disclosed the cashback model openly and was accepted instantly. CM Default 15% governs (matches the Overview's fixed 15%). Exposure Level 1. Member share 70% of 15% = 10.5%.",
+   "notes": "Awin advertiser 115393 (ANITA & ZAHA \u2014 French fashion label). Joined immediately Nov 24, 2026 (batch 209). Terms: Loyalty in Allowed partner types (Cashback not listed; no cashback ban or gate); the application disclosed the cashback model openly and was accepted instantly. CM Default 15% governs (matches the Overview's fixed 15%). Exposure Level 1. Member share 70% of 15% = 10.5%.",
    "regions": [
     "FR"
    ],
@@ -3484,7 +3484,7 @@
    "link_template": "https://www.awin1.com/cread.php?awinmid=115577&awinaffid=3161005&clickref={SID}",
    "name": "B'alam",
    "network": "awin",
-   "notes": "Awin advertiser 115577 (B'alam — US). Joined immediately Nov 24, 2026 (batch 213). Terms: Cashback in Allowed partner types (Loyalty also listed); Overview expressly welcomes voucher and cashback partners. CM Default 15% governs over the terms' 20% affiliate fee. First-click attribution (no last-click dedup overwrite). Exposure Level 1. Member share 70% of 15% = 10.5%.",
+   "notes": "Awin advertiser 115577 (B'alam \u2014 US). Joined immediately Nov 24, 2026 (batch 213). Terms: Cashback in Allowed partner types (Loyalty also listed); Overview expressly welcomes voucher and cashback partners. CM Default 15% governs over the terms' 20% affiliate fee. First-click attribution (no last-click dedup overwrite). Exposure Level 1. Member share 70% of 15% = 10.5%.",
    "regions": [
     "US"
    ],
@@ -3501,7 +3501,7 @@
    "link_template": "https://www.kqzyfj.com/click-101932824-10480547?sid={SID}",
    "name": "GameFly",
    "network": "cj",
-   "notes": "CJ advertiser 1132500 (GameFly — video game rental subscriptions). Auto-approved Nov 24, 2026 (batch P22); Program Terms list Incentivized Traffic: Allowed via the advertiser's specified incentivized link only — link ID 10480547 used (verified Nov 24). Commission: $5.00 flat per GameFly Subscription lead; the Item Sale action pays 0.00% — never list on it. Terms require a customer-service contact for incentive issues (james@strangefawkes.com). US only. Member share 70% of $5 = $3.50 flat per subscription.",
+   "notes": "CJ advertiser 1132500 (GameFly \u2014 video game rental subscriptions). Auto-approved Nov 24, 2026 (batch P22); Program Terms list Incentivized Traffic: Allowed via the advertiser's specified incentivized link only \u2014 link ID 10480547 used (verified Nov 24). Commission: $5.00 flat per GameFly Subscription lead; the Item Sale action pays 0.00% \u2014 never list on it. Terms require a customer-service contact for incentive issues (james@strangefawkes.com). US only. Member share 70% of $5 = $3.50 flat per subscription.",
    "regions": [
     "US"
    ],
@@ -3518,7 +3518,7 @@
    "link_template": "https://www.dpbolvw.net/click-101932824-15734454?sid={SID}",
    "name": "Flowers Fast",
    "network": "cj",
-   "notes": "CJ advertiser 231679 (Flowers Fast — flower delivery). Auto-approved Nov 24, 2026 (batch C60). Program Terms list Incentivized Traffic: Allowed — verified at fold-in Nov 24, 2026. Commission: 20% per sale, 45-day referral. Serviceable Canada and United States. Member share 70% of 20% = 14%.",
+   "notes": "CJ advertiser 231679 (Flowers Fast \u2014 flower delivery). Auto-approved Nov 24, 2026 (batch C60). Program Terms list Incentivized Traffic: Allowed \u2014 verified at fold-in Nov 24, 2026. Commission: 20% per sale, 45-day referral. Serviceable Canada and United States. Member share 70% of 20% = 14%.",
    "regions": [
     "US",
     "CA"
@@ -3536,7 +3536,7 @@
    "link_template": "https://www.awin1.com/cread.php?awinmid=115673&awinaffid=3161005&clickref={SID}",
    "name": "Kaytea",
    "network": "awin",
-   "notes": "Awin advertiser 115673 (Kaytea). Joined immediately Nov 24, 2026 (batch 216). Exposure Level 1. Commission Manager Default 8%. Cashback and Loyalty both in the terms' Preferred partner types; branding terms state all other promotion methods are accepted without restrictions. Note: the profile Overview was inconsistent (Spanish baby-products text on first load; organic cold brew iced tea after joining) — categorised Food & drink per the post-join Overview; verify the storefront at first sale.",
+   "notes": "Awin advertiser 115673 (Kaytea). Joined immediately Nov 24, 2026 (batch 216). Exposure Level 1. Commission Manager Default 8%. Cashback and Loyalty both in the terms' Preferred partner types; branding terms state all other promotion methods are accepted without restrictions. Note: the profile Overview was inconsistent (Spanish baby-products text on first load; organic cold brew iced tea after joining) \u2014 categorised Food & drink per the post-join Overview; verify the storefront at first sale.",
    "regions": [
     "GB"
    ],
@@ -3553,7 +3553,7 @@
    "link_template": "https://www.awin1.com/cread.php?awinmid=115685&awinaffid=3161005&clickref={SID}",
    "name": "Dryze Nederland",
    "network": "awin",
-   "notes": "Awin advertiser 115685 (Dryze Nederland — hair styling tools). Joined immediately Nov 24, 2026 (batch 216). Exposure Level 1. Commission Manager Default 12%. Cashback and Loyalty both in the terms' Preferred partner types; no ban or gate. Terms' commission-basis table conflicts with the Additional terms on what the commission base includes — noted only.",
+   "notes": "Awin advertiser 115685 (Dryze Nederland \u2014 hair styling tools). Joined immediately Nov 24, 2026 (batch 216). Exposure Level 1. Commission Manager Default 12%. Cashback and Loyalty both in the terms' Preferred partner types; no ban or gate. Terms' commission-basis table conflicts with the Additional terms on what the commission base includes \u2014 noted only.",
    "regions": [
     "NL"
    ],
@@ -3570,7 +3570,7 @@
    "link_template": "https://www.awin1.com/cread.php?awinmid=115697&awinaffid=3161005&clickref={SID}",
    "name": "Zozulu",
    "network": "awin",
-   "notes": "Awin advertiser 115697 (Zozulu — home decor, kitchen, automotive, lighting, furnishings). Joined immediately Nov 24, 2026 (batch 216). Exposure Level 2. Commission Manager Default 8% GOVERNS over the flat 10% stated in the Overview and terms prose. Overview expressly welcomes cashback platforms and loyalty websites. Member share 70% of 8% = 5.6%.",
+   "notes": "Awin advertiser 115697 (Zozulu \u2014 home decor, kitchen, automotive, lighting, furnishings). Joined immediately Nov 24, 2026 (batch 216). Exposure Level 2. Commission Manager Default 8% GOVERNS over the flat 10% stated in the Overview and terms prose. Overview expressly welcomes cashback platforms and loyalty websites. Member share 70% of 8% = 5.6%.",
    "regions": [
     "US"
    ],
@@ -3606,7 +3606,7 @@
    "link_template": "https://www.awin1.com/cread.php?awinmid=115739&awinaffid=3161005&clickref={SID}",
    "name": "Teddys Trove",
    "network": "awin",
-   "notes": "Awin advertiser 115739 (Teddys Trove — teddy bears and plush gifts). Joined immediately Nov 24, 2026 (batch 217). Exposure Level 1. Commission Manager Default 5% (matches the Overview). Cashback and Loyalty both in the terms' Preferred partner types. Caveats: advertiser requires prior approval of copy appearing in online/offline media; vouchers only via the Awin interface, full-price items only. Member share 70% of 5% = 3.5%.",
+   "notes": "Awin advertiser 115739 (Teddys Trove \u2014 teddy bears and plush gifts). Joined immediately Nov 24, 2026 (batch 217). Exposure Level 1. Commission Manager Default 5% (matches the Overview). Cashback and Loyalty both in the terms' Preferred partner types. Caveats: advertiser requires prior approval of copy appearing in online/offline media; vouchers only via the Awin interface, full-price items only. Member share 70% of 5% = 3.5%.",
    "regions": [
     "GB"
    ],
@@ -3623,7 +3623,7 @@
    "link_template": "https://www.awin1.com/cread.php?awinmid=115743&awinaffid=3161005&clickref={SID}",
    "name": "Plusshop FI",
    "network": "awin",
-   "notes": "Awin advertiser 115743 (Plusshop FI — Finnish general store). Joined immediately Nov 24, 2026 (batch 217). Exposure Level 2. Commission Manager Default EUR 12.00 flat CPA — the Overview's alternative 50%-of-basket model is an opt-in switch by message that was NOT taken; list on the EUR 12 CPA. Terms expressly welcome cashback and loyalty programs by name; no traffic restrictions. Member share 70% of EUR 12 = EUR 8.40.",
+   "notes": "Awin advertiser 115743 (Plusshop FI \u2014 Finnish general store). Joined immediately Nov 24, 2026 (batch 217). Exposure Level 2. Commission Manager Default EUR 12.00 flat CPA \u2014 the Overview's alternative 50%-of-basket model is an opt-in switch by message that was NOT taken; list on the EUR 12 CPA. Terms expressly welcome cashback and loyalty programs by name; no traffic restrictions. Member share 70% of EUR 12 = EUR 8.40.",
    "regions": [
     "FI"
    ],
@@ -3640,7 +3640,7 @@
    "link_template": "https://www.awin1.com/cread.php?awinmid=118585&awinaffid=3161005&clickref={SID}",
    "name": "Resume Corner, Inc.",
    "network": "awin",
-   "notes": "Awin advertiser 118585 (Resume Corner, Inc. — professional resume writing and career coaching). Joined immediately Nov 24, 2026 (batch 219). Exposure Level not shown on the live profile (directory CSV: none). Commission Manager Default USD 30.00 flat per sale (matches the Overview). Loyalty is in the terms' Allowed partner types (Cashback absent — Loyalty alone suffices); no cashback ban or gate. 365-day cookie. Member share 70% of USD 30 = USD 21.00.",
+   "notes": "Awin advertiser 118585 (Resume Corner, Inc. \u2014 professional resume writing and career coaching). Joined immediately Nov 24, 2026 (batch 219). Exposure Level not shown on the live profile (directory CSV: none). Commission Manager Default USD 30.00 flat per sale (matches the Overview). Loyalty is in the terms' Allowed partner types (Cashback absent \u2014 Loyalty alone suffices); no cashback ban or gate. 365-day cookie. Member share 70% of USD 30 = USD 21.00.",
    "regions": [
     "US"
    ],
@@ -4248,7 +4248,7 @@
    "link_template": "https://www.kqzyfj.com/click-101932824-17362273?sid={SID}",
    "name": "by Benson",
    "network": "cj",
-   "notes": "CJ advertiser 7909317 (by Benson AB, Sweden; bybenson.com, Garden). Advertiser OFFER accepted Nov 25, 2026 at James's word (acceptances allowed; submissions still stopped). The accepted offer governs: 5.00% on Website Purchase, 30-day referral — the 10% in the programme description is feature text, not the offer rate. Terms allow incentivized traffic (application-era verdict, pile). Member share 70% of 5% = 3.5%.",
+   "notes": "CJ advertiser 7909317 (by Benson AB, Sweden; bybenson.com, Garden). Advertiser OFFER accepted Nov 25, 2026 at James's word (acceptances allowed; submissions still stopped). The accepted offer governs: 5.00% on Website Purchase, 30-day referral \u2014 the 10% in the programme description is feature text, not the offer rate. Terms allow incentivized traffic (application-era verdict, pile). Member share 70% of 5% = 3.5%.",
    "regions": [
     "GLOBAL"
    ],
@@ -4268,15 +4268,50 @@
    "link_template": "https://www.anrdoezrs.net/click-101932824-17360179?sid={SID}",
    "name": "Magic Story",
    "network": "cj",
-   "notes": "CJ advertiser 8056181 (Magine Studios, Inc., US; magicstory.com — personalized storybooks for kids). Advertiser OFFER accepted Nov 25, 2026 at James's word after terms check: Program Terms list Incentivized Traffic: Allowed. CPA tiers: $27 per subscription, $20 per single book (new customer), $4 per single book (returning). Listed on the $27 subscription action. Member share 70%: $18.90 subscription / $14 new book / $2.80 returning. Evergreen link used (not the Nov 24–Dec 1 Black Friday link).",
+   "notes": "CJ advertiser 8056181 (Magine Studios, Inc., US; magicstory.com \u2014 personalized storybooks for kids). Advertiser OFFER accepted Nov 25, 2026 at James's word after terms check: Program Terms list Incentivized Traffic: Allowed. CPA tiers: $27 per subscription, $20 per single book (new customer), $4 per single book (returning). Listed on the $27 subscription action. Member share 70%: $18.90 subscription / $14 new book / $2.80 returning. Evergreen link used (not the Nov 24\u2013Dec 1 Black Friday link).",
    "regions": [
     "GLOBAL"
    ],
    "status": "approved",
    "store_url": "http://www.magicstory.com"
+  },
+  {
+   "active": true,
+   "affiliate_link_template": "https://www.jdoqocy.com/click-101932824-15734353?sid={SID}",
+   "approved_at": "2026-11-26",
+   "batch": "P36",
+   "category": "Travel",
+   "commission": "5%",
+   "commission_rate": 5,
+   "commission_type": "percent",
+   "id": "cj-holiday-autos",
+   "link_template": "https://www.jdoqocy.com/click-101932824-15734353?sid={SID}",
+   "name": "Holiday Autos",
+   "network": "cj",
+   "notes": "CJ advertiser 4532902 (Holiday Autos / holidayautos.com, car rental). AUTO-APPROVED on application in batch P36, Nov 26, 2026; Program Terms list Incentivized Traffic: Allowed. 5% on Consumed booking only (the Booking action itself is EUR 0, tracking only), 30-day referral. Member share 70% of 5% = 3.5%.",
+   "regions": [
+    "AU",
+    "CA",
+    "DK",
+    "FI",
+    "FR",
+    "GF",
+    "DE",
+    "GR",
+    "IE",
+    "NL",
+    "PL",
+    "PF",
+    "ES",
+    "SE",
+    "GB",
+    "US"
+   ],
+   "status": "approved",
+   "store_url": "https://www.holidayautos.com/"
   }
  ],
- "registry_version": 110,
+ "registry_version": 111,
  "service": "dark-money-link-service",
- "updated_at": "2026-11-25"
+ "updated_at": "2026-11-26"
 }
