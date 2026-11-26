@@ -4309,9 +4309,49 @@
    ],
    "status": "approved",
    "store_url": "https://www.holidayautos.com/"
+  },
+  {
+   "active": true,
+   "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=125180&awinaffid=3161005&clickref={SID}",
+   "approved_at": "2026-11-26",
+   "batch": "227",
+   "category": "Services",
+   "commission": "$120",
+   "commission_rate": 120,
+   "commission_type": "flat_usd",
+   "id": "awin-adwave-125180",
+   "link_template": "https://www.awin1.com/cread.php?awinmid=125180&awinaffid=3161005&clickref={SID}",
+   "name": "Adwave",
+   "network": "awin",
+   "notes": "Awin advertiser 125180 (Adwave \u2014 builds ads from a small business's website and runs them across streaming TV, Meta, Google, YouTube and Reddit; US). AUTO-APPROVED on application in batch 227, Nov 26, 2026; terms' Allowed list includes Cashback and Loyalty. Flat fee per new customer's first deposit: Commission Manager Default shows $150, but the terms schedule sets $120 from Nov 5, 2026 and $100 from Dec 5, 2026 \u2014 listed at the terms rate $120 (re-check Dec 5). Member share 70% of $120 = $84. Cookie 30 days.",
+   "regions": [
+    "US"
+   ],
+   "status": "approved",
+   "store_url": "https://waverunner.adwave.com/"
+  },
+  {
+   "active": true,
+   "affiliate_link_template": "https://www.awin1.com/cread.php?awinmid=125198&awinaffid=3161005&clickref={SID}",
+   "approved_at": "2026-11-26",
+   "batch": "227",
+   "category": "Sports",
+   "commission": "10%",
+   "commission_rate": 10,
+   "commission_type": "percent",
+   "id": "awin-meedo-designs-125198",
+   "link_template": "https://www.awin1.com/cread.php?awinmid=125198&awinaffid=3161005&clickref={SID}",
+   "name": "Meedo Designs",
+   "network": "awin",
+   "notes": "Awin advertiser 125198 (Meedo Designs \u2014 rooftop tents for overland car camping; US). AUTO-APPROVED on application in batch 227, Nov 26, 2026; terms' Allowed list includes Cashback and Loyalty. CM Default 10% governs (terms prose mentions up to 5% for coupon/other approved sites, but Commission Manager shows only the Default group). Member share 70% of 10% = 7%. Cookie 30 days.",
+   "regions": [
+    "US"
+   ],
+   "status": "approved",
+   "store_url": "https://www.meedodesigns.com/"
   }
  ],
- "registry_version": 111,
+ "registry_version": 112,
  "service": "dark-money-link-service",
  "updated_at": "2026-11-26"
 }
